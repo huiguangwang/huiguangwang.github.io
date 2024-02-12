@@ -8,7 +8,7 @@ title: 24Fall申请记录
 
 > **申请哲学：好好努力，心平气和，静候佳音**
 >
-> 更新时间：2023/02/13
+> 更新时间：2023/02/07
 
 笔者在2024Fall入学的申请季中，一共申请了英国的6所院校，共计9个项目。
 
@@ -38,7 +38,7 @@ title: 24Fall申请记录
 - **论文：**1篇水刊，2篇水会，1篇ccf-a会，1篇二区在审（均一作）
 - **竞赛：**数学建模美赛一等奖，4个国内比赛的国奖
 - **奖学金：**主持1项国家级大创基金SRT，厦航奖学金，能化奖学金，N个校内奖学金
-- **推荐信：**校内实验室大老板强推，海本院长强推，海本AP强推，剑桥教授模版推（只在套瓷用）
+- **推荐信：**校内实验室大老板强推，剑桥教授模版推，海本的副院长强推，海本的AP强推
 - **整体经历：**校内科研2段，剑桥暑研1段，工业实习1段
 
 <br>
@@ -134,15 +134,15 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 ## University of Cambridge
 
-- 12.05 Major-1 Submitted
-  - *Programme: MPhil in Engineering (Research), advised by Prof. Özgur B. Akan*
+- 12.05 Major-2 Submitted
+  - Programme: MPhil in Engineering (Research)
+    - Advisor: Özgur B. Akan
   - 12.05 Two References Reveived (before due)
   - 12.18 Under review by department
   - 01.30 (DC) Your application is under review by the Degree Committee
   - 02.01 (DP) Decision Pending - Your application is currently under review
-  - 02.09 (PAO) Review by the Postgraduate Admissions Office
 - 12.27 Major-2 Submitted
-  - *Programme: MPhil in Industrial Systems, Manufacture, and Management (ISMM)*
+  - Programme: MPhil in Industrial Systems, Manufacture, and Management (ISMM)
   - 12.27 Two References Reveived
   - 01.08 Under review by department
   - 02.01 Unsuccessful
@@ -163,12 +163,12 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 12月24号，正在考虑要不要投递呢🧐没找到很合适的program
 
-<br>12月27号，最后和老师商量了一下，决定不投递牛津的申请，全力冲刺剑桥
+<br>12月27号，最后和老师商量了一下，决定不投递牛津的申请，全力冲刺剑桥大学
 
 <br>原本方案中拟定的专业如下：
 
 - *MSc by Research in Engineering Science*
-  - 两年制的研究型项目，很特殊。招生人数极少。笔者的套瓷导师基本上石沉大海
+  - 两年制的研究型项目，很特殊。招生人数极少。笔者的套瓷导师基本上石沉大海。
   - 笔者在11月下旬才了解到，该专业近三年的招生人数都不超过5人！因此最后没有投递。
 - *MSc in Mathematical Modelling and Scientific Computing*
   - 要求本科需要上过ODE和PDE的课程，因为笔者没有强数学背景
@@ -183,7 +183,5 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 申请哲学：好好努力，心平气和，静候佳音！
 
 <br>一切都是最好的安排 🥰
-
-<br>欢迎通过微信与我交流～
 
 <br>![wechat](yrs.assets/wechat.png)

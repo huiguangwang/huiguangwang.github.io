@@ -1,24 +1,23 @@
-title: Hanlin Cai
+title: Huiguang Wang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
-
+url: https://huiguangwang.github.io
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Huiguang Wang
+  avatar: huiguang.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: whg0917@hnu.edu.cn
+  # cv: https:///wanghuiguang0917.github.io/file/CV_HuiguangWang.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  # twitter: lancecai2002
+  github: huiguangwang
+  # linkedin: hanlincai
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # bilibili: 594030035
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -28,7 +27,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -42,12 +41,14 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: Projects
+    url: /projects/
+  # - title: Teams
+  #   url: /teams/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
