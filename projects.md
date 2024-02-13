@@ -17,5 +17,5 @@ Target identification of stirrup joints is conducted using YOLOv8/CenterNet, wit
 - **<font color='red'>2020.03-2022.01:</font> National Undergraduate Training Program for Innovation and Entrepreneurship & Student Research Training Program**<br>
 Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis is performed on the composite beam bridge composed of vehicles and steel plates. Damping devices are designed for vibration control, and the load-bearing capacity of the steel beams is analyzed using ANSYS.
 
-- Structure /Bridge Design<br>
+- **Structure /Bridge Design**<br>
 Completed the conceptual design of a bridge, followed by 3D rendering using Lumion. Additionally, accomplished the architectural and structural design for two educational buildings.
