@@ -10,7 +10,7 @@ owner:
   avatar: huiguang.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: whg0917@hnu.edu.cn
-  cv: https://huiguangwang.top/file/CV_HuiguangWang.pdf
+  # cv: https://huiguangwang.top/file/CV_HuiguangWang.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: huiguangwang
@@ -44,6 +44,8 @@ links:
     url: /awards/
   - title: Projects
     url: /projects/
+  - title: Codes
+    url: /codes/
 
 
   # - title: Teams
