@@ -17,11 +17,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2022 - Present:**   Hunan University (Master)
 - **Sep 2018 - June 2022:** Hefei University of Technology (Bachelor)
 
-
-
 <br>
-
-
 
 ## Research Interests
 
