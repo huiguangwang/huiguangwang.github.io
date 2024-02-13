@@ -22,7 +22,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Intelligent Construction
-- Robotic Arm
+- Robotic Arm/Point Cloud
 - Applied Machine Learning
 
 
