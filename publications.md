@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 2024.2.12&nbsp;
+> Lastest Update: 2024.2.13&nbsp;
 
 ## Papers and Patents
 
