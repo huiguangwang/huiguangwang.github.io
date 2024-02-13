@@ -21,7 +21,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
----
+
 
 ## Research Interests
 
