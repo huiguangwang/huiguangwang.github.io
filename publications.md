@@ -10,14 +10,14 @@ title: Publications
 
 
 
-- Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. ISARC 2024(Under Review).<br>
+<!-- - Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. ISARC 2024(Under Review).<br>
 **Huiguang Wang**, Lu Deng, Ran Cao, Jingjing Guo.<br>
 
 - Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[J]. Automation In Construction(Under Review).<br>
 Lu Deng, **Huiguang Wang**,Ran Cao, Jingjing Guo.<br>
 
 - A welding method and system for steel-concrete composite structure connectors[P], CN 117102725 B, 2024-01-09.<br>
-Lu Deng, **Huiguang Wang**, Ran Cao, Xun Zuo.<br>
+Lu Deng, **Huiguang Wang**, Ran Cao, Xun Zuo.<br> -->
 
 - Vibration control for vehicle-bridge coupling of double main girder steel-concrete composite beam bridge based on PTMD[J]. Journal of Hefei University of Technology (Natural Science), 2022-09.<br>
 Dean Li, Zuocai Wang, **Huiguang Wang**, Dashuai Jin.<br>
