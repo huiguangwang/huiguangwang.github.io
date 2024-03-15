@@ -5,7 +5,7 @@ title: Demo
 ---
 
 - Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras 
-[[Click me](https://www.youtube.com/watch?v=nrdaXvO8dkE)]
+[**<font color='red'>[Click me]</font>**](https://www.youtube.com/watch?v=nrdaXvO8dkE)
 
 <br>
 <br>
