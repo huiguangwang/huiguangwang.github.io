@@ -10,8 +10,11 @@ Here is **Huiguang Wang (Figo, 王慧光)**.<br>
 I am a current Master's degree candidate in the Department of Intelligent Construction at Hunan University. Currently, I serve at the **Prof. Lu Deng's Group**, advised by [Prof. Lu Deng](https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19) and [Prof. Ran Cao](https://www.dengteam.com/index.php?m=content&c=index&a=show&catid=34&id=192).<br>
 I am passionate about **intelligent construction**, conducted in-depth investigations at the processing site of large-scale steel structures/concrete components and familiar with the development of various **robotic arms** and **structured light cameras**, aspire to alleviate the burden on workers through the utilization of robotic arms.<br>
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - **whg0917@hnu.edu.cn**<br>
+<p>
+	<div style="text-align:justify"> I am currently a researcher of <a href="http://hsslab.com/">State Key Laboratory of High-End Server and Storage Technology</a>, Inspur Electronic Information Industry Co., Ltd. Before that, I worked in KE Holdings Inc. and CloudMinds Technologies. I obtained my Master and PhD degrees of Computer Graphics from Beijing Normal Universtiy in Jun 2013 and Jan 2018, supervised by <a href="https://ai.bnu.edu.cn/xygk/szdw/zgj/556.html">Prof. Zhongke Wu</a> and <a href="https://ai.bnu.edu.cn/xygk/szdw/zgj/563.html">Prof. Mingquan Zhou</a>, respectively.
+</p>
 
-<div class="justify">I am a current Master's degree candidate in the Department of Intelligent Construction at Hunan University. Currently, I serve at the Prof. Lu Deng's Group, advised by Prof. Lu Dengand Prof. Ran Cao.</div><br/>
+
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
