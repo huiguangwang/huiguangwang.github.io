@@ -4,8 +4,8 @@ permalink: /code/index.html
 title: Code
 ---
 
-- Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras 
-[**<font color='red'>[Click me]</font>**](https://www.youtube.com/watch?v=nrdaXvO8dkE)
+- AutoCAD Plug-in: Automated Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras 
+[**<font color='red'>[Click me]</font>**](https://huiguangwang.top/file/AutoCAD_plug_in.rar)
 
 <br>
 <br>
