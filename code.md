@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /demo/index.html
+permalink: /code/index.html
 title: Code
 ---
 
