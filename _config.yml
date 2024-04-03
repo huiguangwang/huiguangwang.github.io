@@ -44,6 +44,8 @@ links:
     url: /awards/
   - title: Projects
     url: /projects/
+  - title: Code
+    url: /code/
   - title: Demo
     url: /demo/
 
