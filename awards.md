@@ -33,7 +33,6 @@ title: Awards
 
 
 ---
-</style>
 <div>
     <img src="/images/award.png">
 </div>
