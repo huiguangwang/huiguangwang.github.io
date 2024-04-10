@@ -67,7 +67,7 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
     <img src="/images/桥梁设计大赛.png">
 </div>
 
-**2.The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition**
+<!-- **2.The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition**
 [**<font color='red'>[Demo: Click me]</font>**](https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure)
 <style>
     img {
@@ -78,4 +78,4 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
 <div>
     <img src="/images/第三届全国大学生结构信息大赛.png">
 </div>
-<br> 
+<br>  -->
