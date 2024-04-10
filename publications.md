@@ -11,7 +11,7 @@ title: Publications
 
 
 <div style="text-align: justify;">
-  <p>- <strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo. Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. 2024 International Symposium on Automation and Robotics in Construction(ISARC 2024). </p>
+  <p>-<strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo. Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. 2024 International Symposium on Automation and Robotics in Construction(ISARC 2024). </p>
 </div>
 
 <div style="text-align: justify;">
