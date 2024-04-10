@@ -4,12 +4,13 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+
 > Lastest Update: 2024.4.10&nbsp;
 
-<!-- - **<font color='red'>2023.05-present:</font> Automated welding of shear sstuds on bridge steel-box beams guided by CAD 2D drawings for robotic arm application**<br>
+<!-- - **<font color='red'>2023.05-present:</font> Automated welding of shear studs on bridge steel-box beams guided by CAD 2D drawings for robotic arm application**<br>
 Secondary development of AutoCAD to extract processing information for shear studs from drawings and introducing a novel algorithm **Fast-Pixel-Matching** for supplementing missing elevation information in 2D drawings, addressing the challenges of complex modelilng with 3D detailed CAD models in existing equipment. -->
 
-- **<font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls**<br>
+<!-- - **<font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls**<br>
 Using Yolov9 for target identification and segmentation of complex rebar cage joints, fitting straight rebar, employing template matching for tie bar positioning, obtaining the actual 6DOF welding pose based on the spatial positions of straight rebar and tie bar. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.
 
 
@@ -78,4 +79,4 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
 <div>
     <img src="/images/第三届全国大学生结构信息大赛.png">
 </div>
-<br>
+<br> -->
