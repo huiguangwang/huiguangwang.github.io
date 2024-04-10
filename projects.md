@@ -17,6 +17,7 @@ title: Projects
   <img src="/images/workstation.png">
 </p>
 
+<br>
 
 <div style="text-align: justify;">
   <p><strong><font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV</strong></p>
@@ -26,7 +27,7 @@ title: Projects
 <p align="center">
   <img src="/images/ugv.png">
 </p>
-
+<br>
 
 
 <div style="text-align: justify;">
@@ -37,7 +38,7 @@ title: Projects
 <p align="center">
   <img src="/images/大创.png">
 </p>
-
+<br>
 
 
 - **Structure /Bridge Design**<br>
@@ -53,7 +54,6 @@ title: Projects
 <p align="center">
   <img src="/images/桥梁设计大赛.png">
 </p>
-
 
 
 <div style="text-align: justify;">
