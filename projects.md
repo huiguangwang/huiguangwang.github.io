@@ -20,7 +20,7 @@ Using Yolov9 for target identification and segmentation of complex rebar cage jo
     }
 </style>
 <div>
-    <img src="/images/Workstation.png">
+    <img src="/images/workstation.png">
 </div>
 <br>
 
@@ -53,4 +53,15 @@ Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis i
 
 
 - **Structure /Bridge Design**
-Completed the conceptual design of a bridge, followed by 3D rendering using Lumion. Additionally, accomplished the architectural and structural design for two educational buildings.
+**1.The 3rd Bridge Design Competition in Anhui Province**
+Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.
+<style>
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+<div>
+    <img src="/images/桥梁设计大赛.png">
+</div>
+<br>
