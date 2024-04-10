@@ -38,12 +38,12 @@ owner:
 links:
   - title: About Me
     url: /
+    - title: Projects
+  url: /projects/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Projects
-    url: /projects/
   - title: Code
     url: /code/
   - title: Demo
@@ -87,7 +87,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: figoWang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
