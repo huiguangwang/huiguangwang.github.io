@@ -13,17 +13,9 @@ Secondary development of AutoCAD to extract processing information for shear stu
 - **<font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls**<br>
 Using Yolov9 for target identification and segmentation of complex rebar cage joints, fitting straight rebar, employing template matching for tie bar positioning, obtaining the actual 6DOF welding pose based on the spatial positions of straight rebar and tie bar. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.
 
-<br>
-<style>
-    img {
-        display: block;
-        margin: 0 auto;
-    }
-</style>
-<div>
-    <img src="/images/workstation.png">
-</div>
-<br>
+<p align="center">
+  <img src="/images/workstation.png">
+</p>
 
 
 <!-- - **<font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV**<br>
