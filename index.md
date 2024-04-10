@@ -12,7 +12,7 @@ Here is Huiguang(Figo) Wang. I am a current Master's degree candidate in the Dep
 [Prof. Ran Cao](https://www.dengteam.com/index.php?m=content&c=index&a=show&catid=34&id=192)
 
 
-Here is Huiguang(Figo) Wang. I am a current Master's degree candidate in the Department of Intelligent Construction at Hunan University. Currently, I serve at the Prof. Lu Deng's Group, advised by [Prof. Lu Deng](https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19) and [Prof. Ran Cao](https://www.dengteam.com/index.php?m=content&c=index&a=show&catid=34&id=192).<br>
+
 
 I am passionate about **construction robotics**, familiar with various robotic arms and structured light cameras and aspire to alleviate the burden on workers through the utilization of robotic arms. My current research focuses on developing a welding robot and a rebar tying robot.<br>
 
