@@ -52,7 +52,6 @@ Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis i
 </div>
 <br>
 
-<!-- 
 
 - **Structure /Bridge Design**<br>
 
@@ -79,4 +78,4 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
 <div>
     <img src="/images/第三届全国大学生结构信息大赛.png">
 </div>
-<br> -->
+<br> 
