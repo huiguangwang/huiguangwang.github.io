@@ -41,7 +41,7 @@ Target identification of stirrup joints is conducted using YOLOv8/CenterNet, gui
 
 - **<font color='red'>2020.03-2022.01:</font> National Undergraduate Training Program for Innovation and Entrepreneurship & Student Research Training Program**<br>
 Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis is performed on the composite beam bridge composed of vehicles and steel plates. Damping devices are designed for vibration control, and the load-bearing capacity of the steel beams is analyzed using ANSYS.
-<style>
+<!-- <style>
     img {
         display: block;
         margin: 0 auto;
@@ -50,12 +50,12 @@ Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis i
 <div>
     <img src="/images/大创.png">
 </div>
-<br>
+<br> -->
 
 
-<!-- - **Structure /Bridge Design**<br> -->
+- **Structure /Bridge Design**<br>
 
-<!-- **1.The First Prize of the 3rd Bridge Design Competition in Anhui Province**
+**1.The First Prize of the 3rd Bridge Design Competition in Anhui Province**
 Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.
 <style>
     img {
@@ -65,11 +65,11 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
 </style>
 <div>
     <img src="/images/桥梁设计大赛.png">
-</div>  -->
+</div> 
 
 
 
-<!-- **2.The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition**
+**2.The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition**
 [**<font color='red'>[Demo: Click me]</font>**](https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure)
 <style>
     img {
@@ -80,4 +80,4 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
 <div>
     <img src="/images/第三届全国大学生结构信息大赛.png">
 </div>
-<br>  -->
+<br> 
