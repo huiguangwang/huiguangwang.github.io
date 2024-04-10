@@ -6,7 +6,6 @@ title: Projects
 
 
 > Lastest Update: 2024.4.11&nbsp;
-1234
 <!-- - **<font color='red'>2023.05-present:</font> Automated welding of shear studs on bridge steel-box beams guided by CAD 2D drawings for robotic arm application**<br>
 Secondary development of AutoCAD to extract processing information for shear studs from drawings and introducing a novel algorithm **Fast-Pixel-Matching** for supplementing missing elevation information in 2D drawings, addressing the challenges of complex modelilng with 3D detailed CAD models in existing equipment. -->
 
