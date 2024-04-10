@@ -5,8 +5,8 @@ title: Projects
 ---
 
 
-> Lastest Update: 2024.4.10&nbsp;
-
+> Lastest Update: 2024.4.11&nbsp;
+1234
 <!-- - **<font color='red'>2023.05-present:</font> Automated welding of shear studs on bridge steel-box beams guided by CAD 2D drawings for robotic arm application**<br>
 Secondary development of AutoCAD to extract processing information for shear studs from drawings and introducing a novel algorithm **Fast-Pixel-Matching** for supplementing missing elevation information in 2D drawings, addressing the challenges of complex modelilng with 3D detailed CAD models in existing equipment. -->
 
@@ -26,7 +26,7 @@ Using Yolov9 for target identification and segmentation of complex rebar cage jo
 <br>
 
 
-- **<font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV**<br>
+<!-- - **<font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV**<br>
 Target identification of stirrup joints is conducted using YOLOv8/CenterNet, guiding the robotic arm to tie the intersection joints of reinforcing cage. We integrated the UR10 robotic arm onto the unmanned vehicle Ranger to accomplish the tying of rebar cages.
 <style>
     img {
@@ -37,7 +37,7 @@ Target identification of stirrup joints is conducted using YOLOv8/CenterNet, gui
 <div>
     <img src="/images/ugv.png">
 </div>
-<br>
+<br> -->
 
 <!-- - **<font color='red'>2020.03-2022.01:</font> National Undergraduate Training Program for Innovation and Entrepreneurship & Student Research Training Program**<br>
 Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis is performed on the composite beam bridge composed of vehicles and steel plates. Damping devices are designed for vibration control, and the load-bearing capacity of the steel beams is analyzed using ANSYS. -->
