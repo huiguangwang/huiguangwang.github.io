@@ -56,7 +56,6 @@ Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis i
 - **Structure /Bridge Design**<br>
 
 **1.The First Prize of the 3rd Bridge Design Competition in Anhui Province**
-
 Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.
 <style>
     img {
@@ -67,7 +66,6 @@ Completed the conceptual design of a bridge, followed by 3D rendering using Lumi
 <div>
     <img src="/images/桥梁设计大赛.png">
 </div>
-<br>
 
 **2.The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition**
 
