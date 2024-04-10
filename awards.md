@@ -32,3 +32,9 @@ title: Awards
 - 2020.12：Merit Student
 
 
+---
+</style>
+<div>
+    <img src="/images/award.png">
+</div>
+<br>
