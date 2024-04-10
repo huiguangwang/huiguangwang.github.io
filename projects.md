@@ -19,8 +19,11 @@ Secondary development of AutoCAD to extract processing information for shear stu
 </p>
 
 
-- **<font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV**<br>
-Target identification of stirrup joints is conducted using YOLOv8/CenterNet, guiding the robotic arm to tie the intersection joints of reinforcing cage. We integrated the UR10 robotic arm onto the unmanned vehicle Ranger to accomplish the tying of rebar cages.
+<div style="text-align: justify;">
+  <p><strong><font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV</strong></p>
+  <p>Target identification of stirrup joints is conducted using YOLOv8/CenterNet, guiding the robotic arm to tie the intersection joints of reinforcing cage. We integrated the UR10 robotic arm onto the unmanned vehicle Ranger to accomplish the tying of rebar cages.</p>
+</div>
+
 
 <p align="center">
   <img src="/images/ugv.png">
@@ -28,8 +31,11 @@ Target identification of stirrup joints is conducted using YOLOv8/CenterNet, gui
 
 
 
-- **<font color='red'>2020.03-2022.01:</font> National Undergraduate Training Program for Innovation and Entrepreneurship & Student Research Training Program**<br>
-Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis is performed on the composite beam bridge composed of vehicles and steel plates. Damping devices are designed for vibration control, and the load-bearing capacity of the steel beams is analyzed using ANSYS. 
+<div style="text-align: justify;">
+  <p><strong><font color='red'>2020.03-2022.01:</font> National Undergraduate Training Program for Innovation and Entrepreneurship & Student Research Training Program</strong></p>
+  <p>Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis is performed on the composite beam bridge composed of vehicles and steel plates. Damping devices are designed for vibration control, and the load-bearing capacity of the steel beams is analyzed using ANSYS.</p>
+</div>
+
 
 <p align="center">
   <img src="/images/大创.png">
