@@ -3,10 +3,11 @@ layout: page
 ---
 
 
-<h2>About Me1</h2>
-<div style="text-align: justify;">
+<h2>About Me</h2>
 
-  <p><strong>Here is Huiguang(Figo) Wang.</strong> I am a current Master's degree candidate in the Department of Intelligent Construction at Hunan University. Currently, I serve at the Prof. Lu Deng's Group, advised by <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>Prof. Lu Deng</strong></a> and <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>Prof. Ran Cao</strong></a>.<p>
+
+<div style="text-align: justify;">
+  <p><strong>Here is Huiguang(Figo) Wang.</strong> I am a current Master's degree candidate in the Department of Intelligent Construction at Hunan University. Currently, I serve at the Prof. Lu Deng's Group, advised by <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>Prof. Lu Deng</strong></a> and <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>Prof. Ran Cao</strong></a>.</p>
 </div>
 
 
