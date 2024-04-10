@@ -25,7 +25,7 @@ Using Yolov9 for target identification and segmentation of complex rebar cage jo
 </div>
 <br>
 
-<!-- 
+
 - **<font color='red'>2023.10-2023.12:</font> Tying rebars at the intersection joints of reinforcing cage using robotic arm and UGV**<br>
 Target identification of stirrup joints is conducted using YOLOv8/CenterNet, guiding the robotic arm to tie the intersection joints of reinforcing cage. We integrated the UR10 robotic arm onto the unmanned vehicle Ranger to accomplish the tying of rebar cages.
 <style>
@@ -52,7 +52,7 @@ Utilizing dynamic analysis software, a coupled vehicle-bridge dynamic analysis i
 </div>
 <br>
 
-
+<!-- 
 
 - **Structure /Bridge Design**<br>
 
