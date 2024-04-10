@@ -3,20 +3,15 @@ layout: page
 ---
 
 
-<h2>About Me1</h2>
-
-<div style="text-align: justify: white-space: pre-wrap;">
+<h2>About Me</h2>
+<div style="text-align: justify;">
 
 <p><strong>Here is Huiguang(Figo) Wang.</strong> I am a current Master's degree candidate in the Department of Intelligent Construction at Hunan University. Currently, I serve at the Prof. Lu Deng's Group, advised by <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>Prof. Lu Deng</strong></a> and <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>Prof. Ran Cao</strong></a>.<p>
 
-</div>
+<p>I am passionate about construction robotics, familiar with various robotic arms and structured light cameras and aspire to alleviate the burden on workers through the utilization of robotic arms. My current research focuses on developing a welding robot and a rebar tying robot.</p>
 
+<p>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - <strong>whg0917@hnu.edu.cn</strong></p>
 
-
-<div style="text-align: justify: white-space: pre-wrap;">
-<p>I am passionate about construction robotics, familiar with various robotic arms and structured light cameras and aspire to alleviate the burden on workers through the utilization of robotic arms. My current research focuses on developing a welding robot and a rebar tying robot.
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - <strong>whg0917@hnu.edu.cn</strong></p>
-</div>
 <p><strong><font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!</strong></p>
 
 </div>
