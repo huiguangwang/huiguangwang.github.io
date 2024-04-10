@@ -10,26 +10,28 @@ title: Publications
 
 
 
-- Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. ISARC 2024.<br>
-**Huiguang Wang**, Lu Deng, Ran Cao, Jingjing Guo.<br>
+<div style="text-align: justify;">
+  <p>- Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. ISARC 2024.</p>
+  <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo.</p>
+  
+  <!-- <p>- Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[J]. Automation In Construction(Under Review).</p>
+  <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo.</p> -->
 
-<!-- - Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[J]. Automation In Construction(Under Review).<br>
-Lu Deng, **Huiguang Wang**,Ran Cao, Jingjing Guo.<br> -->
+  <p>- A welding method and system for steel-concrete composite structure connectors[P], CN 117102725 B, 2024-01-09.</p>
+  <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo.</p>
 
-- A welding method and system for steel-concrete composite structure connectors[P], CN 117102725 B, 2024-01-09.<br>
-Lu Deng, **Huiguang Wang**, Ran Cao, Xun Zuo.<br>
+  <p>- Vibration control for vehicle-bridge coupling of double main girder steel-concrete composite beam bridge based on PTMD[J]. Journal of Hefei University of Technology (Natural Science), 2022-09.</p>
+  <p>Dean Li, Zuocai Wang, <strong>Huiguang Wang</strong>, Dashuai Jin.</p>
 
-- Vibration control for vehicle-bridge coupling of double main girder steel-concrete composite beam bridge based on PTMD[J]. Journal of Hefei University of Technology (Natural Science), 2022-09.<br>
-Dean Li, Zuocai Wang, **Huiguang Wang**, Dashuai Jin.<br>
+  <p>- Research of the Comfort Level of Prefabricated Composite Steel Plate Beam Bridge Based on the Vibration Effect of Driving Vehicle[J]. Hans Journal of Civil Engineering, 2022-11.</p>
+  <p>Liheng Tang, <strong>Huiguang Wang</strong>, Zihao Zhou, Shuanglong Yan, Zuocai Wang.</p>
 
+  <p>- An energy-consuming support device for preventing web buckling of steel plate composite girder bridges[P]. CN 216838937 U, 2022-06-28.</p>
+  <p>Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <strong>Huiguang Wang</strong>.</p>
 
-- Research of the Comfort Level of Prefabricated Composite Steel Plate Beam Bridge Based on the Vibration Effect of Driving Vehicle[J]. Hans Journal of Civil Engineering, 2022-11.<br>
-Liheng Tang, **Huiguang Wang**, Zihao Zhou, Shuanglong Yan, Zuocai Wang.<br>
+  <p>- Coming soon!</p>
+</div>
 
-- An energy-consuming support device for preventing web buckling of steel plate composite girder bridges[P]. CN 216838937 U, 2022-06-28.<br>
-Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, **Huiguang Wang**.<br>
-
-- Coming soon!
 
 
 
