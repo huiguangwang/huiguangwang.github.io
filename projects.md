@@ -44,8 +44,7 @@ title: Projects
 
 
 <div style="text-align: justify;">
-  <p>1. The First Prize of the 3rd Bridge Design Competition in Anhui Province<br>
-  Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.</p>  
+  <p>1. The First Prize of the 3rd Bridge Design Competition in Anhui Province: Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.</p>  
 </div>
 
 
@@ -56,7 +55,7 @@ title: Projects
 
 
 <div style="text-align: justify;">
-  <p>2. The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition<br>
+  <p>2. The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition 
   <strong><a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure"><font color='red'>[Demo: Click me]</font></a></strong></p>
 </div>
 
