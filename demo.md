@@ -5,7 +5,7 @@ title: Demo
 ---
 
 <div style="text-align: justify;">
-  <p>- Automated Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras
+  <p>1. Automated Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras
   <strong><a href="https://www.youtube.com/watch?v=-3JwZIYJyXY&ab_channel=Figure"><font color='red'>[Click me]</font></a></strong></p>
 </div>
 
