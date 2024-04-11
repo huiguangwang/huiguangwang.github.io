@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
-> Lastest Update: 2024.1.12&nbsp;
+> Lastest Update: 2024.1.22&nbsp;
 
 <div style="text-align: justify;">
   <p align="center">
