@@ -5,7 +5,7 @@ title: Projects
 ---
 
 
-> Lastest Update: 2024.4.111&nbsp;
+> Lastest Update: 2024.4.11&nbsp;
 
 <div style="text-align: justify;">
   <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</strong><br>
