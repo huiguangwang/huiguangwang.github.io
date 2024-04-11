@@ -27,7 +27,7 @@ title: Publications
 </div>
 
 <div style="text-align: justify;">
-  <p>Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <strong>Huiguang Wang</strong>. An energy-consuming support device for preventing web buckling of steel plate composite girder bridges[P]. CN 216838937 U, 2022-06-28. .</p>
+  <p>Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <strong>Huiguang Wang</strong>. An energy-consuming support device for preventing web buckling of steel plate composite girder bridges[P]. CN 216838937 U, 2022-06-28.</p>
 </div>
 
 <div style="text-align: justify;">
