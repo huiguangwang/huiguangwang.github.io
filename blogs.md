@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /bodes/index.html
+permalink: /blogs/index.html
 title: Blogs
 ---
 
