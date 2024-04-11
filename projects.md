@@ -8,13 +8,11 @@ title: Projects
 > Lastest Update: 2024.4.111&nbsp;
 
 <div style="text-align: justify;">
-  <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</strong></p>
+  <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</strong><br>
   Using Yolov9 for target identification and segmentation of complex rebar cage joints, fitting straight rebar, employing template matching for tie bar positioning, obtaining the actual 6DOF welding pose based on the spatial positions of straight rebar and tie bar. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.
 </div>
 
 
-<p align="justify"><strong><font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</strong></p>
-<p align="justify">Using Yolov9 for target identification and segmentation of complex rebar cage joints, fitting straight rebar, employing template matching for tie bar positioning, obtaining the actual 6DOF welding pose based on the spatial positions of straight rebar and tie bar. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.</p>
 
 
 
