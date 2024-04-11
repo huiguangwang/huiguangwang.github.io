@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: /bodes/index.html
+title: Blogs
+---
+
+
+
+<div style="text-align: justify;">
+  <p>1. AutoCAD Plug-in: Automated Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras
+  <strong><a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar"><font color='red'>[Click me]</font></a></strong></p>
+</div>
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
