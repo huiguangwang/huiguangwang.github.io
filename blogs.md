@@ -50,7 +50,7 @@ title: Blogs
   <p align="center">
   <img src="blogs\picture\三一调研.jpg"> 
   <br>
-  <strong>202.4.6: 三一调研</strong></p>
+  <strong>2023.4.6: 三一调研</strong></p>
 </div>
 <br>
 
