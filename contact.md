@@ -14,7 +14,7 @@ title: Contact
   <p><strong>If you are interested in any aspect of me, I would love to chat and collaborate, please contact me!</strong><br>
   <strong>Email:</strong> whg0917@hnu.edu.cn<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;whghnu@gmail.com<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2514540675@qq.com
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2514540675@qq.com</p>
 </div>
 
 ---
