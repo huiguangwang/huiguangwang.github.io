@@ -17,8 +17,9 @@ title: Contact
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2514540675@qq.com</p>
 </div>
 
----
+
 <div style="text-align: justify;">
+<hr>
   <p><strong>If there are any copyright issues on the website, please let me know and I will handle it within 5 working days.</strong> </p>
 </div>
 
