@@ -20,7 +20,7 @@ title: Contact
 
 <div style="text-align: justify;">
 <hr>
-  <p><strong>If there are any copyright issues on the website, please let me know and I will handle it within 5 working days.</strong> </p>
+  <p>If there are any copyright issues on the website, please let me know and I will handle it within 5 working days.</p>
 </div>
 
 <br>
