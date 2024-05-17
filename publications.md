@@ -47,6 +47,7 @@ title: Publications
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
       <br/>
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
+      <br>
     </p>
   </div>
 </div>
