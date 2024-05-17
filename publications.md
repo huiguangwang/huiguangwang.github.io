@@ -10,9 +10,9 @@ title: Publications
 
 
 
-<div style="text-align: justify;">
+<!-- <div style="text-align: justify;">
   <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo. Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. 2024 International Symposium on Automation and Robotics in Construction(ISARC 2024). </p>
-</div>
+</div> -->
 
 <div style="text-align: justify;">
   <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo. A welding method and system for steel-concrete composite structure connectors[P], CN 117102725 B, 2024-01-09. </p>
@@ -34,15 +34,17 @@ title: Publications
   <p>Coming soon!</p>
 </div>
 
+
+
 <div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
-  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 220px; margin-right: 20px;"/>
+  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 0px;"/>
   <div>
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 5px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
-    <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo.
+    <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo
       <br/>
-      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
+      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
     </p>
@@ -50,3 +52,17 @@ title: Publications
 </div>
 
 
+<div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
+  <img src="/images\publication\patent.png" style="flex-shrink: 0; width: 200px; margin-right: 0px;"/>
+  <div>
+    <span style="color:#1772d0; display: block; margin-bottom: 5px;">
+      <b>A welding method and system for steel-concrete composite structure connectors</b>
+    </span>
+    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
+      <br/>
+      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
+      <br/>
+      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
+    </p>
+  </div>
+</div>
