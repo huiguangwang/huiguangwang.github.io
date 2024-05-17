@@ -35,20 +35,16 @@ title: Publications
 </div>
 
 <div style="margin-top:20px;margin-bottom:20px; text-align:justify;">
-  <img src="/blogs\picture\snow.jpg" style="float:left;width:200px;margin-right:20px;margin-top:10px;margin-bottom:50px"/>
-  Ziqi Wang, Florian Kennel-Maushart, <b>Yijiang Huang</b>, Bernhard Thomaszewski, Stelian Coros
+  <img src="/blogs\picture\snow.jpg" style="float:left;width:220px;margin-right:20px;margin-top:10px;margin-bottom:50px"/>
+  <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
   <br/>
-  &ldquo;<b>
-  A Temporal Coherent Topology Optimization Approach for Assembly Planning of Bespoke Frame Structures
-  </b>,&rdquo;
-  <br/>            
+  <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo.
+  <br/>        
   <i>ACM Transactions on Graphics (TOG)</i>, 2023.
   <br />
-  <a href="javascript:toggleBibtex('wang2023temporal')">[BibTeX]</a>
   <a href="../papers/SeqTO2023.pdf">[PDF]</a>
-  <a href="../papers/SeqTO2023_supplementary.pdf">[Supplementary]</a>
   <a href="https://youtu.be/VTFGXlluv04">[Video]</a>
-  <a href="https://youtu.be/HRmducDM7ws">[AR/Robot video]</a>
+
 
 </div>
 
