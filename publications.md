@@ -51,11 +51,11 @@ title: Publications
 
   <br>
 
----
+<!-- ---
 
 
 
-## Thesis
+## Thesis -->
 
 <!-- - Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
 
