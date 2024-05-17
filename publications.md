@@ -40,11 +40,10 @@ title: Publications
   <br/>
   <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo.
   <br/>        
-  <i>International Symposium on Automation and Robotics in Construction(ISARC)</i>, 2024.
+  <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
   <br />
   <!-- <a href="../papers/SeqTO2023.pdf">[PDF]</a> -->
   <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
-
 </div>
 
 
