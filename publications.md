@@ -35,15 +35,15 @@ title: Publications
 </div>
 
 <div style="margin-top:20px;margin-bottom:20px; text-align:justify;">
-  <img src="/blogs\picture\snow.jpg" style="float:left;width:220px;margin-right:20px;margin-top:10px;margin-bottom:50px"/>
-  <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
+  <img src="/images\publication\ISARC.png" style="float:left;width:220px;margin-right:20px;margin-top:10px;margin-bottom:50px"/>
+  <span style="color:#1772d0;"><b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b></span>
   <br/>
   <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo.
   <br/>        
-  <i>ACM Transactions on Graphics (TOG)</i>, 2023.
+  <i>International Symposium on Automation and Robotics in Construction(ISARC)</i>, 2024.
   <br />
-  <a href="../papers/SeqTO2023.pdf">[PDF]</a>
-  <a href="https://youtu.be/VTFGXlluv04">[Video]</a>
+  <!-- <a href="../papers/SeqTO2023.pdf">[PDF]</a> -->
+  <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
 
 
 </div>
