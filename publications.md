@@ -47,7 +47,7 @@ title: Publications
 
 <tr>
   <td style="padding:20px;width:25%;vertical-align:middle">
-    <img src="blogs\picture\graduate.jpg" alt="clean-usnob" width="160" height="160">
+    <img src="/blogs\picture\graduate.jpg" alt="clean-usnob" width="160" height="160">
   </td>
   <td width="75%" valign="middle">
     <a href="https://drive.google.com/file/d/1YvRx-4hrZoCk-nl6OgVJZlHAqOiN5hWq/view?usp=sharing">
