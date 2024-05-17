@@ -34,7 +34,7 @@ title: Publications
   <p>Coming soon!</p>
 </div>
 
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px; text-align: justify;">
+<div style="display: flex; align-items: center; text-align: justify;">
   <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 220px; margin-right: 20px;"/>
   <div>
     <span style="color:#1772d0; display: block; margin-bottom: 10px;"><b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b></span>
@@ -42,7 +42,7 @@ title: Publications
     <br/>
     <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
     <br/>
-    <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo11]</a></p>
+    <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a></p>
   </div>
 </div>
 
