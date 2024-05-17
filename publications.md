@@ -59,10 +59,6 @@ title: Publications
       <b>A welding method and system for steel-concrete composite structure connectors</b>
     </span>
     <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
-      <br/>
-      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
-      <br/>
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
     </p>
   </div>
 </div>
