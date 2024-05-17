@@ -37,7 +37,7 @@ title: Publications
 
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
-  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 0px;"/>
+  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div>
     <span style="color:#1772d0; display: block; margin-bottom: 5px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
@@ -53,7 +53,7 @@ title: Publications
 
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
-  <img src="/images\publication\patent.png" style="flex-shrink: 0; width: 200px; margin-right: 0px;"/>
+  <img src="/images\publication\patent.png" style="flex-shrink: 0; width: 150px; margin-right: 2px;"/>
   <div>
     <span style="color:#1772d0; display: block; margin-bottom: 5px;">
       <b>A welding method and system for steel-concrete composite structure connectors</b>
