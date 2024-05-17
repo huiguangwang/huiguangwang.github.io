@@ -36,36 +36,8 @@ title: Publications
 
 
 
-<div style="display: flex; align-items: top; justify-content: center; text-align: justify;">
-  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div>
-    <span style="color:#1772d0; display: block; margin-bottom: 5px;">
-      <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
-    </span>
-    <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo
-      <br/>
-      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
-      <br/>
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo1]</a>
-    </p>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: top; justify-content: center; text-align: justify;">
-  <img src="/images\publication\patent.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div>
-    <span style="color:#1772d0; display: block; margin-bottom: 5px;">
-      <b>A welding method and system for steel-concrete composite structure connectors</b>
-    </span>
-    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
-    </p>
-  </div>
-</div>
-
-
-<!-- <div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
-  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+<div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
+  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 220px; margin-right: 20px;"/>
   <div>
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
@@ -77,4 +49,5 @@ title: Publications
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
     </p>
   </div>
-</div> -->
+</div>
+
