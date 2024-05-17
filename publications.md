@@ -46,7 +46,7 @@ title: Publications
       <br/>
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
+      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo1]</a>
     </p>
   </div>
 </div>
@@ -62,3 +62,19 @@ title: Publications
     </p>
   </div>
 </div>
+
+
+<!-- <div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
+  <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div>
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
+    </span>
+    <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo.
+      <br/>
+      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024.
+      <br/>
+      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
+    </p>
+  </div>
+</div> -->
