@@ -45,11 +45,10 @@ title: Publications
   <!-- <a href="../papers/SeqTO2023.pdf">[PDF]</a> -->
   <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE">[Demo]</a>
 
-
 </div>
 
 
-  <br>
+
 
 <!-- ---
 
