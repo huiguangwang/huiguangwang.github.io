@@ -34,7 +34,24 @@ title: Publications
   <p>Coming soon!</p>
 </div>
 
-
+<div style="margin-top:20px;margin-bottom:20px">
+  <img src="/blogs\picture\snow.jpg" style="float:left;width:270px;margin-right:20px;margin-top:10px;margin-bottom:50px"/>
+  Ziqi Wang, Florian Kennel-Maushart, <b>Yijiang Huang</b>, Bernhard Thomaszewski, Stelian Coros
+  <br/>
+  &ldquo;<b>
+  A Temporal Coherent Topology Optimization Approach for Assembly Planning of Bespoke Frame Structures
+  </b>,&rdquo;
+  <br/>            
+  <i>ACM Transactions on Graphics (TOG)</i>, 2023.
+  <br />
+  <a href="javascript:toggleBibtex('wang2023temporal')">[BibTeX]</a>
+  <a href="../papers/SeqTO2023.pdf">[PDF]</a>
+  <a href="../papers/SeqTO2023_supplementary.pdf">[Supplementary]</a>
+  <a href="https://youtu.be/VTFGXlluv04">[Video]</a>
+  <a href="https://youtu.be/HRmducDM7ws">[AR/Robot video]</a>
+  <!-- <a href="https://github.com/gramaziokohler/integral_timber_joints">[Code]</a> -->
+  <!-- [Code coming soon!] -->
+</div>
 
 
   <br>
