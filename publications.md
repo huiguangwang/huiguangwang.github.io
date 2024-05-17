@@ -8,7 +8,7 @@ title: Publications
 
 ## Papers and Patents
 
-
+<!-- 
 
 <div style="text-align: justify;">
   <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo. Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]. 2024 International Symposium on Automation and Robotics in Construction(ISARC 2024). </p>
@@ -43,10 +43,23 @@ title: Publications
 
 
 
-## Thesis
+## Thesis -->
 
-<!-- - Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
+<tr>
+  <td style="padding:20px;width:25%;vertical-align:middle">
+    <img src="blogs\picture\graduate.jpg" alt="clean-usnob" width="160" height="160">
+  </td>
+  <td width="75%" valign="middle">
+    <a href="https://drive.google.com/file/d/1YvRx-4hrZoCk-nl6OgVJZlHAqOiN5hWq/view?usp=sharing">
+      <span class="papertitle">Cleaning the USNO-B Catalog Through Automatic Detection of Optical Artifacts</span>
+    </a>
+    <br>
+    <strong>Jonathan T. Barron</strong>, <a href="http://stumm.ca/">Christopher Stumm</a>, <a href="http://cosmo.nyu.edu/hogg/">David W. Hogg</a>, <a href="http://www.astro.princeton.edu/~dstn/">Dustin Lang</a>, <a href="http://cs.nyu.edu/~roweis/">Sam Roweis</a>
+    <br>
+    <em>The Astronomical Journal</em>, 135, 2008
+    <p>We use computer vision techniques to identify and remove diffraction spikes and reflection halos in the USNO-B Catalog.</p>
+    <p>In use at <a href="http://www.astrometry.net">Astrometry.net</a></p>
+  </td>
+</tr>
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
 
-  <br> -->
