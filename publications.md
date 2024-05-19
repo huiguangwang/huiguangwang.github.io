@@ -20,7 +20,7 @@ title: Publications
       <br/>        
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[PDF]</b></a>
+      <!-- <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[PDF]</b></a> -->
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
     </p>
   </div>
@@ -95,7 +95,8 @@ title: Publications
   <p>Coming soon!</p>
 </div>
 
-<!-- ## Thesis -->
+---
+## Thesis
 
 <!-- - Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
 
