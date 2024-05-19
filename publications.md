@@ -10,7 +10,7 @@ title: Publications
 
 
 
-<div style="text-align: justify;">
+<!-- <div style="text-align: justify;">
   <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo. <strong>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras[C]</strong>. <i>International Symposium on Automation and Robotics in Construction </i>(ISARC 2024). </p>
 </div>
 
@@ -39,7 +39,7 @@ title: Publications
 
   <br>
 
----
+--- -->
 
 
 
@@ -51,16 +51,15 @@ title: Publications
 
   <br> -->
 
-
-
-<div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/images/publication/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div>
+  <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
-    <p><strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo
-      <br/>
+    <p>
+      <strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo
+      <br/>        
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
@@ -70,14 +69,18 @@ title: Publications
 </div>
 
 
-<div style="display: flex; align-items: center; justify-content: center; text-align: justify;">
-  <img src="/images\publication\petent.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div>
+
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/images/publication/petent.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>A welding method and system for steel-concrete composite structure connectors</b>
+      <b>A welding method and system for steel-concrete composite structure connectors</b><br>(NO. CN 117102725 B, 2024-01-09)
     </span>
     <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
-      <br/>
+    <br>
+    <a href="/images\papers\shear_stud.pdf"><b>[PDF]</b></a>
     </p>
   </div>
 </div>
+
+
