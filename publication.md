@@ -22,7 +22,7 @@ title: Publication
       <br/>
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[PDF]</b></a>
       <a href="/publication\papers\Coming soon.pdf"><b>[Demo]</b></a>
-      <a href="https://youtu.be/FHx5QiLkGeM"><b>[Vedio]</b></a>
+      <a href="https://youtu.be/FHx5QiLkGeM"><b>[Presentation]</b></a>
     </p>
   </div>
 </div>
