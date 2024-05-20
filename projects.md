@@ -15,7 +15,7 @@ title: Projects
 
 
 <p align="center">
-  <img src="/images/workstation.png">
+  <img src="/projects\workstation.png">
 </p>
 
 <br>
@@ -26,7 +26,7 @@ title: Projects
 </div>
 
 <p align="center">
-  <img src="/images/ugv.png">
+  <img src="/projects\ugv.png">
 </p>
 <br>
 
@@ -37,7 +37,7 @@ title: Projects
 </div>
 
 <p align="center">
-  <img src="/images/大创.png">
+  <img src="/projects\大创.png">
 </p>
 <br>
 
@@ -53,7 +53,7 @@ title: Projects
 
 
 <p align="center">
-  <img src="/images/桥梁设计大赛.png">
+  <img src="/projects\桥梁设计大赛.png">
 </p>
 
 
@@ -63,5 +63,5 @@ title: Projects
 </div>
 
 <p align="center">
-  <img src="/images/第三届全国大学生结构信息大赛.png">
+  <img src="/projects\第三届全国大学生结构信息大赛.png">
 </p>
