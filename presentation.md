@@ -9,12 +9,13 @@ title: Presentation
     <img src="/presentation\ISARC2024_presentation.png" style="width: 200px;"/>
   </a>
   <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b><a href="https://youtu.be/FHx5QiLkGeM">Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</a></b>
+    <span style="display: block; margin-bottom: 10px;">
+      <b><a href="https://youtu.be/FHx5QiLkGeM" style="color: #1772d0;">Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</a></b>
     </span>
-    <p>      
+    <p>
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
     </p>
   </div>
 </div>
+
