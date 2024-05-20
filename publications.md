@@ -12,10 +12,10 @@ title: Publications
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px; font-size: 14px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
-    <p>
+    <p style="font-size: 14px;">
       <strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo
       <br/>        
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
@@ -31,10 +31,10 @@ title: Publications
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\patent_logo1.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px; font-size: 14px;">
       <b>A welding method and system for steel-concrete composite structure connectors</b><br>(NO. CN 117102725 B, 2024-01-09)
     </span>
-    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
+    <p style="font-size: 14px;">Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
     <br>
     <a href="/publication\papers\剪力钉专利.pdf"><b>[PDF]</b></a>
     </p>
@@ -45,10 +45,10 @@ title: Publications
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\李德安图片.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px; font-size: 14px;">
       <b>Vibration control for vehicle-bridge coupling of double main girder steel-concrete composite beam bridge based on PTMD</b>
     </span>
-    <p>
+    <p style="font-size: 14px;">
       Dean Li, Zuocai Wang, <strong>Huiguang Wang</strong>, Dashuai Jin
       <br/>        
       <i>Journal of Hefei University of Technology (Natural Science)</i>, 2022-09
@@ -62,10 +62,10 @@ title: Publications
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px; font-size: 14px;">
       <b>Research of the Comfort Level of Prefabricated Composite Steel Plate Beam Bridge Based on the Vibration Effect of Driving Vehicle</b>
     </span>
-    <p>
+    <p style="font-size: 14px;">
       Liheng Tang, <strong>Huiguang Wang</strong>, Zihao Zhou, Shuanglong Yan, Zuocai Wang
       <br/>        
       <i>Hans Journal of Civil Engineering</i>, 2022-11
@@ -78,10 +78,10 @@ title: Publications
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\patent_logo2.jpg" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px; font-size: 14px;">
       <b>An energy-consuming support device for preventing web buckling of steel plate composite girder bridges</b><br>(NO. CN 216838937 U, 2022-06-28)
     </span>
-    <p>Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <strong>Huiguang Wang</strong>
+    <p style="font-size: 14px;">Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <strong>Huiguang Wang</strong>
     <br>
     <a href="/publication\papers\一种钢板组合梁桥的防腹板屈曲的耗能支撑装置.pdf"><b>[PDF]</b></a>
     </p>
