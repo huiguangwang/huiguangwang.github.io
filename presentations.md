@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /presentation/index.html
-title: Presentation
+permalink: /presentations/index.html
+title: Presentations
 ---
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
