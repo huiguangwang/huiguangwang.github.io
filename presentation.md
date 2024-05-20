@@ -5,7 +5,9 @@ title: Presentation
 ---
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/presentation\ISARC2024_presentation.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <a href="https://youtu.be/FHx5QiLkGeM" style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/presentation\ISARC2024_presentation.png" style="width: 200px;"/>
+  </a>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b><a href="https://youtu.be/FHx5QiLkGeM">Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</a></b>
