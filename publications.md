@@ -20,8 +20,9 @@ title: Publications
       <br/>        
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
-      <!-- <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[PDF]</b></a> -->
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
+      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[PDF]</b></a>
+      <a href="/publication\papers\Coming soon.pdf"><b>[Demo]</b></a>
+      <a href="https://youtu.be/FHx5QiLkGeM"><b>[Vedio]</b></a>
     </p>
   </div>
 </div>
