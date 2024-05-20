@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /award/index.html
+title: Award
 ---
 
 > Lastest Update: 2024.2.12&nbsp;

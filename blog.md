@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /blog/index.html
+title: Blog
 ---
 > Lastest Update: 2024.1.22&nbsp;
 

@@ -38,20 +38,20 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
-  - title: Publications
-    url: /publications/
-  - title: Presentations
-    url: /presentations/
-  - title: Awards
-    url: /awards/
+  - title: Project
+    url: /project/
+  - title: Publication
+    url: /publication/
+  - title: Presentation
+    url: /presentation/
+  - title: Award
+    url: /award/
   - title: Code
     url: /code/
   - title: Demo
     url: /demo/
-  - title: Blogs
-    url: /blogs/
+  - title: Blog
+    url: /blog/
   - title: Contact
     url: /contact/
 
