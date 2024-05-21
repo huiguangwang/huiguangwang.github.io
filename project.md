@@ -9,13 +9,27 @@ title: Project
 
 <div style="text-align: justify;">
   <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</strong><br>
-  Using Yolov9 for target identification and segmentation of complex rebar cage joints, fitting straight rebar, employing template matching for tie bar positioning, obtaining the actual 6DOF welding pose based on the spatial positions of straight rebar and tie bar. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.</p>
+  Using Yolov9 for target identification and segmentation of complex rebar cage joints, processing point cloud data, predicting the actual 6DOF welding pose based on the spatial positions of straight rebar and tie bar. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.</p>
 </div>
 
 
 
 <p align="center">
   <img src="/projects\workstation.png">
+  <img src="/projects\rebar.png">
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+  <p><strong><font color='red'>2023.05-present:</font> Automated welding of shear studs on bridge steel-box beams guided by CAD 2D drawings for robotic arm application</strong><br>
+  We provide an AutoCAD plug-in for extracting the X-Y welding point coordinate of shear studs from CAD drawings and introducing a novel algorithm ‘Fast-Pixel-Matching’ (FPM) for supplementing missing Z-axis coordinate information in 2D drawings. Based our experiment, the FPM can shorten the positioning process of shear studs from 16.7 hours to 8.6 s for a complex structural component with 6000 studs.</p>
+</div>
+
+
+
+<p align="center">
+  <img src="/projects\shear_stud.png">
 </p>
 
 <br>
