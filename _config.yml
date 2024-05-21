@@ -38,9 +38,9 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Project
+  - title: Projects
     url: /project/
-  - title: Publication
+  - title: Publications
     url: /publication/
   - title: Presentation
     url: /presentation/
