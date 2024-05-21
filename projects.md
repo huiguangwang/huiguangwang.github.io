@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /project/index.html
+permalink: /projects/index.html
 title: Projects
 ---
 
