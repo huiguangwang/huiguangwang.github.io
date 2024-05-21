@@ -38,10 +38,10 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
-  - title: Publications
-    url: /publications/
+  - title: Project
+    url: /project/
+  - title: Publication
+    url: /publication/
   - title: Presentation
     url: /presentation/
   - title: Award
