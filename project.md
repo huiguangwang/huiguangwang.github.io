@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /project/index.html
-title: Project
+title: Projects
 ---
 
 

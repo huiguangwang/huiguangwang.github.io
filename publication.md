@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publication/index.html
-title: Publication
+title: Publications
 ---
 
 > Lastest Update: 2024.4.10&nbsp;
