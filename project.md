@@ -16,7 +16,8 @@ title: Project
 
 <p align="center">
   <img src="/projects\workstation.png">
-  <img src="/projects\rebar.png">
+  <!-- <br> -->
+  <!-- <img src="/projects\rebar.png" style="width: 600px"/> -->
 </p>
 
 <br>
@@ -29,7 +30,7 @@ title: Project
 
 
 <p align="center">
-  <img src="/projects\shear_stud.png">
+  <img src="/projects\shear_stud.png" style="width: 600px"/>
 </p>
 
 <br>
