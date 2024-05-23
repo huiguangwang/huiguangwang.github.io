@@ -3,7 +3,15 @@ layout: page
 permalink: /blog/index.html
 title: Blog
 ---
-> Lastest Update: 2024.1.22&nbsp;
+> Lastest Update: 2024.5.23&nbsp;
+
+<div style="text-align: justify;">
+  <p align="center">
+  <img src="/blogs\picture\团建.jpg"> 
+  <br>
+  <strong>2024.5.22: 团建</strong></p>
+</div>
+<br>
 
 <div style="text-align: justify;">
   <p align="center">
