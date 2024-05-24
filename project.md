@@ -8,19 +8,25 @@ title: Project
 > Lastest Update: 2024.4.11&nbsp;
 
 <div style="text-align: justify;">
-  <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</strong><br>
-  Using Yolov9 for target identification and segmentation of complex rebar cage joints, processing point cloud data, predicting the actual 6DOF welding pose based on scene point cloud data. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.</p>
+  <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex  joints in rebar cages for prefabricated concrete shear walls</strong><br>
+  Using Yolov9 for target identification and segmentation of complex rebar cage joints, processing point cloud data, predicting the actual 6DOF welding pose based on scene point cloud data. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.
+  <br/>
+  <a href="https://youtu.be/bmOHf3UX_T8"><b><font color='red'>[Demo: The Complex Joints Welding of Rebar Cage]</font></b></a>
+  </p>
 </div>
 
 
 
 <p align="center">
-  <img src="/projects\workstation.png">
+  <img src="/projects\welding.jpg">
   <!-- <br> -->
   <!-- <img src="/projects\rebar.png" style="width: 600px"/> -->
 </p>
 
 <br>
+
+
+
 
 <div style="text-align: justify;">
   <p><strong><font color='red'>2023.05-present:</font> Automated welding of shear studs on bridge steel-box beams guided by CAD 2D drawings for robotic arm application</strong><br>
