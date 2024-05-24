@@ -44,12 +44,12 @@ links:
     url: /publication/
   - title: Presentation
     url: /presentation/
-  - title: Award
-    url: /award/
-  - title: Code
-    url: /code/
+  # - title: Award
+  #   url: /award/
   - title: Demo
     url: /demo/
+  # - title: Code
+  #   url: /code/
   - title: Blog
     url: /blog/
   - title: Contact

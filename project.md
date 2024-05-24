@@ -5,7 +5,7 @@ title: Project
 ---
 
 
-> Lastest Update: 2024.4.11&nbsp;
+> Lastest Update: 2024.5.24&nbsp;
 
 <div style="text-align: justify;">
   <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex  joints in rebar cages for prefabricated concrete shear walls</strong><br>
