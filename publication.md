@@ -4,10 +4,39 @@ permalink: /publication/index.html
 title: Publication
 ---
 
-> Lastest Update: 2024.4.10&nbsp;
+> Lastest Update: 2024.6.26&nbsp;
 
 ## Papers and Patents
 
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/publication\picture\patent_logo1.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage (Under Review)</b>
+    </span>
+    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo
+    <br>
+    <!-- <a href="/publication\papers\剪力钉专利.pdf"><b>[PDF]</b></a> -->
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/publication\picture\第二篇文章.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras (Under Review)</b>
+    </span>
+    <p>
+      Lu Deng, <strong>Huiguang Wang</strong>,  Ran Cao, Jingjing Guo
+      <br/>        
+      <!-- <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024 -->
+      <br/>
+      <!-- <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"><b>[PDF]</b></a> -->
+      <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
