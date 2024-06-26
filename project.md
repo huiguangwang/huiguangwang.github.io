@@ -18,7 +18,7 @@ title: Project
 
 
 <p align="center">
-  <img src="/projects\welding.jpg">
+  <img src="/projects\welding.png">
   <!-- <br> -->
   <!-- <img src="/projects\rebar.png" style="width: 600px"/> -->
 </p>
