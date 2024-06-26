@@ -7,6 +7,14 @@ title: Blog
 
 <div style="text-align: justify;">
   <p align="center">
+  <img src="/blogs\picture\中为调研.jpg"> 
+  <br>
+  <strong>2024.6.18: 中为科建调研</strong></p>
+</div>
+<br>
+
+<div style="text-align: justify;">
+  <p align="center">
   <img src="/blogs\picture\团建.jpg"> 
   <br>
   <strong>2024.5.22: 团建</strong></p>
