@@ -11,7 +11,7 @@ title: Project
   <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex  joints in rebar cages for prefabricated concrete shear walls</strong><br>
   Using Yolov9 for target identification and segmentation of complex rebar cage joints, processing point cloud data, predicting the actual 6DOF welding pose based on scene point cloud data. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.
   <br/>
-  <a href="https://youtu.be/KacmurLmKFQ"><b><font color='red'>[Demo: The Complex Joints Welding of Rebar Cage]</font></b></a>
+  <a href="https://youtu.be/uixmualasgU"><b><font color='red'>[Demo: The Complex Joints Welding of Rebar Cage]</font></b></a>
   </p>
 </div>
 

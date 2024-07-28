@@ -4,18 +4,18 @@ permalink: /demo/index.html
 title: Demo
 ---
 
-> Lastest Update: 2024.5.24&nbsp;
+> Lastest Update: 2024.7.7&nbsp;
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://youtu.be/KacmurLmKFQ" style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/projects\welding.jpg" style="width: 200px;"/>
+  <a href="https://youtu.be/uixmualasgU" style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/projects\welding.png" style="width: 200px;"/>
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
-      <b><a href="https://youtu.be/KacmurLmKFQ" style="color: #1772d0;">Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</a></b>
+      <b><a href="https://youtu.be/uixmualasgU" style="color: #1772d0;">Automated welding of complex stirrup joints in reinforcement cages for prefabricated concrete shear walls</a></b>
     </span>
     <p>
-      <a href="https://youtu.be/KacmurLmKFQ" style="color: inherit; text-decoration: none;">The Complex Joints Welding of Rebar Cage
+      <a href="https://youtu.be/uixmualasgU" style="color: inherit; text-decoration: none;">The Complex Joints Welding of Rebar Cage
       </a>
       <br/>
     </p>

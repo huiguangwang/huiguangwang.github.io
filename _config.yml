@@ -50,8 +50,8 @@ links:
     url: /demo/
   # - title: Code
   #   url: /code/
-  - title: Blog
-    url: /blog/
+  # - title: Blog
+  #   url: /blog/
   - title: Contact
     url: /contact/
 
