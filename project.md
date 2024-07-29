@@ -29,7 +29,7 @@ title: Project
 
 
 <div style="text-align: justify;">
-  <p><strong><font color='red'>2023.05-present:</font> Automated robotic shear studs welding for steel-box beams bridge based on the integration of CAD 2D drawings and structured light camera</strong><br>
+  <p><strong><font color='red'>2023.05-present:</font> Automated robotic shear stud welding for steel-box beam bridges based on the integration of CAD 2D drawings and structured light camera</strong><br>
   We provide an AutoCAD plug-in for extracting the X-Y welding point coordinate of shear studs from CAD drawings and introducing a novel algorithm ‘Fast-Pixel-Matching’ (FPM) for supplementing missing Z-axis coordinate information in 2D drawings. Based our experiment, the FPM can shorten the positioning process of shear studs from 16.7 hours to 8.6 s for a complex structural component with 6000 studs.</p>
 </div>
 
