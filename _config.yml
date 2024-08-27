@@ -42,10 +42,11 @@ links:
     url: /project/
   - title: Publication
     url: /publication/
+  - title: Award
+    url: /award/
   - title: Presentation
     url: /presentation/
-  # - title: Award
-  #   url: /award/
+
   - title: Demo
     url: /demo/
   # - title: Code
