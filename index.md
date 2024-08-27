@@ -28,9 +28,9 @@ layout: page
   <li>Applied Machine Learning</li>
 </ul>
 
-<div style="text-align: justify;">
+<!-- <div style="text-align: justify;">
   <p><strong><font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!</strong></p>
-</div>
+</div> -->
 
 
 ---
