@@ -13,14 +13,14 @@ layout: page
   </p>
 </div>
 
-<h3>Academic Background</h3>
+<h4>Academic Background</h4>
 
 <ul>
   <li><strong>Sep 2022 - Present:</strong> Hunan University (Master)</li>
   <li><strong>Sep 2018 - June 2022:</strong> Hefei University of Technology (Bachelor)</li>
 </ul>
 
-<h3>Research Interests</h3>
+<h4>Research Interests</h4>
 
 <ul>
   <li>Intelligent Construction</li>
@@ -33,7 +33,7 @@ layout: page
 </div>
 
 
-
+---
 
 
 
