@@ -13,7 +13,20 @@ layout: page
   </p>
 </div>
 
+<h3>Academic Background</h3>
 
+<ul>
+  <li><strong>Sep 2022 - Present:</strong> Hunan University (Master)</li>
+  <li><strong>Sep 2018 - June 2022:</strong> Hefei University of Technology (Bachelor)</li>
+</ul>
+
+<h3>Research Interests</h3>
+
+<ul>
+  <li>Intelligent Construction</li>
+  <li>Robotic Arm/Welding robot</li>
+  <li>Applied Machine Learning</li>
+</ul>
 
 <div style="text-align: justify;">
   <p><strong><font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!</strong></p>
@@ -23,20 +36,7 @@ layout: page
 
 
 
-<h2>Academic Background</h2>
 
-<ul>
-  <li><strong>Sep 2022 - Present:</strong> Hunan University (Master)</li>
-  <li><strong>Sep 2018 - June 2022:</strong> Hefei University of Technology (Bachelor)</li>
-</ul>
-
-<h2>Research Interests</h2>
-
-<ul>
-  <li>Intelligent Construction</li>
-  <li>Robotic Arm/Welding robot</li>
-  <li>Applied Machine Learning</li>
-</ul>
 
 
 
