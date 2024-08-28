@@ -15,7 +15,7 @@ title: Demo
       <b><a href="https://youtu.be/uhDt7ZMQ2y8" style="color: #1772d0;">Automated rebar cage tying based on autonomous navigation unmanned ground vehicle</a></b>
     </span>
     <p>
-      <a href="https://youtu.be/uhDt7ZMQ2y8" style="color: inherit; text-decoration: none;">The tying of Rebar Cage
+      <a href="https://youtu.be/uhDt7ZMQ2y8" style="color: inherit; text-decoration: none;">The Tying of Rebar Cage
       </a>
       <br/>
     </p>
