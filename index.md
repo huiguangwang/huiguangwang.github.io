@@ -32,6 +32,11 @@ layout: page
   <p><strong><font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!</strong></p>
 </div> -->
 
+<div style="text-align: justify;">
+  <p align="center">
+  <img src="/index\index.png"></p>
+</div>
+<br>
 
 ---
 
