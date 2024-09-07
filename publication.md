@@ -115,9 +115,9 @@ title: Publication
     <p>
       Liheng Tang, <strong>Huiguang Wang</strong>, Zihao Zhou, Shuanglong Yan, Zuocai Wang
       <br/>        
-      <!-- <i>Hans Journal of Civil Engineering</i>, 2022-11 -->
-      <!-- <br/>
-      <a href="/publication\papers\基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.pdf"><b>[PDF]</b></a> -->
+      <i>Hans Journal of Civil Engineering</i>, 2022-11
+      <br/>
+      <a href="/publication\papers\基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.pdf"><b>[PDF]</b></a>
     </p>
   </div>
 </div>
