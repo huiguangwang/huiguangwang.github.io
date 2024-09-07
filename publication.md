@@ -24,7 +24,7 @@ title: Publication
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/publication\picture\patent_logo1.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <img src="/publication\picture\钢筋笼焊接专利.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage (Under Review)</b>
