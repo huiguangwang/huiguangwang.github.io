@@ -4,9 +4,22 @@ permalink: /publication/index.html
 title: Publication
 ---
 
-> Lastest Update: 2024.6.26&nbsp;
+> Lastest Update: 2024.9.7&nbsp;
 
 ## Papers and Patents
+
+<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="//demo\tyingUGV.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>AnyDirectTying: Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying (Under Review)</b>
+    </span>
+    <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong>
+    <br>
+    <!-- <a href="/publication\papers\剪力钉专利.pdf"><b>[PDF]</b></a> -->
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/publication\picture\patent_logo1.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
