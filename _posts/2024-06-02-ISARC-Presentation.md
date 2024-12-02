@@ -3,7 +3,7 @@ title: Presentation-ISARC2024 in Paris
 classes: wide
 date: 2024-06-02
 categories: 
-  - Tutorial
+  - Presentation
 last_modified_at: 2024-06-03
 ---
 <div style="text-align: center;">
