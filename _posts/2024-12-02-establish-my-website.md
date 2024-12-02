@@ -58,7 +58,7 @@ last_modified_at: 2024-12-02
   </p>
 
 <div style="text-align: justify;">
-  <p>If you have any questions, welcome to contact me without any hesitations at: whg0917@hnu.edu.cn
+  <p>If you have any questions, please contact me without any hesitations at: whg0917@hnu.edu.cn
   </p>
 </div>
 
