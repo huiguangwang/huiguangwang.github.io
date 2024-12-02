@@ -1,5 +1,5 @@
 ---
-title: Tutorial- This tutorial aims to teach you how to possess your personal website
+title: Tutorial-This tutorial aims to teach you how to possess your personal website
 classes: wide
 date: 2024-12-02
 categories: 
