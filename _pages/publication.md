@@ -33,9 +33,7 @@ last_modified_at: 2024-09-07
     </span>
     <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong>
     <br>
-    <!-- <b>[PDF]</b> 
-    <b>[Demo]</b>  -->
-    <!-- <a href="/publication\papers\剪力钉专利.pdf"><b>[PDF]</b></a> -->
+      <a href="https://www.youtube.com/watch?v=7VkRotXTWYA&list=PLHXybvFCWrYLfXiHWue_Mre6Mk0OO2tC2"><b>[Demo]</b></a>
     </p>
   </div>
 </div>
