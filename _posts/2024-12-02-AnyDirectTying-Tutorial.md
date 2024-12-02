@@ -14,7 +14,7 @@ last_modified_at: 2024-12-03
   <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong></p>
 
 <div style="text-align: justify;">
-  <p><strong>Abstract:</strong> This paper proposes an any-direction robotic rebar tying method (AnyDirectTying) for
+  <!-- <p><strong>Abstract:</strong> This paper proposes an any-direction robotic rebar tying method (AnyDirectTying) for
  6-DoF tying pose estimation using point cloud registration and a symmetry-aware tying
  strategy. The proposed AnyDirectTying begins with deep learning-based keypoint
  detection methods employed to extract the cropped point cloud of each rebar
@@ -27,7 +27,7 @@ last_modified_at: 2024-12-03
  technology to be applied to a wider range of reinforcement skeletons in 3D space,
  including rebars positioned horizontally, vertically, and inclined, thereby reducing the
  need for manual labor.
-  </p>
+  </p> -->
   <p><strong>Keywords:</strong> Rebar tying;  Any direction;  6-DoF tying pose;  point cloud registration;  Symmetry-aware
   </p>
 </div>
