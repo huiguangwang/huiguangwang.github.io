@@ -1,5 +1,5 @@
 ---
-title: Tutorial-How to apply FPM algorithm
+title: Tutorial-AnyDirectTying
 classes: wide
 date: 2024-12-02
 categories: 
@@ -28,7 +28,7 @@ last_modified_at: 2024-12-03
  including rebars positioned horizontally, vertically, and inclined, thereby reducing the
  need for manual labor.
   </p>
-  <p><strong>Keywords:</strong> Point positioning; 2D drawings; Supplementation of depth information; Stud welding; 3D vision
+  <p><strong>Keywords:</strong> Rebar tying;  Any direction;  6-DoF tying pose;  point cloud registration;  Symmetry-aware
   </p>
 </div>
 
