@@ -57,7 +57,11 @@ last_modified_at: 2024-12-02
   <a href="https://www.bilibili.com/video/BV1ja4y1G7tX/?spm_id_from=333.337.search-card.all.click&vd_source=423235ba3c8c6b4fb4962ae292f89130"><b>极简风学术网站完全指南｜Jekyll+Github Page]</b></a>
   </p>
 
-If you have any questions, welcome to contact me without any hesitations at: whg0917@hnu.edu.cn
+<div style="text-align: justify;">
+  <p>If you have any questions, welcome to contact me without any hesitations at: whg0917@hnu.edu.cn
+  </p>
+</div>
+
 </div>
 
 
