@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /presentation/index.html
+permalink: /presentation/
 title: Presentation
 classes: wide
 author_profile: true
@@ -10,7 +10,7 @@ last_modified_at: 2024-05-20
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/1HMwYa4aOio" style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/presentation\ISARC2024_presentation.png" style="width: 200px;"/>
+    <img src="/web_resources\presentation\ISARC2024_presentation.png" style="width: 200px;"/>
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">

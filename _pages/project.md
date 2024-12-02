@@ -20,7 +20,7 @@ last_modified_at: 2024-05-24
 
 
 <p align="center">
-  <img src="/project\welding_axis.png">
+  <img src="/web_resources\project\welding_axis.png">
   <!-- <br> -->
   <!-- <img src="/projects\rebar.png" style="width: 600px"/> -->
 </p>
@@ -38,7 +38,7 @@ last_modified_at: 2024-05-24
 
 
 <p align="center">
-  <img src="/project\shear_stud.png" style="width: 600px"/>
+  <img src="/web_resources\project\shear_stud.png" style="width: 600px"/>
 </p>
 
 <br>
@@ -49,7 +49,7 @@ last_modified_at: 2024-05-24
 </div>
 
 <p align="center">
-  <img src="/project\ugv.png">
+  <img src="/web_resources\project\ugv.png">
 </p>
 <br>
 
@@ -60,7 +60,7 @@ last_modified_at: 2024-05-24
 </div>
 
 <p align="center">
-  <img src="/project\大创.png">
+  <img src="/web_resources\project\大创.png">
 </p>
 <br>
 
@@ -76,7 +76,7 @@ last_modified_at: 2024-05-24
 
 
 <p align="center">
-  <img src="/project\桥梁设计大赛.png">
+  <img src="/web_resources\project\桥梁设计大赛.png">
 </p>
 
 
@@ -86,5 +86,5 @@ last_modified_at: 2024-05-24
 </div>
 
 <p align="center">
-  <img src="/project\第三届全国大学生结构信息大赛.png">
+  <img src="/web_resources\project\第三届全国大学生结构信息大赛.png">
 </p>

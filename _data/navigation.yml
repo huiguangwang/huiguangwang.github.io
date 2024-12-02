@@ -14,5 +14,7 @@ main:
     url: /presentation/
   - title: "Demo"
     url: /demo/
+  - title: "Tutorial"
+    url: /tutorial/
   - title: "Contact"
     url: /contact/

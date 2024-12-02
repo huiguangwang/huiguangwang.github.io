@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /award/index.html
+permalink: /award/
 classes: wide
 author_profile: true
 last_modified_at: 2024-11-28

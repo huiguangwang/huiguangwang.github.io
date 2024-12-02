@@ -1,5 +1,5 @@
 ---
-permalink: /demo/index.html
+permalink: /demo/
 title: Demo
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ last_modified_at: 2024-08-28
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/uhDt7ZMQ2y8" style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/demo\tyingUGV.png" style="width: 200px;"/>
+    <img src="/web_resources\demo\tyingUGV.png" style="width: 200px;"/>
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
@@ -26,7 +26,7 @@ last_modified_at: 2024-08-28
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/uixmualasgU" style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/project\welding.png" style="width: 200px;"/>
+    <img src="/web_resources\project\welding.png" style="width: 200px;"/>
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
@@ -42,7 +42,7 @@ last_modified_at: 2024-08-28
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/-3JwZIYJyXY?si=fh8XFqsYJz8_JuwO" style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/demo/剪力钉坐标提取demo.png" style="width: 200px;"/>
+    <img src="/web_resources\demo/剪力钉坐标提取demo.png" style="width: 200px;"/>
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
