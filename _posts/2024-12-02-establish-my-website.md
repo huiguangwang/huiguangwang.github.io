@@ -16,8 +16,8 @@ last_modified_at: 2024-12-02
   </p>
 </div>
 
-<div style="text-align: center; width: 400px;">
-  <img src="/web_resources/post/Snipaste_2024-12-02_22-19-51.png" alt="image">
+<div style="text-align: center; width: 800px;">
+  <img src="/web_resources/post/Snipaste_2024-12-02_22-19-51.png" />
 </div>
 
 <div style="text-align: justify;">
@@ -25,7 +25,7 @@ last_modified_at: 2024-12-02
   </p>
 </div>
 
-<div style="text-align: center; width: 400px;">
+<div style="text-align: center; width: 800px;">
   <img src="/web_resources/post/name.png" alt="image">
 </div>
 
@@ -34,7 +34,7 @@ last_modified_at: 2024-12-02
   </p>
 </div>
 
-<div style="text-align: center; width: 400px;">
+<div style="text-align: center; width: 800px;">
   <img src="/web_resources/post/修改分支.png" alt="image">
 </div>
 <div style="text-align: justify;">
