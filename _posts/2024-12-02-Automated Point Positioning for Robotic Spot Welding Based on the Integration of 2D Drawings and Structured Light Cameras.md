@@ -2,6 +2,8 @@
 title: Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras
 classes: wide
 date: 2024-12-02
+categories: Tutorial
+last_modified_at: 2024-12-03
 ---
 
 <div style="text-align: justify;">

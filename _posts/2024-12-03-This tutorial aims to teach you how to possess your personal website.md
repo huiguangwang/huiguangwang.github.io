@@ -2,6 +2,8 @@
 title: This tutorial aims to teach you how to possess your personal website
 classes: wide
 date: 2024-12-03
+categories: Tutorial
+last_modified_at: 2024-12-03
 ---
 
 <div style="text-align: justify;">
