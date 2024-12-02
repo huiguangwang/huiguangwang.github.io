@@ -256,8 +256,8 @@ pagination:
   tag: ''
   locale: ''
   trail:
-    before: 2
-    after: 2
+    before: 1
+    after: 1
 
 
 # Plugins (previously gems:)
