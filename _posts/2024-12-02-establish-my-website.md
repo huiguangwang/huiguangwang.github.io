@@ -10,35 +10,56 @@ last_modified_at: 2024-12-02
 
 
 <div style="text-align: justify;">
-  <p><strong>Abstract:</strong> Precise point positioning is crucial for implementing robotic spot welding. Traditional 2D drawings of structural components lack depth information, making them insufficient for guiding robotic welding. In this paper, an automated robotic welding framework was proposed for spot welding based on 2D drawings and structured light cameras. To enhance the efficiency of point positioning, a new algorithm was also developed with a spatial complexity level of log4(N), where N is the resolution of the image. Three different 3D cameras with distinct imaging principles were used in the experiments, and their performances were compared and discussed in detail. The proposed framework was validated against a scaled experiment, where the positioning accuracy by the proposed method met the code requirements. It was also found that the proposed vision-based welding approach could provide similar accuracy in welding orientation estimation as light section sensors but at a much lower cost.
+  <p><strong>第一步:</strong> 进入Github访问我的Github主页<a href="https://github.com/huiguangwang/huiguangwang.github.io"><b>[Click me to visit]</b></a>
   </p>
-  <p><strong>Keywords:</strong> Point positioning; 2D drawings; Supplementation of depth information; Stud welding; 3D vision
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <p style="color: red; font-size: 20px; font-weight: bold;">
-    All codes and tutorials will be open source after this paper is published.
+  <p><strong>第二步:</strong>Fork我的仓库
   </p>
 </div>
 
+<div style="text-align: center; width: 400px;">
+  <img src="/web_resources/post/Snipaste_2024-12-02_22-19-51.png" alt="image">
+</div>
+
+<div style="text-align: justify;">
+  <p><strong>第三步:</strong> 命名仓库
+  </p>
+</div>
+
+<div style="text-align: center; width: 400px;">
+  <img src="/web_resources/post/name.png" alt="image">
+</div>
+
+<div style="text-align: justify;">
+  <p><strong>第四步:</strong> 修改分支，稍等几分钟后访问:用户名.github.io即可完成网站的框架搭建
+  </p>
+</div>
+
+<div style="text-align: center; width: 400px;">
+  <img src="/web_resources/post/修改分支.png" alt="image">
+</div>
+<div style="text-align: justify;">
+  <p><strong>第五步: </strong>完成框架搭建后，可以着手按照以下教程完成各个模块的搭建
+  </p>
+</div>
 
 ---
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\第二篇文章.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras (Under Review)</b>
-    </span>
-    <p>
-      Lu Deng, <strong>Huiguang Wang</strong>,  Ran Cao, Jingjing Guo
-      <br/>        
-      <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
-      <!-- <a href="https://huiguangwang.top/file/Code_FPM.rar"><b>[Code]</b></a> -->
-      <br/>
-    </p>
-  </div>
+### 参考教程
+
+
+<div style="text-align: justify;">
+  <p><strong>Minimum Mistake:</strong>
+  <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"><b>[Tutorial]</b></a>
+  <a href="https://github.com/mmistakes/minimal-mistakes"><b>[Github Code]</b></a>
+  </p>
+
+
+  <p><strong>视频教程</strong>
+  <a href="https://www.bilibili.com/video/BV1ja4y1G7tX/?spm_id_from=333.337.search-card.all.click&vd_source=423235ba3c8c6b4fb4962ae292f89130"><b>极简风学术网站完全指南｜Jekyll+Github Page]</b></a>
+  </p>
+
 </div>
+
+
 
 
 
