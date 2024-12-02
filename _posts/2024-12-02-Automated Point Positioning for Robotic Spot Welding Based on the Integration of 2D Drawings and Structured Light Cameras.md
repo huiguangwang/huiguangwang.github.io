@@ -14,7 +14,7 @@ last_modified_at: 2024-12-03
 </div>
 
 <div style="text-align: center;">
-  <p><strong><font color='red', size="5">All codes and tutorial will be opened source after this paper being publicated.</font></strong>
+  <p><strong><font color='red', size='5'>All codes and tutorial will be opened source after this paper being publicated.</font></strong>
   </p>
 
 </div>
