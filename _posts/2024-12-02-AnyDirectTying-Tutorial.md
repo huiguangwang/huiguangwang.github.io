@@ -9,7 +9,7 @@ last_modified_at: 2024-12-03
 
 
 <div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">AnyDirectTying:Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying<br/>
+  <p style="font-size: 30px; font-weight: bold;">AnyDirectTying: Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying<br/>
   </p>
   <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong></p>
 
