@@ -18,7 +18,7 @@ last_modified_at: 2024-12-03
     <div class="publication-links">
       <!-- PDF Link. -->
       <span class="link-block">
-        <a href="https://arxiv.org/abs/2312.08344" class="external-link button is-normal is-rounded is-dark">
+        <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/" class="external-link button is-normal is-rounded is-dark">
           <span class="icon">
               <i class="fas fa-file-pdf"></i>
           </span>
@@ -26,17 +26,17 @@ last_modified_at: 2024-12-03
         </a>
       </span>
       <!-- Video Link. -->
-      <!-- <span class="link-block">
-        <a href="" class="external-link button is-normal is-rounded is-dark">
+      <span class="link-block">
+        <a href="https://www.youtube.com/channel/UCOJNJtpdv0rDlJ07e3yfwQQ" class="external-link button is-normal is-rounded is-dark">
           <span class="icon">
               <i class="fab fa-youtube"></i>
           </span>
           <span>Video</span>
         </a>
-      </span> -->
+      </span>
       <!-- Code Link. -->
       <span class="link-block">
-        <a href="https://github.com/NVlabs/FoundationPose" class="external-link button is-normal is-rounded is-dark">
+        <a href="https://github.com/huiguangwang" class="external-link button is-normal is-rounded is-dark">
           <span class="icon">
               <i class="fab fa-github"></i>
           </span>
