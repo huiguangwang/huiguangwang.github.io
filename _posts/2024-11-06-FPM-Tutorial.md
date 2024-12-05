@@ -56,7 +56,10 @@ last_modified_at: 2024-12-03
 <div style="text-align: center;">
   <p><strong>The first step: Extract 2D drawing coordinates information from .dwg files</strong>
   </p>
+</div>
 
+<div style="display: flex; justify-content: center; align-items: center; width: 600px; margin: 0 auto;">
+  <img src="/web_resources\post\FPM_paper\Snipaste_2024-12-05_15-43-40.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
 
 <div style="text-align: justify;">
@@ -124,10 +127,22 @@ FPM_code
 
   <p><strong>2. Transform 2D coordinates from local frame to world frame: </strong>Centers.csv file includes 2D welding coordinates in CAD frame, which can be extracted by the AutoCAD plug-in. Transformed_Centers.csv is the final results of running program: Cad2Base.py.<br>
 
-  <p><strong>3. Map 2D coordinates to 3D space: </strong>We provide two method in filefold 3_MainProgram, including Brute force search (BFS) and our method: Fast-Pixel-Matching (FPM). Actually, you just run BFS.py and FPM.py.<br>
+  <p><strong>3. Map 2D coordinates to 3D space: </strong>We provide two method in filefold 3_MainProgram, including Brute force search (BFS) and our method: Fast-Pixel-Matching (FPM). <font color='red'>Actually, you just run BFS.py and FPM.py.</font><br>
 
   </p>
 
+</div>
+
+
+<div style="text-align: justify;">
+  <p><strong>Finally, several typical results of FPM algorithm are shown below, compared with BFS method</strong><br>
+  </p>
+    <div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
+      <img src="/web_resources\post\FPM_paper\efficiency.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
+      <img src="/web_resources\post\FPM_paper\efficiency_table.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    </div>
 </div>
 
 
