@@ -123,14 +123,13 @@ FPM_code
 
 
 <div style="text-align: justify;">
-  <p><strong>1. Identify the circular marks: </strong>We recommend that just ultilize the results as shown in file: circle_info.txt. Because program: CenterExtract.py can be run when it connects with robotic arm and camera. Additionally, we draw the results of identification in mark.png.<br>
+  <p><strong>1. Identify the circular marks: </strong>We recommend that just ultilize the results as shown in file: circle_info.txt. Because program: CenterExtract.py can be run when it connects with robotic arm and camera. Additionally, we draw the results of identification in mark.png.<br></p>
 
-  <p><strong>2. Transform 2D coordinates from local frame to world frame: </strong>Centers.csv file includes 2D welding coordinates in CAD frame, which can be extracted by the AutoCAD plug-in. Transformed_Centers.csv is the final results of running program: Cad2Base.py.<br>
+  <p><strong>2. Transform 2D coordinates from local frame to world frame: </strong>Centers.csv file includes 2D welding coordinates in CAD frame, which can be extracted by the AutoCAD plug-in. Transformed_Centers.csv is the final results of running program: Cad2Base.py.<br></p>
 
   <p><strong>3. Map 2D coordinates to 3D space: </strong>We provide two method in filefold 3_MainProgram, including Brute force search (BFS) and our method: Fast-Pixel-Matching (FPM). <font color='red'>Actually, you just run BFS.py and FPM.py.</font><br>
 
   </p>
-
 </div>
 
 
