@@ -22,7 +22,7 @@ last_modified_at: 2024-12-03
 
 </div>
 
-  <br>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
