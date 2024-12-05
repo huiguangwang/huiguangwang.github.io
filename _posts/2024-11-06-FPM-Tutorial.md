@@ -53,8 +53,14 @@ last_modified_at: 2024-12-03
   </p>
 </div>
 
+<div style="text-align: center;">
+  <p><strong>The first step: Extract 2D drawing coordinates information from .dwg files</strong>
+  </p>
+
+</div>
+
 <div style="text-align: justify;">
-  <p><strong>The first step: </strong>Extract 2D drawing coordinates information from .dwg files<br>
+  
   In this stage, we provide an AutoCAD plug-in (pistion.dll) to extract 2d welding coordinates from 2d drawings based on C sharp programming language and Visual Studio 2019. Now, let us tell you how to compile .dll file and extract 2d welding coordinates in 2d drawings.<br>
   <strong>1. Compile .dll file: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 11. After that, you can compile .dll file<br>
 
@@ -68,6 +74,20 @@ last_modified_at: 2024-12-03
   </p>
 
 </div>
+
+<div style="text-align: center;">
+  <p><strong>The second step: Map 2D welding coordinates to 3D space: FPM algorithm</strong>
+  </p>
+</div>
+
+<div style="text-align: justify;">
+  
+  <p>
+  We have open sourced all codes in Github, and the structure of program as shown below <br>
+  </p>
+
+</div>
+
 
 ```bash
 FPM_code
@@ -100,12 +120,11 @@ FPM_code
 
 
 <div style="text-align: justify;">
-  <p><strong>The second step: </strong>Map 2D welding coordinates to 3D space: FPM algoritm<br>
+  <p><strong>1. Identify the circular marks: </strong>We recommend that just ultilize the results as shown in file: circle_info.txt. Because program: CenterExtract.py can be run when it connects with robotic arm and camera. Additionally, we draw the results of identification in mark.png.<br>
 
-  We usually adopt four circular marks as a mark board, actually only three circular will be utilized. In this stage, we adopt Hough Transformation Method to recognize the circular marks.<br>
-  <strong>1. Compile .dll file: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 11. After that, you can compile .dll file<br>
+  <p><strong>2. Transform 2D coordinates from local frame to world frame: </strong>Centers.csv file includes 2D welding coordinates in CAD frame, which can be extracted by the AutoCAD plug-in. Transformed_Centers.csv is the final results of running program: Cad2Base.py.<br>
 
-
+  <p><strong>3. Map 2D coordinates to 3D space: </strong>We provide two method in filefold 3_MainProgram, including Brute force search (BFS) and our method: Fast-Pixel-Matching (FPM). Actually, you just run BFS.py and FPM.py.<br>
 
   </p>
 
