@@ -131,7 +131,7 @@ FPM_code
 
 
 <div style="text-align: justify;">
-  <p><strong>Finally, several typical results of FPM algorithm are shown below, compared with BFS method</strong><br>
+  <p><strong>Finally, several typical results of FPM algorithm are shown below, compared with BFS method.</strong><br>
   </p>
     <div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
       <img src="/web_resources\post\FPM_paper\efficiency.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
@@ -142,6 +142,13 @@ FPM_code
 </div>
 
 
+
+
+<div style="text-align: center;">
+  <p style="color: red; font-size: 25px; font-weight: bold;">
+    If you have any questions, please contact me without any hesitations at: whg0917@hnu.edu.cn
+  </p>
+</div>
 
 
 
