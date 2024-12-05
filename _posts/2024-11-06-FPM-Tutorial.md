@@ -17,9 +17,6 @@ last_modified_at: 2024-12-03
   <p style="margin-top: 10px;">College of Civil Engineering, Hunan University, Changsha 410082, PR China</p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 200px; margin: 0 auto;">
-  <a href="https://dengteam.com"><img src="/web_resources\dengteam.png" style="max-width: 100%; height: auto;" /></a>
-</div>
 
 <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
   <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><img src="/web_resources\youtube.svg" style="max-width: 40px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><strong>[Video]</strong></a>
