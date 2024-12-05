@@ -57,12 +57,14 @@ last_modified_at: 2024-12-03
   <p><strong>The first step: Extract 2D drawing coordinates information from .dwg files</strong><br>
   In this stage, we provide an AutoCAD plug-in (pistion.dll) to extract 2d welding coordinates from 2d drawings based on C sharp programming language and Visual Studio 2019. Now, let us tell you how to compile .dll file and extract 2d welding coordinates in 2d drawings.<br>
   <strong>1. Compile .dll file: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 11. After that, you can compile .dll file<br>
-  <strong>2. Extract 2D welding coordinates information: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 39. After that, compile .dll file
+
+  <strong>2. Extract 2D welding coordinates information: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 39. After that, compile .dll file<br>
+
+  <strong>3. Output 2D welding coordinates information .csv file: </strong>There is a video in Youtube which can be referred to how to use position.dll.<a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><strong> [Video]</strong></a>  
     <div style="display: flex; justify-content: center; align-items: center; width: 700px; margin: 0 auto;">
       <img src="/web_resources\post\FPM_paper\plug_in_tutorial.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-    </div>'
-
-  
+    </div>
+    
   </p>
 
 </div>
