@@ -14,6 +14,7 @@ last_modified_at: 2024-12-03
     Automated Point Positioning for Robotic Spot Welding through Integrated 2D Drawings and Structured Light Cameras<br/>
   </p>
   <p style="margin-top: 10px;">Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo</p>
+  <p style="margin-top: 10px;">College of Civil Engineering, Hunan University, Changsha 410082, PR China</p>
 </div>
 
 
@@ -24,6 +25,10 @@ last_modified_at: 2024-12-03
   <a href="https://github.com/huiguangwang"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;Code
 </div>
 
+<br>
+<div style="display: flex; justify-content: center; align-items: center; width: 200px; margin: 0 auto;">
+  <a href="https://dengteam.com"><img src="/web_resources\dengteam.png" style="max-width: 100%; height: auto;" /></a>
+</div>
 
 
 <div style="text-align: justify;">
