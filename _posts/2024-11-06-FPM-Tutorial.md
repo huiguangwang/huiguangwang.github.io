@@ -69,45 +69,39 @@ last_modified_at: 2024-12-03
 
 </div>
 
+```bash
+FPM_code
+├── 1_TargetPointExtract                      # data files for customizing the theme
+|  ├── Camera2Robot.txt          # main navigation links
+|  ├── CenterExtract.py          # main navigation links
+|  ├── circle_info.txt          # main navigation links
+|  ├── ColorMap.png          # main navigation links
+|  ├── DepthMap.tiff          # main navigation links
+|  └── mark.png             # text used throughout the theme's UI
+├── 2_Cad2Base
+|  ├── Cad2Base.py     # snippets for analytics (Google and custom)
+|  ├── Centers.csv      # snippets for comments
+|  ├── Centers_modified.csv
+|  └── Transformed_Centers.csv
+├── 3_MainProgrram
+|  |  ├── BFS.py             # plugin settings and other scripts to load after jQuery
+|  |  └── FPM.py          # optimized and concatenated script file loaded before </body>
+|  ├── Camera2Robot.txt   # tag/category archive for Jekyll Archives plugin
+|  ├── ColorMap.png            # archive base
+|  ├── DepthMap.tiff         # archive listing posts grouped by category
+|  └── Transformed_Centers.csv           # archive listing posts grouped by specific category
+├── API
+|  ├── Came2End.txt
+|  ├── Camera2Robot.txt                  # image assets for posts/pages/collections/etc.
+|  ├── CameraIntrinsics.txt
+|  ├── CameraIntrinsics.txt
+|  ├── Rigid_transformation.py
+└──└── UR10_robot.py
+```
+
 
 <div style="text-align: justify;">
   <p><strong>The second step: </strong>Map 2D welding coordinates to 3D space: FPM algoritm<br>
- 
-  ```bash
-  FPM_code
-  ├── 1_TargetPointExtract                      # data files for customizing the theme
-  |  ├── Camera2Robot.txt          # main navigation links
-  |  ├── CenterExtract.py          # main navigation links
-  |  ├── circle_info.txt          # main navigation links
-  |  ├── ColorMap.png          # main navigation links
-  |  ├── DepthMap.tiff          # main navigation links
-  |  └── mark.png             # text used throughout the theme's UI
-  ├── 2_Cad2Base
-  |  ├── Cad2Base.py     # snippets for analytics (Google and custom)
-  |  ├── Centers.csv      # snippets for comments
-  |  ├── Centers_modified.csv
-  |  └── Transformed_Centers.csv
-  ├── 3_MainProgrram
-  |  |  ├── BFS.py             # plugin settings and other scripts to load after jQuery
-  |  |  └── FPM.py          # optimized and concatenated script file loaded before </body>
-  |  ├── Camera2Robot.txt   # tag/category archive for Jekyll Archives plugin
-  |  ├── ColorMap.png            # archive base
-  |  ├── DepthMap.tiff         # archive listing posts grouped by category
-  |  └── Transformed_Centers.csv           # archive listing posts grouped by specific category
-  ├── API
-  |  ├── Came2End.txt
-  |  ├── Camera2Robot.txt                  # image assets for posts/pages/collections/etc.
-  |  ├── CameraIntrinsics.txt
-  |  ├── CameraIntrinsics.txt
-  |  ├── Rigid_transformation.py
-  └──└── UR10_robot.py
-  ```
-
-
-
-
-
-
 
   We usually adopt four circular marks as a mark board, actually only three circular will be utilized. In this stage, we adopt Hough Transformation Method to recognize the circular marks.<br>
   <strong>1. Compile .dll file: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 11. After that, you can compile .dll file<br>
