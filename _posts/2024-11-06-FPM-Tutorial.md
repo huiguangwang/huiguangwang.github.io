@@ -13,7 +13,7 @@ last_modified_at: 2024-12-03
   <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
     Automated Point Positioning for Robotic Spot Welding through Integrated 2D Drawings and Structured Light Cameras<br/>
   </p>
-  <p style="margin-top: 5px;">Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo</p>
+  <p style="margin-top: 10px;">Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo</p>
 </div>
 
 
@@ -27,7 +27,7 @@ last_modified_at: 2024-12-03
 
 
 <div style="text-align: justify;">
-  <p><strong>Abstract:</strong> Precise point positioning is crucial for implementing robotic spot welding. Traditional 2D drawings of structural components lack depth information, making them insufficient for guiding robotic welding. In this paper, an automated robotic welding framework was proposed for spot welding based on 2D drawings and structured light cameras. To enhance the efficiency of point positioning, a new algorithm was also developed with a spatial complexity level of log4(N), where N is the resolution of the image. Three different 3D cameras with distinct imaging principles were used in the experiments, and their performances were compared and discussed in detail. The proposed framework was validated against a scaled experiment, where the positioning accuracy by the proposed method met the code requirements. It was also found that the proposed vision-based welding approach could provide similar accuracy in welding orientation estimation as light section sensors but at a much lower cost.
+  <p style="margin-top: 10px;"><strong>Abstract:</strong> Precise point positioning is crucial for implementing robotic spot welding. Traditional 2D drawings of structural components lack depth information, making them insufficient for guiding robotic welding. In this paper, an automated robotic welding framework was proposed for spot welding based on 2D drawings and structured light cameras. To enhance the efficiency of point positioning, a new algorithm was also developed with a spatial complexity level of log4(N), where N is the resolution of the image. Three different 3D cameras with distinct imaging principles were used in the experiments, and their performances were compared and discussed in detail. The proposed framework was validated against a scaled experiment, where the positioning accuracy by the proposed method met the code requirements. It was also found that the proposed vision-based welding approach could provide similar accuracy in welding orientation estimation as light section sensors but at a much lower cost.
   </p>
   <p><strong>Keywords:</strong> Point positioning; 2D drawings; Supplementation of depth information; Stud welding; 3D vision
   </p>
