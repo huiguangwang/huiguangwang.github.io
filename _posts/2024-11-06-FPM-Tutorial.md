@@ -70,7 +70,7 @@ last_modified_at: 2024-12-03
 
   <strong>2. Extract 2D welding coordinates information: </strong>Initially, we should download Visual Studio 2019, then just open our code in Visual Studio 2019. It is noticeable that you should change your .csv file save directory in line 39. After that, compile .dll file<br>
 
-  <strong>3. Output 2D welding coordinates information .csv file: </strong>There is a video in Youtube which can be referred to how to use position.dll.<a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><strong> [Video]</strong></a>  
+  <strong>3. Output 2D welding coordinates information .csv file: </strong>There is a video in Youtube which can be referred to how to use position.dll.<a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><strong>[Video]</strong></a>  
   <div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
     <img src="/web_resources\post\FPM_paper\plug_in_tutorial.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
   </div>
