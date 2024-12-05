@@ -17,7 +17,7 @@ last_modified_at: 2024-12-03
   <p style="margin-top: 10px;">College of Civil Engineering, Hunan University, Changsha 410082, PR China</p>
 
   <div style="display: flex; justify-content: center; align-items: center; width: 200px; margin: 0 auto;">
-    <img src="/web_resources/Hunan_University.svg" style="max-width: 100%; height: auto;" />
+    <img src="/web_resources/Hunan_University.svg" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
   </div>
 
 </div>
@@ -25,7 +25,7 @@ last_modified_at: 2024-12-03
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><img src="/web_resources\youtube.svg" style="max-width: 40px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><strong>[Video]</strong></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/huiguangwang"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://github.com/huiguangwang"><strong>[Code]</strong></a>
