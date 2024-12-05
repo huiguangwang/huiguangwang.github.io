@@ -73,8 +73,6 @@ last_modified_at: 2024-12-03
   <div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
     <img src="/web_resources\post\FPM_paper\plug_in_tutorial.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
   </div>
-
-  </p>
 </div>
 
 <div style="text-align: center;">
