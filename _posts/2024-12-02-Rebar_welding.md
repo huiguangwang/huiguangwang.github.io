@@ -1,6 +1,7 @@
 ---
 title: Tutorial-NEW Paper-Rotate-ICP Automated Complex Joints Welding for Rebar Cages in Prefabricated Concrete Shear Walls
 classes: wide
+author_profile: false
 date: 2024-12-02
 categories: 
   - Tutorial

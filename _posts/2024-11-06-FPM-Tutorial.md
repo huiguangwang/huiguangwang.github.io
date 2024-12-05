@@ -1,6 +1,7 @@
 ---
 title: Tutorial-How to apply FPM algorithm
 classes: wide
+author_profile: false
 date: 2024-11-06
 categories: 
   - Tutorial

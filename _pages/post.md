@@ -2,6 +2,6 @@
 title: "Post"
 permalink: /post/
 layout: posts
-author_profile: false
+author_profile: true
 classes: wide
 ---
