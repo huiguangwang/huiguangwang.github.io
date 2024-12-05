@@ -10,10 +10,12 @@ last_modified_at: 2024-12-03
 
 
 <div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">Automated Point Positioning for Robotic Spot Welding through Integrated 2D Drawings and Structured Light Cameras<br/>
+  <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
+    Automated Point Positioning for Robotic Spot Welding through Integrated 2D Drawings and Structured Light Cameras<br/>
   </p>
-  <p>Lu Deng, <strong>Huiguang Wang</strong>,  Ran Cao, Jingjing Guo</p>
+  <p style="margin-top: 5px;">Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo</p>
 </div>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
