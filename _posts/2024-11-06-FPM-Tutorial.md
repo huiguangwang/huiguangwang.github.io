@@ -1,7 +1,7 @@
 ---
 title: Tutorial-How to apply FPM algorithm
 classes: wide
-author_profile: false
+author_profile: true
 date: 2024-11-06
 categories: 
   - Tutorial
@@ -10,7 +10,7 @@ last_modified_at: 2024-12-03
 
 
 <div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras<br/>
+  <p style="font-size: 30px; font-weight: bold;">Automated Point Positioning for Robotic Spot Welding through Integrated 2D Drawings and Structured Light Cameras<br/>
   </p>
   <p>Lu Deng, <strong>Huiguang Wang</strong>,  Ran Cao, Jingjing Guo</p>
 </div>

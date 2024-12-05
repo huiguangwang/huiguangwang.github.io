@@ -1,7 +1,7 @@
 ---
 title: Tutorial-AnyDirectTying
 classes: wide
-author_profile: false
+author_profile: true
 date: 2024-11-21
 categories: 
   - Tutorial
