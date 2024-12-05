@@ -71,32 +71,31 @@ last_modified_at: 2024-12-03
 
 ```bash
 FPM_code
-├── 1_TargetPointExtract                      # data files for customizing the theme
-|  ├── Camera2Robot.txt          # main navigation links
-|  ├── CenterExtract.py          # main navigation links
-|  ├── circle_info.txt          # main navigation links
-|  ├── ColorMap.png          # main navigation links
-|  ├── DepthMap.tiff          # main navigation links
-|  └── mark.png             # text used throughout the theme's UI
-├── 2_Cad2Base
-|  ├── Cad2Base.py     # snippets for analytics (Google and custom)
-|  ├── Centers.csv      # snippets for comments
-|  ├── Centers_modified.csv
-|  └── Transformed_Centers.csv
-├── 3_MainProgrram
-|  |  ├── BFS.py             # plugin settings and other scripts to load after jQuery
-|  |  └── FPM.py          # optimized and concatenated script file loaded before </body>
-|  ├── Camera2Robot.txt   # tag/category archive for Jekyll Archives plugin
-|  ├── ColorMap.png            # archive base
-|  ├── DepthMap.tiff         # archive listing posts grouped by category
-|  └── Transformed_Centers.csv           # archive listing posts grouped by specific category
-├── API
-|  ├── Came2End.txt
-|  ├── Camera2Robot.txt                  # image assets for posts/pages/collections/etc.
-|  ├── CameraIntrinsics.txt
-|  ├── CameraIntrinsics.txt
-|  ├── Rigid_transformation.py
-└──└── UR10_robot.py
+├── 1_TargetPointExtract              # file includes programs aimed to identify mark board
+|  ├── Camera2Robot.txt               # the homogeneous matrix from Camera frame to robotic arm world frame
+|  ├── CenterExtract.py               # main program aims to identify circular marks
+|  ├── circle_info.txt                # The identifications results of Hough-Transformation Method
+|  ├── ColorMap.png                   # RGB image of the mark board
+|  ├── DepthMap.tiff                  # depth map of the mark board
+|  └── mark.png                       # The identifications results (RGB image)of Hough-Transformation Method
+├── 2_Cad2Base                        # file includes program aimed to transform 2D coordinate from local frame to world frame
+|  ├── Cad2Base.py                    # main program aims to transform 2D coordinate from local frame to world frame
+|  ├── Centers.csv                    # 2d welding coordinates in CAD frame
+|  ├── Centers_modified.csv           # 2d welding coordinates in local frame
+|  └── Transformed_Centers.csv        # fianl results: 2d welding coordinates in world frame
+├── 3_MainProgram                     # main programs include BFS and FPM algorithm to map 2D coordinates
+|  |  ├── BFS.py                      # BFS algorithm
+|  |  └── FPM.py                      # Fast-Pixel-Matching algorithm
+|  ├── Camera2Robot.txt               # the homogeneous matrix from Camera frame to robotic arm world frame (A area)
+|  ├── ColorMap.png                   # RGB image of A area
+|  ├── DepthMap.tiff                  # depth map of A area
+|  └── Transformed_Centers.csv        # fianl results: 2d welding coordinates in world frame
+├── API                               # Application Programming Interface
+|  ├── Came2End.txt                   # the result of eye-in-hand calibration
+|  ├── Camera2Robot.txt               # Tthe pose of camera
+|  ├── CameraIntrinsics.txt           # the intrinsics matrix of camera
+|  ├── Rigid_transformation.py        # an API for rigid transformation
+└──└── UR10_robot.py                  # an API for controling robotic arm
 ```
 
 
