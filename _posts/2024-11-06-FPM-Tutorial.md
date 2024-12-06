@@ -16,11 +16,16 @@ last_modified_at: 2024-12-03
   <p style="margin-top: 10px;">Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo</p>
   <p style="margin-top: 10px;">College of Civil Engineering, Hunan University, Changsha 410082, PR China</p>
 
-  <div style="display: flex; justify-content: center; align-items: center; width: 200px; margin: 0 auto;">
-    <img src="/web_resources/Hunan_University.svg" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-    &nbsp;&nbsp;
-    <img src="/web_resources/dengteam.png" style="max-width: 100%; height: auto; margin-bottom: 0px;" />
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
+  <a href="https://www.dengteam.com" target="_blank">
+    <img src="/web_resources/Hunan_University.svg" style="width: 200px; height: auto; margin-bottom: 10px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.dengteam.com" target="_blank">
+    <img src="/web_resources/dengteam.png" style="width: 200px; height: auto; margin-bottom: 0px;" />
+  </a>
+</div>
+
 
 </div>
 
