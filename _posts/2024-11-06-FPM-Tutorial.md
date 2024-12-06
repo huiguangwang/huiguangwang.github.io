@@ -18,7 +18,7 @@ last_modified_at: 2024-12-03
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
-  <a href="https://www.dengteam.com" target="_blank">
+  <a href="https://www.hnu.edu.cn/" target="_blank">
     <img src="/web_resources/Hunan_University.svg" style="width: 200px; height: auto; margin-bottom: 10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
