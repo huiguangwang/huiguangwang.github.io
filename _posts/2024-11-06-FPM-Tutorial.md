@@ -118,7 +118,7 @@ FPM_code
 |  └── Transformed_Centers.csv        # fianl results: 2d welding coordinates in world frame
 ├── API                               # Application Programming Interface
 |  ├── Came2End.txt                   # the result of eye-in-hand calibration
-|  ├── Camera2Robot.txt               # Tthe pose of camera
+|  ├── Camera2Robot.txt               # the pose of camera
 |  ├── CameraIntrinsics.txt           # the intrinsics matrix of camera
 |  ├── Rigid_transformation.py        # an API for rigid transformation
 └──└── UR10_robot.py                  # an API for controling robotic arm
