@@ -23,7 +23,7 @@ last_modified_at: 2024-12-03
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.dengteam.com" target="_blank">
-    <img src="/web_resources/dengteam.png" style="width: 200px; height: auto; margin-bottom: 0px;" />
+    <img src="/web_resources/dengteam.png" style="width: 200px; height: auto; margin-bottom: 10px;" />
   </a>
 </div>
 
