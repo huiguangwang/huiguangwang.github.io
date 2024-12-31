@@ -11,6 +11,7 @@ author_profile: true
   <p><strong>CONTACT</strong> </p>
 </div>
 
+
 <div style="text-align: justify;">
   <p><strong>If you are interested in any aspect of me, I would love to chat and collaborate, please contact me!</strong><br>
   <strong>Email:</strong> whg0917@hnu.edu.cn<br>
@@ -19,17 +20,12 @@ author_profile: true
 </div>
 
 
+
 <div style="text-align: justify;">
-<hr>
+  <hr>
   <p>If there are any copyright issues on the website, please let me know and I will handle it within 5 working days.</p>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
+  <img src="/web_resources\merry-christmas.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+</div>
