@@ -7,15 +7,21 @@ author_profile: true
 last_modified_at: 2024-12-26
 ---
 
-<!-- <div style="display: flex; align-items: center;margin-top: 20px; margin-bottom: 20px;">
+
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\post\welding_rebar.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Recent work: We pay our attention to providing a new end2end framework for estimating a 6-DOF pose, which can be appiled in various scenario, such as bin-picking, welding, Augmented Reality, and etc. However, we face all kinds of challenges during the process of inplemeting this new framework. If you have any interests, welcome to contact us at whg0917@hnu.edu.cn </b>
+      <b>Recent work: We pay our attention to providing a new end2end framework for estimating a 6-DOF pose, which can be appiled
+       in various scenario, such as bin-picking, Augmented Reality, and etc. However, we face all kinds of challenges during the
+       process of inplemeting this new framework. If you have any interests, welcome to contact us at whg0917@hnu.edu.cn</b>
     </span>
-
   </div>
-</div> -->
+</div>
+
+
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources/post/isarc2025/ISARC2025.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
