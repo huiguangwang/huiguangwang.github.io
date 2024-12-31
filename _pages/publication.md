@@ -35,8 +35,7 @@ last_modified_at: 2024-12-26
       Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
-      <br/>
-      <b><font color="red">All codes will be opene-source after this paper being publicated.</font></b>
+      <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>
     </p>
   </div>
 </div>
