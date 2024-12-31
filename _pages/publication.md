@@ -75,7 +75,7 @@ last_modified_at: 2024-12-26
     <p>
       <strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo
       <br/>        
-      <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024, (EI)
+      <i>International Symposium on Automation and Robotics in Construction</i>, 
       <br/>
       <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"><b>[PDF]</b></a>
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
