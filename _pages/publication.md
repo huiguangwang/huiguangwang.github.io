@@ -36,7 +36,7 @@ last_modified_at: 2024-12-26
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <br/>
-      <b><font color="red">All codes will be opened source after this paper being publicated.</font></b>
+      <b><font color="red">All codes will be opene-source after this paper being publicated.</font></b>
     </p>
   </div>
 </div>
@@ -60,7 +60,10 @@ last_modified_at: 2024-12-26
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage (Under Review)</b>
     </span>
-    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo</p>
+    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo
+    <br>
+      <b>[PDF]</b>
+    </p>
   </div>
 </div>
 
