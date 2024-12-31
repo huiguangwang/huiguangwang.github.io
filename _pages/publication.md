@@ -9,7 +9,7 @@ last_modified_at: 2024-12-26
 
 
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<!-- <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\post\welding_rebar.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -18,7 +18,7 @@ last_modified_at: 2024-12-26
        process of inplemeting this new framework. If you have any interests, welcome to contact us at whg0917@hnu.edu.cn</b>
     </span>
   </div>
-</div>
+</div> -->
 
 
 
