@@ -10,7 +10,7 @@ title: Award
 <h2>Scholarships</h2>
 - National Scholarship
 - 2020.12：The First Prize of the "Industrial and Civil Construction Scholarship for Class of 1977" Civil Engineering Excellence Award
-- 2024.10：The Second Prize Scholarship
+- 2024.10：The First Prize Scholarship
 - 2023.10：The Second Prize Scholarship
 - 2022.10：The First Prize Scholarship
 - 2021.12：The First Prize Scholarship
