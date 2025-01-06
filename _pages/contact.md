@@ -26,6 +26,6 @@ author_profile: true
   <p>If there are any copyright issues on the website, please let me know and I will handle it within 5 working days.</p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 900px; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 600px; margin: 0 auto;">
   <img src="/web_resources\merry-christmas.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
