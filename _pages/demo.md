@@ -19,7 +19,7 @@ last_modified_at: 2025-01-06
     <p>
       Linear axis & large cover range
       <br/>
-      <a href="https://youtu.be/uhDt7ZMQ2y8"><b>[Click me]</b></a>
+      <a href="https://www.youtube.com/watch?v=YdM0HZjJw6Q"><b>[Click me]</b></a>
     </p>
   </div>
 </div>
