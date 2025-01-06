@@ -49,7 +49,7 @@ last_modified_at: 2024-08-28
       <b style="color: #1772d0;">Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
     </span>
     <p>
-      AutoCAD Plug in Tutorial: How to Extract the Welding Point in CAD drawing
+      How to Extract the Welding Point in CAD drawing
       <br/>
       <a href="https://youtu.be/-3JwZIYJyXY?si=fh8XFqsYJz8_JuwO"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar"><b>[Code]</b></a>
