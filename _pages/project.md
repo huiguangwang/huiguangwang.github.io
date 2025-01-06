@@ -1,5 +1,5 @@
 ---
-permalink: /project/index.html
+permalink: /project/
 title: Project
 classes: wide
 layout: single
