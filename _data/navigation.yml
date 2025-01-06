@@ -6,13 +6,13 @@ main:
     url: https://huiguangwang.top
   - title: "Projects"
     url: /project/
-  - title: "Publications"
+  - title: "Publication"
     url: /publication/
-  - title: "Awards"
+  - title: "Award"
     url: /award/
-  - title: "Videos"
+  - title: "Video"
     url: /video/
-  - title: "Posts"
+  - title: "Post"
     url: /post/
   - title: "Contact"
     url: /contact/

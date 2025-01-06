@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /publication/index.html
+permalink: /publication/
 title: Publication
 classes: wide
 author_profile: true
