@@ -10,6 +10,22 @@ last_modified_at: 2024-08-28
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/uhDt7ZMQ2y8" style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/web_resources\demo\基于移动平台的钢筋笼复杂节点焊接.png" style="width: 250px;"/>
+  </a>
+  <div style="text-align: justify;">
+    <span style="display: block; margin-bottom: 10px;">
+      <b style="color: #1772d0;">The complex joints welding for rebar cages based on a linear axis</b>
+    </span>
+    <p>
+      Linear axis & large cover range
+      <br/>
+      <a href="https://youtu.be/uhDt7ZMQ2y8"><b>[Click me]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://youtu.be/uhDt7ZMQ2y8" style="flex-shrink: 0; margin-right: 20px;">
     <img src="/web_resources\demo\tyingUGV.png" style="width: 250px;"/>
   </a>
   <div style="text-align: justify;">
