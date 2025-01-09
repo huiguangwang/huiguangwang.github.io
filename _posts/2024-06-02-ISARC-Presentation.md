@@ -22,6 +22,11 @@ light cameras. Based on our experiment, the efficiency of the FPM process is fou
   </p>
 </div>
 
+
+
+{% include video id="1HMwYa4aOio" provider="youtube" %}
+
+
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/1HMwYa4aOio" style="flex-shrink: 0; margin-right: 20px;">
     <img src="/web_resources\presentation\ISARC2024_presentation.png" style="width: 200px;"/>
@@ -39,10 +44,6 @@ light cameras. Based on our experiment, the efficiency of the FPM process is fou
 </div>
 
 <hr>
-
-
-{% include video id="1HMwYa4aOio" provider="youtube" %}
-
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publication\picture\ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
