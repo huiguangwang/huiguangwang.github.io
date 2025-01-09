@@ -27,7 +27,6 @@ author_profile: true
 </div>
 
 
-{% include figure popup=true image_path="/web_resources/merry-christmas.png"%}
 
 <div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
   <img src="/web_resources/merry-christmas.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
