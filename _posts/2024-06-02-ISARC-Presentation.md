@@ -40,6 +40,10 @@ light cameras. Based on our experiment, the efficiency of the FPM process is fou
 
 <hr>
 
+
+{% include video id="1HMwYa4aOio" provider="youtube" %}
+
+
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publication\picture\ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
