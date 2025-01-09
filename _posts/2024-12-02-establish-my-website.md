@@ -16,27 +16,35 @@ last_modified_at: 2024-12-02
   </p>
 </div>
 
-<div style="text-align: center;">
-  <img src="/web_resources/post/Snipaste_2024-12-02_22-19-51.png" />
+
+<div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
+  <img src="/web_resources/post/Snipaste_2024-12-02_22-19-51.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
+
 
 <div style="text-align: justify;">
   <p><strong>第三步:</strong> 命名仓库
   </p>
 </div>
 
-<div style="text-align: center;">
-  <img src="/web_resources/post/name.png" alt="image">
+
+<div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
+  <img src="/web_resources/post/name.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
+
 
 <div style="text-align: justify;">
   <p><strong>第四步:</strong> 修改分支，稍等几分钟后访问:用户名.github.io即可完成网站的框架搭建
   </p>
 </div>
 
-<div style="text-align: center;">
-  <img src="/web_resources/post/修改分支.png" alt="image">
+
+
+<div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
+  <img src="/web_resources/post/修改分支.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
+
+
 <div style="text-align: justify;">
   <p><strong>第五步: </strong>完成框架搭建后，可以着手按照以下教程完成各个模块的搭建
   </p>
