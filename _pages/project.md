@@ -21,9 +21,9 @@ last_modified_at: 2024-05-24
 
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-  <img src="/web_resources\project\welding_axis.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+  <img src="/web_resources\project\we.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
-{% include video id="YdM0HZjJw6Q" provider="youtube" %}
+{% include video id="uixmualasgU" provider="youtube" %}
 
 <br>
 
@@ -53,7 +53,7 @@ last_modified_at: 2024-05-24
 </div>
 
 <p align="center">
-  <img src="/web_resources\project\ugv.png">
+  <img src="/web_resources\project\tying.png">
 </p>
 {% include video id="uhDt7ZMQ2y8" provider="youtube" %}
 
