@@ -42,7 +42,8 @@ last_modified_at: 2024-05-24
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
   <img src="/web_resources\project\shear_stud.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
-{% include video id="uhDt7ZMQ2y8" provider="-3JwZIYJyXY" %}
+
+{% include video id="-3JwZIYJyXY" provider="youtube" %}
 
 
 <br>
