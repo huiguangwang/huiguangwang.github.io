@@ -17,13 +17,13 @@ last_modified_at: 2024-05-24
   </p>
 </div>
 
-{% include video id="YdM0HZjJw6Q" provider="youtube" %}
 
 
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
   <img src="/web_resources\project\welding_axis.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
+{% include video id="YdM0HZjJw6Q" provider="youtube" %}
 
 <br>
 
@@ -55,8 +55,9 @@ last_modified_at: 2024-05-24
 <p align="center">
   <img src="/web_resources\project\ugv.png">
 </p>
-<br>
 {% include video id="uhDt7ZMQ2y8" provider="youtube" %}
+
+<br>
 
 
 <div style="text-align: justify;">
@@ -68,7 +69,6 @@ last_modified_at: 2024-05-24
   <img src="/web_resources\project\大创.png">
 </p>
 <br>
-{% include video id="Cu3-2oeKpLU" provider="youtube" %}
 
 
 
@@ -94,3 +94,4 @@ last_modified_at: 2024-05-24
 <p align="center">
   <img src="/web_resources\project\第三届全国大学生结构信息大赛.png">
 </p>
+{% include video id="Cu3-2oeKpLU" provider="youtube" %}
