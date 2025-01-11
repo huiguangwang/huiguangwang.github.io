@@ -92,7 +92,5 @@ last_modified_at: 2024-05-24
   <strong><a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure">[Demo: Click me]</a></strong></p>
 </div>
 
-<p align="center">
-  <img src="/web_resources\project\第三届全国大学生结构信息大赛.png">
-</p>
+
 {% include video id="Cu3-2oeKpLU" provider="youtube" %}

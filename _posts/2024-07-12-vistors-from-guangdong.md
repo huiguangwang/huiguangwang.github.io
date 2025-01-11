@@ -9,7 +9,8 @@ last_modified_at: 2024-07-12
 
 <div style="text-align: justify;">
   <p> 
-  Recently, Huiguang served as the host to receive approximately 100 visiting students from Guangdong. The contents of this activity mainly include introducing how to operate the tying robot based on an UGV platform, which plays a substantial role in allevating the burden on workers in construction site.
+  Recently, Huiguang served as the host to receive approximately 100 visiting students from Guangdong. The contents of this activity mainly include 
+  introducing how to operate the tying robot based on an UGV platform, which plays a substantial role in allevating the burden on workers in construction site.
   </p>
 </div>
 
