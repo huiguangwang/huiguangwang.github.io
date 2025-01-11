@@ -20,14 +20,18 @@ last_modified_at: 2025-01-11
   </div>
 </div> -->
 
-## Papers and Patents
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources/post/isarc2025/ISARC2025.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>A new conference paper will be submitted in ISARC2025, which is aimed at guiding robotic arms to maintain a ideal pose to capture RGB images, depth maps, and point cloud.</b>
+      <b>Vision-Guided Camera Pose Estimation for Robotic Rebar Tying (Under Review)</b>
     </span>
+    <p>
+      Shaopeng Xu, <strong>Huiguang Wang</strong>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo
+      <br>        
+            <i>International Symposium on Automation and Robotics in Construction</i>
+    </p>
   </div>
 </div>
 
