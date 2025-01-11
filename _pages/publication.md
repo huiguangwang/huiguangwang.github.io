@@ -183,8 +183,8 @@ last_modified_at: 2025-01-11
     </span>
     <p><strong>Abstract:</strong> This curriculum design mainly focus on the foundation design of an office building.
     <br>
-      <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY"><b>[The Design and Analysis of the Foundation]</b></a>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"><b>[Drawings]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"><b>[The Design and Analysis of the Foundation]</b></a>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY"><b>[Drawings]</b></a>
     </p>
   </div>
 </div>
@@ -195,7 +195,7 @@ last_modified_at: 2025-01-11
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>The Course Design of Building Architecture</b>
     </span>
-    <p><strong>Abstract:</strong> This course design mainly focus on the Architecture design of an teaching building of an elementary school.
+    <p><strong>Abstract:</strong> This course design mainly focus on the architecture design of a teaching building of an elementary school.
     <br>
       <a href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m"><b>[Drawings]</b></a>
     </p>
