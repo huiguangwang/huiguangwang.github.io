@@ -161,8 +161,16 @@ last_modified_at: 2024-12-26
 ---
 ## Thesis
 
-<!-- - Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br> -->
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\毕业设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of A Teaching and Experiment Complex Building of Hefei Science and Technology Training College</b>
+    </span>
+    <p>Supervisor: Prof. Zhang Liang and Prof. Yulong Feng
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"><b>[Dissertation]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EZwIKKAXVh1GsZLNGH8wXxgBdp-MRvSnqjP3a1ukCohMdA?e=gLh7AC"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
