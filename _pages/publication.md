@@ -152,13 +152,12 @@ last_modified_at: 2024-12-26
 
 
 
-<br>
-<br>
+
 <div style="text-align: justify;">
   <p>Coming soon!</p>
 </div>
 
----
+
 ## Thesis
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
@@ -167,10 +166,40 @@ last_modified_at: 2024-12-26
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of A Teaching and Experiment Complex Building of Hefei Science and Technology Training College</b>
     </span>
-    <p>Supervisor: Prof. Zhang Liang and Prof. Yulong Feng
+    <p><strong>Supervisor:</strong> Prof. Zhang Liang and Prof. Yulong Feng
     <br>
       <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"><b>[Dissertation]</b></a>
       <a href="https://1drv.ms/b/c/665d3e10d9989786/EZwIKKAXVh1GsZLNGH8wXxgBdp-MRvSnqjP3a1ukCohMdA?e=gLh7AC"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+## Design Work
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\基础工程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Foundation Design of An Office Building</b>
+    </span>
+    <p><strong>Abstract:</strong> This curriculum design mainly focus on the foundation design of an office building. According to the given structural conditions, geological conditions ...
+    <br><strong>Supervisor:</strong> Prof. Cheng Hu
+    <br>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY"><b>[The Design and Analysis of the Foundation]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\房屋建筑学.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Building Architecture</b>
+    </span>
+    <p><strong>Abstract:</strong> This course design mainly focus on the Architecture design of an teaching building of an elementary school ...
+    <br><strong>Supervisor:</strong> Prof. Yi Wang
+    <br>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m"><b>[Drawings]</b></a>
     </p>
   </div>
 </div>
