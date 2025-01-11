@@ -175,6 +175,35 @@ last_modified_at: 2025-01-11
 </div>
 
 ## Design Work
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\结构信息技术大赛.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b>
+    </span>
+    <p><strong>Abstract:</strong> This competition include the design of BIM model, structural analysis, and the detailed design of components.
+    <br>
+      <a href="https://youtu.be/Cu3-2oeKpLU"><b>[Demo]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\桥梁设计大赛.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b>
+    </span>
+    <p><strong>Abstract:</strong> The content of this competition include the design of BIM model, structural analysis, and renderings of the designed bridge.
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/ESx5h6YQu2xKnkUQMcdOYwQBco1K9quULG7Rihbn1aW2Hg?e=sxu8HK"><b>[Renderings]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EYEzso2s4h1GgeS5zT7_h60B5P38pqV2n8il2jLg_AvylA?e=tZSqFo"><b>[Paper]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EauMMS_RKxZHnA5DovEfqkkBup7S7nfi_57-KxxkBdJHWQ?e=jX2Yzs"><b>[Slides]</b></a>
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publication\picture\基础工程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
