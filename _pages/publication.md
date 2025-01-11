@@ -2,6 +2,7 @@
 layout: single
 permalink: /publication/
 classes: wide
+Title: Publication
 author_profile: true
 last_modified_at: 2025-01-11
 ---
@@ -19,7 +20,6 @@ last_modified_at: 2025-01-11
   </div>
 </div> -->
 
-## Publication
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources/post/isarc2025/ISARC2025.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
