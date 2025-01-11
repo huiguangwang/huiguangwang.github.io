@@ -93,4 +93,21 @@ last_modified_at: 2025-01-05
     </p>
   </div>
 </div>
-<br>
+
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU" style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/web_resources\demo\砼创队.png" style="width: 250px;"/>
+  </a>
+  <div style="text-align: justify;">
+    <span style="display: block; margin-bottom: 10px;">
+      <b style="color: #1772d0;">The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b>
+    </span>
+    <p>
+      Liheng Tang, Huiguang Wang, Longmei Ling
+      <br/>
+      <a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU"><b>[Demo]</b></a>
+      <br/>
+    </p>
+  </div>
+</div>
