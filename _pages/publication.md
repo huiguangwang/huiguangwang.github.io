@@ -4,7 +4,7 @@ permalink: /publication/
 title: Publication
 classes: wide
 author_profile: true
-last_modified_at: 2024-12-26
+last_modified_at: 2025-01-11
 ---
 
 
@@ -182,7 +182,6 @@ last_modified_at: 2024-12-26
       <b>The Foundation Design of An Office Building</b>
     </span>
     <p><strong>Abstract:</strong> This curriculum design mainly focus on the foundation design of an office building.
-    <br><strong>Supervisor:</strong> Prof. Cheng Hu
     <br>
       <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY"><b>[The Design and Analysis of the Foundation]</b></a>
       <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"><b>[Drawings]</b></a>
@@ -197,7 +196,6 @@ last_modified_at: 2024-12-26
       <b>The Course Design of Building Architecture</b>
     </span>
     <p><strong>Abstract:</strong> This course design mainly focus on the Architecture design of an teaching building of an elementary school.
-    <br><strong>Supervisor:</strong> Prof. Yi Wang
     <br>
       <a href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m"><b>[Drawings]</b></a>
     </p>
@@ -211,7 +209,6 @@ last_modified_at: 2024-12-26
       <b>The Course Design of Steel Structure</b>
     </span>
     <p><strong>Abstract:</strong> This course design mainly focus on the  design of an steel structure roof truss.
-    <br><strong>Supervisor:</strong> Prof. Jingfeng Wang
     <br>
       <a href="https://1drv.ms/b/c/665d3e10d9989786/EeKIQzt6xxVJlmWx7CcQUhcBuvvDqBGlekdB2SBiOritZg?e=mElbBt"><b>[Drawings]</b></a>
     </p>
@@ -225,7 +222,6 @@ last_modified_at: 2024-12-26
       <b>The Course Design of Concrete Structure</b>
     </span>
     <p><strong>Abstract:</strong> This course design mainly focus on the  design of an concrete structure plant.
-    <br><strong>Supervisor:</strong> Prof. Manrong Song
     <br>
       <a href="https://1drv.ms/f/c/665d3e10d9989786/Eu8fSFAlSiVLt4aE0CP2maoBf2r24PunBy5VAe3tIEISKw?e=9vj6Mz"><b>[Drawings]</b></a>
     </p>
