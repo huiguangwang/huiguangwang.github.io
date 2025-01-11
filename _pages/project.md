@@ -73,10 +73,10 @@ last_modified_at: 2024-05-24
 
 
 
-## Design Work
+
 
 <div style="text-align: justify;">
-  <p> 
+  <p><strong>Structure /Bridge Design</strong><br>  
   1. The First Prize of the 3rd Bridge Design Competition in Anhui Province: Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.</p>  
 </div>
 
@@ -94,86 +94,3 @@ last_modified_at: 2024-05-24
 
 
 {% include video id="Cu3-2oeKpLU" provider="youtube" %}
-
-
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\结构信息技术大赛.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b>
-    </span>
-    <p><strong>Abstract:</strong> This competition include the design of BIM model, structural analysis, and the detailed design of components.
-    <br>
-      <a href="https://youtu.be/Cu3-2oeKpLU"><b>[Demo]</b></a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\桥梁设计大赛.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b>
-    </span>
-    <p><strong>Abstract:</strong> The content of this competition include the design of BIM model, structural analysis, and renderings of the designed bridge.
-    <br>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/ESx5h6YQu2xKnkUQMcdOYwQBco1K9quULG7Rihbn1aW2Hg?e=sxu8HK"><b>[Renderings]</b></a>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/EYEzso2s4h1GgeS5zT7_h60B5P38pqV2n8il2jLg_AvylA?e=tZSqFo"><b>[Paper]</b></a>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/EauMMS_RKxZHnA5DovEfqkkBup7S7nfi_57-KxxkBdJHWQ?e=jX2Yzs"><b>[Slides]</b></a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\基础工程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>The Foundation Design of An Office Building</b>
-    </span>
-    <p><strong>Abstract:</strong> This curriculum design mainly focus on the foundation design of an office building.
-    <br>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"><b>[The Design and Analysis of the Foundation]</b></a>
-      <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY"><b>[Drawings]</b></a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\房屋建筑学.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>The Course Design of Building Architecture</b>
-    </span>
-    <p><strong>Abstract:</strong> This course design mainly focus on the architecture design of a teaching building of an elementary school.
-    <br>
-      <a href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m"><b>[Drawings]</b></a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\钢结构课程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>The Course Design of Steel Structure</b>
-    </span>
-    <p><strong>Abstract:</strong> This course design mainly focus on the  design of an steel structure roof truss.
-    <br>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeKIQzt6xxVJlmWx7CcQUhcBuvvDqBGlekdB2SBiOritZg?e=mElbBt"><b>[Drawings]</b></a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\混凝土课程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
-  <div style="text-align: justify;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>The Course Design of Concrete Structure</b>
-    </span>
-    <p><strong>Abstract:</strong> This course design mainly focus on the  design of an concrete structure plant.
-    <br>
-      <a href="https://1drv.ms/f/c/665d3e10d9989786/Eu8fSFAlSiVLt4aE0CP2maoBf2r24PunBy5VAe3tIEISKw?e=9vj6Mz"><b>[Drawings]</b></a>
-    </p>
-  </div>
-</div>
