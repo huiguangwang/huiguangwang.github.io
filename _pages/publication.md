@@ -4,7 +4,7 @@ permalink: /publication/
 title: Publication
 classes: wide
 author_profile: true
-last_modified_at: 2025-01-11
+last_modified_at: 2025-01-15
 ---
 
 
@@ -67,7 +67,7 @@ last_modified_at: 2025-01-11
   <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage (Under Review)</b>
+      <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage</b>
     </span>
     <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo
     <br>
