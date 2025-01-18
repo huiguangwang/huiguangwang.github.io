@@ -52,7 +52,7 @@ last_modified_at: 2025-01-18
       <b>Introduction of Automation in Construction</b>
     </span>
     <p>
-      Automation in Construction is an international journal for the publication of original research papers. The journal publishes refereed material on all aspects pertaining to the use of Information Technologies in Design, Engineering, Construction Technologies, and Maintenance and Management of Constructed Facilities. The scope of Automation in Construction is broad, encompassing all stages of the construction life cycle from initial planning and design, through construction of the facility, its operation and maintenance, to the eventual dismantling and recycling of buildings and engineering structures.
+      Automation in Construction is an international journal for the publication of original research papers. The journal publishes refereed material on all aspects pertaining to the use of Information Technologies in Design, Engineering, Construction Technologies, and Maintenance and Management of Constructed Facilities.
     </p>
   </div>
 </div>
