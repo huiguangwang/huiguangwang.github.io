@@ -4,7 +4,7 @@ permalink: /publication/
 title: Publication
 classes: wide
 author_profile: true
-last_modified_at: 2025-01-15
+last_modified_at: 2025-01-18
 ---
 
 
@@ -39,10 +39,11 @@ last_modified_at: 2025-01-15
   <img src="/web_resources/publication/picture/第二篇文章.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Automated Point Positioning for Robotic Spot Welding Based on the Integration of 2D Drawings and Structured Light Cameras (Under Review)</b>
+      <b>Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras</b>
     </span>
     <p>
-      Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo
+      Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo<br>
+      <i>Automation in Construction</i>, Impact Factor: 9.6, (SCI, Q1)
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>
