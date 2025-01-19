@@ -1,9 +1,9 @@
 ---
 title: Blog-One paper has been accepted to Automation in Construction and a patent is authorized by CNIPA
 classes: wide
-author_profile: false
+author_profile: true
 date: 2025-01-18
-categories: true
+categories: 
   - Blog
 last_modified_at: 2025-01-18
 ---
