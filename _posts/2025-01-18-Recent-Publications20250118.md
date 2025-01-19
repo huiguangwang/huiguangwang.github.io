@@ -3,7 +3,7 @@ title: Blog-One paper has been accepted to Automation in Construction and a pate
 classes: wide
 author_profile: false
 date: 2025-01-18
-categories: 
+categories: true
   - Blog
 last_modified_at: 2025-01-18
 ---
