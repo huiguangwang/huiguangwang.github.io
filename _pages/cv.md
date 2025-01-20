@@ -326,107 +326,107 @@ last_modified_at: 2025-01-20
 <p><b>Scholarships & Honorary Titles</b></p>
 </div>
 
-<body>
-  <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2024</div>
-      <div class="right">Oct. 2024</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The Second Prize Scholarship in 2023</div>
-      <div class="right">Oct. 2023</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2022</div>
-      <div class="right">Oct. 2022</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2021</div>
-      <div class="right">Dec. 2021</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2020</div>
-      <div class="right">Dec. 2020</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left"><b>National Scholarship</b></div>
-      <div class="right">Dec. 2020</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left"><b>The First Prize of the "Industrial and Civil Construction Scholarship for Class of 1977" Civil Engineering Excellence Award</b></div>
-      <div class="right">Dec. 2020</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The Second Prize Scholarship in 2019</div>
-      <div class="right">Dec. 2019</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">Individual Scholarship</div>
-      <div class="right">Dec. 2019</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left"><b>Outstanding Graduate of Anhui Province</b></div>
-      <div class="right">Mar. 2022</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">Outstanding Graduate of Hefei University of Technology</div>
-      <div class="right">Mar. 2022</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">Merit Student in 2021</div>
-      <div class="right">Dec. 2021</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">Outstanding Merit Student in 2020</div>
-      <div class="right">Dec. 2020</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">Merit Student in 2020</div>
-      <div class="right">Dec. 2020</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">Merit Student in 2019</div>
-      <div class="right">Dec. 2019</div>
-  </div>
-</body>
 
-<br>
-
-<div style="text-align: justify;color:#1772d0;">
-<p><b>Academic Competition Awards</b></p>
+<div class="flex-container">
+    <div class="left">The First Prize Scholarship in 2024</div>
+    <div class="right">Oct. 2024</div>
 </div>
 
-<body>
-  <div class="flex-container">
-      <div class="left"><b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b></div>
-      <div class="right">Nov. 2021</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left"><b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b></div>
-      <div class="right">May 2021</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The Third Prize in the 2020 Basic Mechanics Competition of Hefei University of Technology</div>
-      <div class="right">Dec. 2020</div>
-  </div>
-  
-  <div class="flex-container">
-      <div class="left">The Third Prize in The National Undergraduate Physics Experiment Innovation Competition HFUT</div>
-      <div class="right">Oct. 2020</div>
-  </div>
-</body>
+<div class="flex-container">
+    <div class="left">The Second Prize Scholarship in 2023</div>
+    <div class="right">Oct. 2023</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">The First Prize Scholarship in 2022</div>
+    <div class="right">Oct. 2022</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">The First Prize Scholarship in 2021</div>
+    <div class="right">Dec. 2021</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">The First Prize Scholarship in 2020</div>
+    <div class="right">Dec. 2020</div>
+</div>
+
+<div class="flex-container">
+    <div class="left"><b>National Scholarship</b></div>
+    <div class="right">Dec. 2020</div>
+</div>
+
+<div class="flex-container">
+    <div class="left"><b>The First Prize of the "Industrial and Civil Construction Scholarship for Class of 1977" Civil Engineering Excellence Award</b></div>
+    <div class="right">Dec. 2020</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">The Second Prize Scholarship in 2019</div>
+    <div class="right">Dec. 2019</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">Individual Scholarship</div>
+    <div class="right">Dec. 2019</div>
+</div>
+
+<div class="flex-container">
+    <div class="left"><b>Outstanding Graduate of Anhui Province</b></div>
+    <div class="right">Mar. 2022</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">Outstanding Graduate of Hefei University of Technology</div>
+    <div class="right">Mar. 2022</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">Merit Student in 2021</div>
+    <div class="right">Dec. 2021</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">Outstanding Merit Student in 2020</div>
+    <div class="right">Dec. 2020</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">Merit Student in 2020</div>
+    <div class="right">Dec. 2020</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">Merit Student in 2019</div>
+    <div class="right">Dec. 2019</div>
+</div>
+
+
+
+
+<div style="text-align: justify;color:#1772d0;">
+  <p><b>Academic Competition Awards</b></p>
+</div>
+
+
+<div class="flex-container">
+    <div class="left"><b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b></div>
+    <div class="right">Nov. 2021</div>
+</div>
+
+<div class="flex-container">
+    <div class="left"><b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b></div>
+    <div class="right">May 2021</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">The Third Prize in the 2020 Basic Mechanics Competition of Hefei University of Technology</div>
+    <div class="right">Dec. 2020</div>
+</div>
+
+<div class="flex-container">
+    <div class="left">The Third Prize in The National Undergraduate Physics Experiment Innovation Competition HFUT</div>
+    <div class="right">Oct. 2020</div>
+</div>
+
