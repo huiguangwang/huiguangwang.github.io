@@ -7,15 +7,12 @@ last_modified_at: 2025-01-05
 ---
 
 
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Info</title>
     <style>
-        .row { text-align: center; margin: 5px 0; }
+        .row { text-align: center; }
         .row div { display: inline-block; width: 45%; }
     </style>
 </head>
@@ -100,7 +97,7 @@ last_modified_at: 2025-01-05
 </div>
 
 <div class="row">
-    <div class="left">Supervisors: Prof. Lu Deng and Prof. Ran Cao</div>
+    <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
     <div class="center">Leader</div>
     <div class="right">May. 2023 – Present</div>
 </div>
