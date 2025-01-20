@@ -10,7 +10,7 @@ last_modified_at: 2024-12-03
 
 
 <div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">AnyDirectTying: Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying<br/>
+  <p style="font-size: 30px; font-weight: bold;">Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying<br/>
   </p>
   <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong></p>
 
@@ -41,14 +41,15 @@ last_modified_at: 2024-12-03
 
 <hr>
 
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\project\ugv.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\AnyDirTying.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>AnyDirectTying: Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying (Under Review)</b>
+      <b>Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying</b>
     </span>
     <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong>
     <br>
+    <i>Automation in Construction</i>, Impact Factor: 9.6 (SCI, Q1)<br>
       <a href="https://www.youtube.com/watch?v=7VkRotXTWYA&list=PLHXybvFCWrYLfXiHWue_Mre6Mk0OO2tC2"><b>[Demo]</b></a>
     </p>
   </div>
