@@ -197,6 +197,81 @@ last_modified_at: 2025-01-05
 </body>
 
 ## Extracurricular Activities
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Info</title>
+    <style>
+        /* Ensure .flex-container uses flexbox layout */
+        .flex-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        /* .left takes 75% width and left-aligned */
+        .left { text-align: left; flex-basis: 75%; }
+        /* .right takes 25% width and right-aligned */
+        .right { text-align: right; flex-basis: 25%; }
+    </style>
+</head>
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>International seminar: 41st International Symposium on Automation and Robotics in Construction</b></p>
+</div>
+
+<body>
+
+  <div>
+    <div class="flex-container">
+        <div class="left">Topic presentation</div>
+        <div class="right">Lille, France, 4 Jun. 2024</div>
+    </div>
+  </div>
+
+</body>
+
+<div style="text-align: justify;">
+<p><b>Outline:</b> Made a topic report: Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</p>
+</div>
 
 
 
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>Voluntary activity</b></p>
+</div>
+
+<body>
+
+  <div class="flex-container">
+      <div class="left"><b>The 3rd National Symposium on Vehicle-bridge Coupled Vibration and Application</b></div>
+      <div class="right">Mar. 2023</div>
+  </div>
+
+</body>
+
+<div style="text-align: justify;">
+<p><b>Outline:</b> As a team leader, communicated the itinerary with attending experts and professors, arranged airport pick-up and hotel check-in for more than ten professors.</p>
+</div>
+
+
+
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>Competition</b></p>
+
+</div>
+
+<body>
+
+  <div class="flex-container">
+      <div class="left"><b>The 3rd Bridge Design Competition in Anhui Province</b></div>
+      <div class="right">Nov. 2021</div>
+  </div>
+    
+</body>
+
+
+<div style="text-align: justify;">
+<p><b>Outline:</b> As a member, Completed the conceptual design of a bridge, followed by 3D rendering using Lumion. Finally, won the First Prize of the 3rd Bridge Design Competition in Anhui Province, awarded by Anhui Provincial Highway Transportation Society.</p>
+</div>
