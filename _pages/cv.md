@@ -91,9 +91,9 @@ last_modified_at: 2025-01-05
             justify-content: space-between;
             align-items: center;
         }
-        .left { text-align: left; width: 60%; }
-        .center { text-align: center; width: 20%; }
-        .right { text-align: right; width: 20%; }
+        .left { text-align: left; width: 70%; }
+        .center { text-align: center; width: 15%; }
+        .right { text-align: right; width: 15%; }
     </style>
 </head>
 
@@ -126,13 +126,3 @@ last_modified_at: 2025-01-05
 
 
 
-
-
-
-
-
-
-
-
-
-</html>

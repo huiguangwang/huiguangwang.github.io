@@ -127,7 +127,7 @@ author:
     #   url: "https://huiguangwang.top/"
     - label: "My CV"
       icon: "fa fa-address-card"
-      url: "https://huiguangwang.top/file/CV_Huiguang Wang_Hunan University_Construction Robotics.pdf"
+      url: "https://huiguangwang.top/cv"
     - label: "Google scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN"
