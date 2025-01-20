@@ -3,7 +3,7 @@ layout: single
 permalink: /cv/
 classes: wide
 author_profile: true
-last_modified_at: 2025-01-05
+last_modified_at: 2025-01-20
 ---
 
 
@@ -24,7 +24,7 @@ last_modified_at: 2025-01-05
             display: block;
             text-align: center;
             width: 100%;
-            font-size: 24px; /* Increase the font size */
+            font-size: 30px; /* Increase the font size */
         }
     </style>
 </head>
@@ -363,7 +363,7 @@ last_modified_at: 2025-01-05
   </div>
   
   <div class="flex-container">
-      <div class="left">The Second Prize Scholarship in 2019T</div>
+      <div class="left">The Second Prize Scholarship in 2019</div>
       <div class="right">Dec. 2019</div>
   </div>
   
@@ -400,5 +400,33 @@ last_modified_at: 2025-01-05
   <div class="flex-container">
       <div class="left">Merit Student in 2019</div>
       <div class="right">Dec. 2019</div>
+  </div>
+</body>
+
+
+
+<div style="text-align: justify;color:#1772d0;">
+<p><b>Academic Competition Awards</b></p>
+</div>
+
+<body>
+  <div class="flex-container">
+      <div class="left"><b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b></div>
+      <div class="right">Nov. 2021</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left"><b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b></div>
+      <div class="right">May 2021</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The Third Prize in the 2020 Basic Mechanics Competition of Hefei University of Technology</div>
+      <div class="right">Dec. 2020</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The Third Prize in The National Undergraduate Physics Experiment Innovation Competition HFUT</div>
+      <div class="right">Oct. 2020</div>
   </div>
 </body>
