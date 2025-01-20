@@ -86,18 +86,20 @@ last_modified_at: 2025-01-05
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Info</title>
     <style>
+        /* Ensure .row uses flexbox layout */
         .row {
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
-        .left { text-align: left; width: 70%; }
-        .center { text-align: center; width: 15%; }
-        .right { text-align: right; width: 15%; }
+        /* .left takes 70% width */
+        .left { text-align: left; flex-basis: 50%; }
+        /* .center takes 15% width */
+        .center { text-align: center; flex-basis: 25%; }
+        /* .right takes 15% width */
+        .right { text-align: right; flex-basis: 25%; }
     </style>
 </head>
-
-
 
 <body>
 
@@ -110,7 +112,6 @@ last_modified_at: 2025-01-05
     <div class="center">Leader</div>
     <div class="right">May. 2023 – Present</div>
 </div>
-
 
 <div style="text-align: justify;">
   <ul>
