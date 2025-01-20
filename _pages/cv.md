@@ -95,11 +95,11 @@ last_modified_at: 2025-01-05
             align-items: center;
         }
         /* .left takes 70% width */
-        .left { text-align: left; flex-basis: 50%; }
+        .left { text-align: left; flex-basis: 40%; }
         /* .center takes 15% width */
         .center { text-align: center; flex-basis: 25%; }
         /* .right takes 15% width */
-        .right { text-align: right; flex-basis: 25%; }
+        .right { text-align: right; flex-basis: 35%; }
     </style>
 </head>
 
@@ -209,9 +209,9 @@ last_modified_at: 2025-01-05
             align-items: center;
         }
         /* .left takes 75% width and left-aligned */
-        .left { text-align: left; flex-basis: 75%; }
+        .left { text-align: left; flex-basis: 70%; }
         /* .right takes 25% width and right-aligned */
-        .right { text-align: right; flex-basis: 25%; }
+        .right { text-align: right; flex-basis: 30%; }
     </style>
 </head>
 
@@ -274,4 +274,49 @@ last_modified_at: 2025-01-05
 
 <div style="text-align: justify;">
 <p><b>Outline:</b> As a member, Completed the conceptual design of a bridge, followed by 3D rendering using Lumion. Finally, won the First Prize of the 3rd Bridge Design Competition in Anhui Province, awarded by Anhui Provincial Highway Transportation Society.</p>
+</div>
+
+<body>
+
+  <div class="flex-container">
+      <div class="left"><b>The 3rd National Undergraduate Structural Design Information Technology Competition</b></div>
+      <div class="right">Apr.2021</div>
+  </div>
+    
+</body>
+
+
+<div style="text-align: justify;">
+<p><b>Outline:</b> As a leader, accomplished the architectural and structural design for an educational building, comprising the analysis and design of frame structure and foundation. Finally, won the Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition, awarded by the China Civil Engineering Society.</p>
+</div>
+
+
+
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>Internship</b></p>
+
+</div>
+
+<body>
+
+  <div class="flex-container">
+      <div class="left"><b>China Machinery International Engineering Design & Research Institute Co., Ltd</b></div>
+      <div class="right">Jun. 2022 – Aug. 2022</div>
+  </div>
+    
+</body>
+
+<body>
+
+  <div class="flex-container">
+      <div class="left"><b>Zhejiang G&Z Architectural Design Institute Co., Ltd</b></div>
+      <div class="right">Jun. 2021 – Aug. 2021</div>
+  </div>
+    
+</body>
+
+
+<div style="text-align: justify;">
+<p><b>Outline:</b> As a member of the structure design department, the main work content includes bidding for two municipal projects and drawing structural design drawings. I systematically learned design software like PKPM and Midas Gen.</p>
 </div>
