@@ -328,32 +328,32 @@ last_modified_at: 2025-01-05
 
 <body>
   <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2024, awarded by Hunan University</div>
+      <div class="left">The First Prize Scholarship in 2024</div>
       <div class="right">Oct. 2024</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">The Second Prize Scholarship in 2023, awarded by Hunan University</div>
+      <div class="left">The Second Prize Scholarship in 2023</div>
       <div class="right">Oct. 2023</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2022, awarded by Hunan University</div>
+      <div class="left">The First Prize Scholarship in 2022</div>
       <div class="right">Oct. 2022</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2021, awarded by Hefei University of Technology</div>
+      <div class="left">The First Prize Scholarship in 2021</div>
       <div class="right">Dec. 2021</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">The First Prize Scholarship in 2020, awarded by Hefei University of Technology</div>
+      <div class="left">The First Prize Scholarship in 2020</div>
       <div class="right">Dec. 2020</div>
   </div>
   
   <div class="flex-container">
-      <div class="left"><b>National Scholarship (Awarded by The Ministry of Education of the People's Republic of China)</b></div>
+      <div class="left"><b>National Scholarship</b></div>
       <div class="right">Dec. 2020</div>
   </div>
   
@@ -363,17 +363,17 @@ last_modified_at: 2025-01-05
   </div>
   
   <div class="flex-container">
-      <div class="left">The Second Prize Scholarship in 2019, awarded by Hefei University of Technology</div>
+      <div class="left">The Second Prize Scholarship in 2019T</div>
       <div class="right">Dec. 2019</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">Individual Scholarship, awarded by Hefei University of Technology</div>
+      <div class="left">Individual Scholarship</div>
       <div class="right">Dec. 2019</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">Outstanding Graduate of Anhui Province, awarded by Department of Education of Anhui Province</div>
+      <div class="left"><b>Outstanding Graduate of Anhui Province</b></div>
       <div class="right">Mar. 2022</div>
   </div>
   
@@ -383,22 +383,22 @@ last_modified_at: 2025-01-05
   </div>
   
   <div class="flex-container">
-      <div class="left">Merit Student in 2021, awarded by Hefei University of Technology</div>
+      <div class="left">Merit Student in 2021</div>
       <div class="right">Dec. 2021</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">Outstanding Merit Student in 2020, awarded by Hefei University of Technology</div>
+      <div class="left">Outstanding Merit Student in 2020</div>
       <div class="right">Dec. 2020</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">Merit Student in 2020, awarded by Hefei University of Technology</div>
+      <div class="left">Merit Student in 2020</div>
       <div class="right">Dec. 2020</div>
   </div>
   
   <div class="flex-container">
-      <div class="left">Merit Student in 2019, awarded by Hefei University of Technology</div>
+      <div class="left">Merit Student in 2019</div>
       <div class="right">Dec. 2019</div>
   </div>
 </body>
