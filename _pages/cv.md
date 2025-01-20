@@ -302,7 +302,7 @@ last_modified_at: 2025-01-05
 
   <div class="flex-container">
       <div class="left"><b>China Machinery International Engineering Design & Research Institute Co., Ltd</b></div>
-      <div class="right">Jun. 2022 – Aug. 2022</div>
+      <div class="right">2022.06–2022.08</div>
   </div>
     
 </body>
@@ -311,7 +311,7 @@ last_modified_at: 2025-01-05
 
   <div class="flex-container">
       <div class="left"><b>Zhejiang G&Z Architectural Design Institute Co., Ltd</b></div>
-      <div class="right">Jun. 2021 – Aug. 2021</div>
+      <div class="right">2021.06–2021.08</div>
   </div>
     
 </body>
@@ -320,3 +320,85 @@ last_modified_at: 2025-01-05
 <div style="text-align: justify;">
 <p><b>Outline:</b> As a member of the structure design department, the main work content includes bidding for two municipal projects and drawing structural design drawings. I systematically learned design software like PKPM and Midas Gen.</p>
 </div>
+
+## Awards & Honors
+<div style="text-align: justify;color:#1772d0;">
+<p><b>Scholarships & Honorary Titles</b></p>
+</div>
+
+<body>
+  <div class="flex-container">
+      <div class="left">The First Prize Scholarship in 2024, awarded by Hunan University</div>
+      <div class="right">Oct. 2024</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The Second Prize Scholarship in 2023, awarded by Hunan University</div>
+      <div class="right">Oct. 2023</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The First Prize Scholarship in 2022, awarded by Hunan University</div>
+      <div class="right">Oct. 2022</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The First Prize Scholarship in 2021, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2021</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The First Prize Scholarship in 2020, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2020</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left"><b>National Scholarship (Awarded by The Ministry of Education of the People's Republic of China)</b></div>
+      <div class="right">Dec. 2020</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left"><b>The First Prize of the "Industrial and Civil Construction Scholarship for Class of 1977" Civil Engineering Excellence Award</b></div>
+      <div class="right">Dec. 2020</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">The Second Prize Scholarship in 2019, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2019</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Individual Scholarship, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2019</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Outstanding Graduate of Anhui Province, awarded by Department of Education of Anhui Province</div>
+      <div class="right">Mar. 2022</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Outstanding Graduate of Hefei University of Technology</div>
+      <div class="right">Mar. 2022</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Merit Student in 2021, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2021</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Outstanding Merit Student in 2020, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2020</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Merit Student in 2020, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2020</div>
+  </div>
+  
+  <div class="flex-container">
+      <div class="left">Merit Student in 2019, awarded by Hefei University of Technology</div>
+      <div class="right">Dec. 2019</div>
+  </div>
+</body>
