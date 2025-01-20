@@ -24,6 +24,7 @@ last_modified_at: 2025-01-05
             display: block;
             text-align: center;
             width: 100%;
+            font-size: 24px; /* Increase the font size */
         }
     </style>
 </head>
@@ -43,12 +44,13 @@ last_modified_at: 2025-01-05
 
 
 
-### Overview
+
+## Overview
 <div style="text-align: justify;">
   <p>As a highly motivated and collaborative student majoring in engineering, I have a strong interest in construction robotics, and my current research focuses on developing a welding robot and rebar tying robot. Therefore, I have gained valuable experience in robotic arms, depth cameras, and machine learning. During my Master's studies, I participated in three construction robotics projects and published five papers and patents, accumulating approximately ￥1,000,000.</p>
 </div>
 
-### Educational Background
+## Educational Background
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <span>Hunan University (HNU)</span>
   <span>Sep. 2022 – Present</span>
@@ -64,7 +66,7 @@ last_modified_at: 2025-01-05
 - Bachelor of Civil Engineering
 - GPA:3.7 / 4.0 (Ranking: 2 / 252), Average Score:89.27
 
-### Publications
+## Publications
 <div style="text-align: justify;">
   <ol>
     <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Jingjing Guo, <i>Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras</i>, <b>Automation in Construction</b>. (Journal Article, SCI, Q1, IF=9.6)</li>
@@ -80,7 +82,7 @@ last_modified_at: 2025-01-05
 </div>
 
 
-### Research Experience
+## Research Experience
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -103,7 +105,7 @@ last_modified_at: 2025-01-05
 
 <body>
 
-<div style="text-align: justify;">
+<div style="text-align: justify; color:#1772d0;">
   <p><b>Automated robotic shear studs welding for steel-box beams bridge based on the integration of CAD 2D drawings and structured light camera</b></p>
 </div>
 
@@ -124,6 +126,77 @@ last_modified_at: 2025-01-05
 
 </body>
 
+
+
+
+<body>
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>Automated welding of complex rebar joints in rebar cages for prefabricated concrete shear walls</b></p>
+</div>
+
+<div class="row">
+    <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
+    <div class="center">Member</div>
+    <div class="right">May 2023 – Present</div>
+</div>
+
+<div style="text-align: justify;">
+  <ul>
+      <li>Target identification of stirrup joints is conducted using YOLOv8 / CenterNet, guiding the robotic arm to tie the intersection joints of the reinforcing cage. We integrated the UR10 robotic arm onto the UGV to tie rebar cages.</li>
+  </ul>
+</div>
+
+</body>
+
+
+
+<body>
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>Tying rebars at the intersection joints of reinforcing cage with a robotic arm based on UGV</b></p>
+</div>
+
+<div class="row">
+    <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
+    <div class="center">Leader</div>
+    <div class="right">Nov. 2023 – Present</div>
+</div>
+
+<div style="text-align: justify;">
+  <ul>
+      <li>Provided a new algorithm, ‘Rotate-ICP’, to estimate the 6-DOF welding pose of complex rebar cage joints based on point cloud. In the future, we will also adopt an end-to-end method to address this problem.</li>
+      <li>Rotate-ICP has already been applied to robotic arm welding, achieving a welding success rate of nearly 100%. The welding execution efficiency is 6 seconds per joint, which is approximately on par with manual welding efficiency.</li>
+      <li><b>Achievements:</b> Generated a research paper and a patent (Working Manuscript)</li>
+  </ul>
+</div>
+
+</body>
+
+
+<body>
+
+<div style="text-align: justify; color:#1772d0;">
+  <p><b>National undergraduate training program for innovation and entrepreneurship & student research training program</b></p>
+</div>
+
+<div class="row">
+    <div class="left"><b>Supervisors:</b>  Prof. Zuocai Wang</div>
+    <div class="center">Principal member</div>
+    <div class="right">Mar. 2020 – Jan. 2022</div>
+</div>
+
+<div style="text-align: justify;">
+  <ul>
+      <li>Utilize dynamic analysis software, a coupled vehicle-bridge dynamic analysis is performed on the composite beam bridge composed of vehicles and steel plates. </li>
+      <li>Damping devices are designed for vibration control, and the load-bearing capacity of the steel beams is analyzed using ANSYS.</li>
+      <li><b>Achievements:</b> Generated three research papers and a patent.</li>
+  </ul>
+</div>
+
+</body>
+
+## Extracurricular Activities
 
 
 
