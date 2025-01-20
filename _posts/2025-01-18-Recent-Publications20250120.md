@@ -13,6 +13,22 @@ last_modified_at: 2025-01-20
   </p>
 </div>
 
+<div style="text-align: justify;">
+  <p><strong>Abstract:</strong> Rebar tying is a labor-intensive and time-consuming task that involves repeatedly securing 
+rebar intersections. While rebar tying robots have been developed to automate this process, most 
+research focuses on tying point localization for horizontal ties, neglecting the 6 degrees of freedom 
+(DoF) tying pose estimation required for reinforcement skeletons with rebar planes in various 
+directions. This paper presents an any-direction robotic rebar tying method (AnyDirTying) for 6
+DoF tying pose estimation. First, a deep learning-based keypoint detection algorithm extracts point 
+clouds from rebar intersections. Next, a coarse-to-fine point cloud registration method is developed 
+to improve the accuracy and stability of rebar pose estimation. Finally, a symmetry-aware tying 
+strategy based on the minimum rotation angle is designed to optimize the tying pose and shorten the 
+motion path. The proposed AnyDirTying enables flexible, accurate, and efficient tying pose 
+estimation, expanding the applications of robotic rebar tying and reducing reliance on manual labor. 
+  </p>
+  <p><strong>Keywords:</strong> Rebar tying;  Any direction;  6-DoF tying pose;  point cloud registration;  Symmetry-aware
+  </p>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publication\picture\AnyDirTying.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
