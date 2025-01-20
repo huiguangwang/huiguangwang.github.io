@@ -12,23 +12,35 @@ last_modified_at: 2025-01-05
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Info</title>
     <style>
-        .row { text-align: center; }
-        .row div { display: inline-block; width: 45%; }
+        .row {
+            text-align: center;
+            width: 100%;
+        }
+        .row div {
+            display: inline-block;
+            width: 45%;
+        }
+        .row strong {
+            display: block;
+            text-align: center;
+            width: 100%;
+        }
     </style>
 </head>
 <body>
-
-<div class="row"><strong>Huiguang Wang</strong></div>
-<div class="row">
-    <div>D.O.B. Sep. 17, 2000</div>
-    <div>Tel: (+86) 19966505051</div>
-</div>
-<div class="row">
-    <div>Email: <a href="mailto:whg0917@hnu.edu.cn">whg0917@hnu.edu.cn</a></div>
-    <div>Home Page: <a href="https://huiguangwang.top">https://huiguangwang.top</a></div>
-</div>
-
+    <div class="row"><strong>Huiguang Wang</strong></div>
+    <div class="row">
+        <div>D.O.B. Sep. 17, 2000</div>
+        <div>Tel: (+86) 19966505051</div>
+    </div>
+    <div class="row">
+        <div>Email: <a href="mailto:whg0917@hnu.edu.cn">whg0917@hnu.edu.cn</a></div>
+        <div>Home Page: <a href="https://huiguangwang.top">https://huiguangwang.top</a></div>
+    </div>
 </body>
+
+
+
 
 
 ### Overview
@@ -69,9 +81,6 @@ last_modified_at: 2025-01-05
 
 
 ### Research Experience
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -82,9 +91,9 @@ last_modified_at: 2025-01-05
             justify-content: space-between;
             align-items: center;
         }
-        .left { text-align: left; width: 40%; }
-        .center { text-align: center; width: 30%; }
-        .right { text-align: right; width: 30%; }
+        .left { text-align: left; width: 60%; }
+        .center { text-align: center; width: 20%; }
+        .right { text-align: right; width: 20%; }
     </style>
 </head>
 
