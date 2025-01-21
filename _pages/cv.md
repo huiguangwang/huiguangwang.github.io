@@ -260,10 +260,10 @@ last_modified_at: 2025-01-20
 
 
 
-<br>
 
 
-<div style="text-align: justify; color:#1772d0;">
+
+<div style="text-align: justify; color:#1772d0;margin-top: 20px;">
   <b>Voluntary activity</b>
 </div>
 
@@ -281,9 +281,9 @@ last_modified_at: 2025-01-20
 </div>
 
 
-<br>
 
-<div style="text-align: justify; color:#1772d0;">
+
+<div style="text-align: justify; color:#1772d0;margin-top: 20px;">
   <b>Competition</b>
 
 </div>
@@ -317,9 +317,9 @@ last_modified_at: 2025-01-20
 </div>
 
 
-<br>
 
-<div style="text-align: justify; color:#1772d0;">
+
+<div style="text-align: justify; color:#1772d0;margin-top: 20px;">
   <b>Internship</b>
 
 </div>
@@ -428,10 +428,10 @@ last_modified_at: 2025-01-20
     <div class="right">Dec. 2019</div>
 </div>
 
-<br>
 
 
-<div style="text-align: justify;color:#1772d0;">
+
+<div style="text-align: justify;color:#1772d0;margin-top: 20px;">
   <b>Academic Competition Awards</b>
 </div>
 
