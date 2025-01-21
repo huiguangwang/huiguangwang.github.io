@@ -33,14 +33,14 @@ last_modified_at: 2025-01-20
 
 
 <body>
-    <div class="row"><strong>Huiguang Wang</strong></div>
+    <div class="row"><strong>Huiguang Wang </strong></div>
     <!-- <div class="row">
         <div>D.O.B. Sep. 17, 2000</div>
         <div>Tel: (+86) 19966505051</div>
     </div> -->
     <div class="row">
         <div>D.O.B. Sep. 17, 2000</div>
-        <div><a href="https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN">Google Scholar</a> / <a href="https://github.com/huiguangwang">GitHub</a></div>
+        <div><a href="https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN">Google Scholar</a> / <a href="https://github.com/huiguangwang">GitHub</a> / <a href="https://huiguangwang.top/file/CV_Huiguang Wang_Hunan University_Construction Robotics.pdf">PDF</div>
     </div>
     <div class="row">
         <div>Email: <a href="mailto:whg0917@hnu.edu.cn">whg0917@hnu.edu.cn</a></div>
