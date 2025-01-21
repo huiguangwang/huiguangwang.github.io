@@ -258,7 +258,7 @@ last_modified_at: 2025-01-20
 
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>Competition</b></p>
+  <b>Competition</b>
 
 </div>
 
@@ -287,14 +287,14 @@ last_modified_at: 2025-01-20
 
 
 <div style="text-align: justify;">
-<p><b>Outline:</b> As a leader, accomplished the architectural and structural design for an educational building, comprising the analysis and design of frame structure and foundation. Finally, won the Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition, awarded by the China Civil Engineering Society.</p>
+<b>Outline:</b> As a leader, accomplished the architectural and structural design for an educational building, comprising the analysis and design of frame structure and foundation. Finally, won the Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition, awarded by the China Civil Engineering Society.
 </div>
 
 
 
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>Internship</b></p>
+  <b>Internship</b>
 
 </div>
 
@@ -323,7 +323,7 @@ last_modified_at: 2025-01-20
 
 ## Awards & Honors
 <div style="text-align: justify;color:#1772d0;">
-<p><b>Scholarships & Honorary Titles</b></p>
+  <b>Scholarships & Honorary Titles</b>
 </div>
 
 
@@ -406,7 +406,7 @@ last_modified_at: 2025-01-20
 
 
 <div style="text-align: justify;color:#1772d0;">
-  <p><b>Academic Competition Awards</b></p>
+  <b>Academic Competition Awards</b>
 </div>
 
 
