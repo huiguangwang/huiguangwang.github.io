@@ -51,13 +51,16 @@ last_modified_at: 2025-01-20
 </div>
 
 ## Educational Background
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Hunan University (HNU)</span>
-  <span>Sep. 2022 – Present</span>
+
+<div class="flex-container">
+    <div class="left"><b>Hunan University (HNU)</b></div>
+    <div class="right">Sep.2022–Present</div>
 </div>
 
-- Master of Structural Engineering
-- GPA:3.4 / 4.0
+<li>Master of Structural Engineering</li>
+<li>GPA:3.4 / 4.0</li>
+
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <span>Hefei University of Technology (HFUT)</span>
   <span>Sep.2018 – Jun. 2022</span>
