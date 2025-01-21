@@ -152,34 +152,12 @@ last_modified_at: 2025-01-20
 
 
 
-
 <body>
 
 <div style="text-align: justify; color:#1772d0;">
   <b>Automated welding of complex rebar joints in rebar cages for prefabricated concrete shear walls</b>
 </div>
 
-<div class="row">
-    <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
-    <div class="center">Member</div>
-    <div class="right">May 2023 – Present</div>
-</div>
-
-<div style="text-align: justify;">
-  <ul>
-      <li>Target identification of stirrup joints is conducted using YOLOv8 / CenterNet, guiding the robotic arm to tie the intersection joints of the reinforcing cage. We integrated the UR10 robotic arm onto the UGV to tie rebar cages.</li>
-  </ul>
-</div>
-
-</body>
-
-
-
-<body>
-
-<div style="text-align: justify; color:#1772d0;">
-  <b>Tying rebars at the intersection joints of reinforcing cage with a robotic arm based on UGV</b>
-</div>
 
 <div class="row">
     <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
@@ -196,6 +174,30 @@ last_modified_at: 2025-01-20
 </div>
 
 </body>
+
+
+<body>
+
+<div style="text-align: justify; color:#1772d0;">
+  <b>Tying rebars at the intersection joints of reinforcing cage with a robotic arm based on UGV</b>
+</div>
+
+
+<div class="row">
+    <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
+    <div class="center">Member</div>
+    <div class="right">May 2023 – Present</div>
+</div>
+
+<div style="text-align: justify;">
+  <ul>
+      <li>Target identification of stirrup joints is conducted using YOLOv8 / CenterNet, guiding the robotic arm to tie the intersection joints of the reinforcing cage. We integrated the UR10 robotic arm onto the UGV to tie rebar cages.</li>
+  </ul>
+</div>
+
+</body>
+
+
 
 
 <body>
@@ -456,3 +458,8 @@ last_modified_at: 2025-01-20
     <div class="right">Oct. 2020</div>
 </div>
 
+## Additional Information
+<div style="text-align: justify;">
+  <b>Programming:</b> Python, Matlab, C++, C#, Markdown, HTML<br>
+  <b>Hardware:</b> Robotic arm (UR10, RM65-B, Han’s E15), depth camera (Mech-Eye NANO / NANO ULTRA / DEEP, PS800, D435i)
+</div>
