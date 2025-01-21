@@ -28,6 +28,10 @@ last_modified_at: 2025-01-20
         }
     </style>
 </head>
+
+
+
+
 <body>
     <div class="row"><strong>Huiguang Wang</strong></div>
     <div class="row">
@@ -57,17 +61,28 @@ last_modified_at: 2025-01-20
     <div class="right">Sep.2022–Present</div>
 </div>
 
-<li>Master of Structural Engineering</li>
-<li>GPA:3.4 / 4.0</li>
-
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Hefei University of Technology (HFUT)</span>
-  <span>Sep.2018 – Jun. 2022</span>
+<div style="text-align: justify;">
+  <ul>
+    <li>Master of Structural Engineering</li>
+    <li>GPA:3.4 / 4.0</li>
+  </ul>
 </div>
 
-- Bachelor of Civil Engineering
-- GPA:3.7 / 4.0 (Ranking: 2 / 252), Average Score:89.27
+
+
+<div class="flex-container">
+    <div class="left"><b>Hefei University of Technology (HFUT)</b></div>
+    <div class="right">Sep.2018–Jun.2022</div>
+</div>
+
+<div style="text-align: justify;">
+  <ul>
+    <li>Bachelor of Civil Engineering</li>
+    <li>GPA:3.7 / 4.0 (Ranking: 2 / 252), Average Score:89.27</li>
+  </ul>
+</div>
+
+
 
 ## Publications
 <div style="text-align: justify;">
@@ -240,6 +255,8 @@ last_modified_at: 2025-01-20
 
 
 
+<br>
+
 
 <div style="text-align: justify; color:#1772d0;">
   <b>Voluntary activity</b>
@@ -259,7 +276,7 @@ last_modified_at: 2025-01-20
 </div>
 
 
-
+<br>
 
 <div style="text-align: justify; color:#1772d0;">
   <b>Competition</b>
@@ -295,7 +312,7 @@ last_modified_at: 2025-01-20
 </div>
 
 
-
+<br>
 
 <div style="text-align: justify; color:#1772d0;">
   <b>Internship</b>
@@ -406,7 +423,7 @@ last_modified_at: 2025-01-20
     <div class="right">Dec. 2019</div>
 </div>
 
-
+<br>
 
 
 <div style="text-align: justify;color:#1772d0;">
