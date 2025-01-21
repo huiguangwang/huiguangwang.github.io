@@ -106,7 +106,8 @@ last_modified_at: 2025-01-20
 <body>
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>Automated robotic shear studs welding for steel-box beams bridge based on the integration of CAD 2D drawings and structured light camera</b></p>
+  <b>Automated robotic shear studs welding for steel-box beams bridge based on the integration 
+  of CAD 2D drawings and structured light camera</b>
 </div>
 
 <div class="row">
@@ -132,7 +133,7 @@ last_modified_at: 2025-01-20
 <body>
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>Automated welding of complex rebar joints in rebar cages for prefabricated concrete shear walls</b></p>
+  <b>Automated welding of complex rebar joints in rebar cages for prefabricated concrete shear walls</b>
 </div>
 
 <div class="row">
@@ -154,7 +155,7 @@ last_modified_at: 2025-01-20
 <body>
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>Tying rebars at the intersection joints of reinforcing cage with a robotic arm based on UGV</b></p>
+  <b>Tying rebars at the intersection joints of reinforcing cage with a robotic arm based on UGV</b>
 </div>
 
 <div class="row">
@@ -177,7 +178,7 @@ last_modified_at: 2025-01-20
 <body>
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>National undergraduate training program for innovation and entrepreneurship & student research training program</b></p>
+  <b>National undergraduate training program for innovation and entrepreneurship & student research training program</b>
 </div>
 
 <div class="row">
@@ -216,7 +217,7 @@ last_modified_at: 2025-01-20
 </head>
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>International seminar: 41st International Symposium on Automation and Robotics in Construction</b></p>
+  <b>International seminar: 41st International Symposium on Automation and Robotics in Construction</b>
 </div>
 
 <body>
@@ -231,14 +232,14 @@ last_modified_at: 2025-01-20
 </body>
 
 <div style="text-align: justify;">
-<p><b>Outline:</b> Made a topic report: Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</p>
+<b>Outline:</b> Made a topic report: Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras
 </div>
 
 
 
 
 <div style="text-align: justify; color:#1772d0;">
-  <p><b>Voluntary activity</b></p>
+  <b>Voluntary activity</b>
 </div>
 
 <body>
@@ -251,7 +252,7 @@ last_modified_at: 2025-01-20
 </body>
 
 <div style="text-align: justify;">
-<p><b>Outline:</b> As a team leader, communicated the itinerary with attending experts and professors, arranged airport pick-up and hotel check-in for more than ten professors.</p>
+<b>Outline:</b> As a team leader, communicated the itinerary with attending experts and professors, arranged airport pick-up and hotel check-in for more than ten professors.
 </div>
 
 
@@ -273,7 +274,7 @@ last_modified_at: 2025-01-20
 
 
 <div style="text-align: justify;">
-<p><b>Outline:</b> As a member, Completed the conceptual design of a bridge, followed by 3D rendering using Lumion. Finally, won the First Prize of the 3rd Bridge Design Competition in Anhui Province, awarded by Anhui Provincial Highway Transportation Society.</p>
+    <b>Outline:</b> As a member, Completed the conceptual design of a bridge, followed by 3D rendering using Lumion. Finally, won the First Prize of the 3rd Bridge Design Competition in Anhui Province, awarded by Anhui Provincial Highway Transportation Society.
 </div>
 
 <body>
