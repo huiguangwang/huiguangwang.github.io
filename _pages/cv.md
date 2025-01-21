@@ -109,7 +109,7 @@ last_modified_at: 2025-01-20
   <p><b>Automated robotic shear studs welding for steel-box beams bridge based on the integration of CAD 2D drawings and structured light camera</b></p>
 </div>
 
-<div class="row" style="margin-top: -10px;">
+<div class="row">
     <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
     <div class="center">Leader</div>
     <div class="right">May. 2023 – Present</div>
@@ -135,7 +135,7 @@ last_modified_at: 2025-01-20
   <p><b>Automated welding of complex rebar joints in rebar cages for prefabricated concrete shear walls</b></p>
 </div>
 
-<div class="row" style="margin-top: -10px;">
+<div class="row">
     <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
     <div class="center">Member</div>
     <div class="right">May 2023 – Present</div>
@@ -153,11 +153,11 @@ last_modified_at: 2025-01-20
 
 <body>
 
-<div style="text-align: justify; color:#1772d0;margin-top: 0px; margin-bottom: 0px;">
+<div style="text-align: justify; color:#1772d0;">
   <p><b>Tying rebars at the intersection joints of reinforcing cage with a robotic arm based on UGV</b></p>
 </div>
 
-<div class="row" style="margin-top: -10px;">
+<div class="row">
     <div class="left"><b>Supervisors:</b> Prof. Lu Deng and Prof. Ran Cao</div>
     <div class="center">Leader</div>
     <div class="right">Nov. 2023 – Present</div>
