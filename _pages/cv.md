@@ -56,7 +56,12 @@ last_modified_at: 2025-01-20
 
 ## Overview
 <div style="text-align: justify;">
-  <p>As a highly motivated and collaborative student majoring in engineering, I have a strong interest in construction robotics, and my current research focuses on developing a welding robot and rebar tying robot. Therefore, I have gained valuable experience in robotic arms, depth cameras, and machine learning. During my Master's studies, I participated in three construction robotics projects and published five papers and patents, accumulating approximately ￥1,000,000.</p>
+  <p>As a highly motivated and collaborative student majoring in engineering, 
+  I have a strong interest in <b>construction robotics</b>, and my current research 
+  focuses on developing <b>a welding robot and rebar tying robot</b>. Therefore, I have 
+  gained valuable experience in robotic arms, depth cameras, and machine learning. 
+  During my Master's studies, I participated in three construction robotics projects 
+  and published nine papers and patents, accumulating approximately <b>￥1,000,000</b>.</p>
 </div>
 
 ## Educational Background
