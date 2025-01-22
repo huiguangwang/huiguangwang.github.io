@@ -87,6 +87,19 @@ last_modified_at: 2025-01-20
   </ul>
 </div>
 
+## Research Interests
+
+
+
+<div style="text-align: justify;">
+  <ul>
+    <li>Intelligent Construction</li>
+    <li>Robotic Arm/Welding robot</li>
+    <li>Applied Machine Learning</li>
+    <li>Vision-based robotic arm manipulation</li>
+  </ul>
+</div>
+
 
 
 ## Publications
