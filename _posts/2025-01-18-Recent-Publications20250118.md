@@ -23,10 +23,11 @@ last_modified_at: 2025-01-18
     </span>
     <p>
       Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo<br>
-      <i>Automation in Construction</i>, Impact Factor: 9.6, (SCI, Q1)
+      <i>Automation in Construction</i>, Impact Factor: 9.6 (SCI, Q1)
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000299"><b>[Paper]</b></a>
     </p>
   </div>
 </div>

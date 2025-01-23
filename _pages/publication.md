@@ -47,6 +47,7 @@ last_modified_at: 2025-01-18
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000299"><b>[Paper]</b></a>
     </p>
   </div>
 </div>
