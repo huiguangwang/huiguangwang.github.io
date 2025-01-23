@@ -34,7 +34,7 @@ last_modified_at: 2024-12-03
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><img src="/web_resources\youtube.svg" style="max-width: 40px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><strong>[Video]</strong></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/huiguangwang"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://github.com/huiguangwang"><strong>[Code]</strong></a>
+  <a href="https://github.com/huiguangwang"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://1drv.ms/u/c/665d3e10d9989786/EeHH7K-XhJJIpUaHAby9RhIBEIHyaNQ2sidEp4ZjjtvQvQ?e=hn6RAC"><strong>[Code]</strong></a>
 </div>
 
 <br>
