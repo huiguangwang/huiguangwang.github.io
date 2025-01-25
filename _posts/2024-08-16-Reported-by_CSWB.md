@@ -12,7 +12,7 @@ last_modified_at: 2024-08-16
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-  <img src="/web_resources\post\picture\2024-08-16-Reported-by_CSWB.png" style="max-width: 80%; height: auto; margin-bottom: 10px;" />
+  <img src="/web_resources\post\picture\2024-08-16-Reported-by_CSWB.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
 
 {% include video id="SIfvVK0jX5s" provider="youtube" %}
