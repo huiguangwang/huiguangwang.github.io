@@ -4,15 +4,15 @@ main:
     url: https://huiguangwang.top/cv/
   - title: "Home"
     url: https://huiguangwang.top
-  - title: "Project"
+  - title: "Projects"
     url: /project/
-  - title: "Publication"
+  - title: "Publications"
     url: /publication/
-  - title: "Award"
+  - title: "Awards"
     url: /award/
-  - title: "Video"
+  - title: "Videos"
     url: /video/
-  - title: "Post"
+  - title: "Posts"
     url: /post/
   - title: "Contact"
     url: /contact/
