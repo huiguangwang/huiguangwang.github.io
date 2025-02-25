@@ -4,7 +4,7 @@ permalink: /award/
 classes: wide
 author_profile: true
 last_modified_at: 2024-11-28
-title: Award
+title: Awards
 ---
 
 <h2>Scholarships</h2>

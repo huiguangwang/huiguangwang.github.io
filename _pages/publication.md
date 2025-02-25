@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /publication/
-title: Publication
+title: Publications
 classes: wide
 author_profile: true
 last_modified_at: 2025-01-18
