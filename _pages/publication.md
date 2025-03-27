@@ -24,7 +24,7 @@ last_modified_at: 2025-01-18
   <img src="/web_resources/post/isarc2025/ISARC2025.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Vision-Guided Camera Pose Estimation for Robotic Rebar Tying (Under Review)</b>
+      <b>Vision-Guided Camera Pose Estimation for Robotic Rebar Tying</b>
     </span>
     <p>
       Shaopeng Xu, <strong>Huiguang Wang</strong>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo
