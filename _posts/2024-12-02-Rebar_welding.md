@@ -67,6 +67,9 @@ last_modified_at: 2025-04-08
     <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
       <img src="/web_resources\post\Rotate-ICP\welding.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
     </div>
+    <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+      <img src="/web_resources\post\Rotate-ICP\welding1.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    </div>
 </div>
 
 
