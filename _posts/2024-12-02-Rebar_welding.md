@@ -1,5 +1,5 @@
 ---
-title: Tutorial-NEW Paper-Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls
+title: Tutorial-How to apply Rotate-ICP algorithm
 classes: wide
 author_profile: true
 date: 2025-04-08
@@ -11,7 +11,7 @@ last_modified_at: 2025-04-08
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras<br/>
+    Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls<br/>
   </p>
   <p style="margin-top: 10px;">Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong></p>
   <p style="margin-top: 10px;">College of Civil Engineering, Hunan University, Changsha 410082, PR China</p>
