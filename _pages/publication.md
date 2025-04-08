@@ -9,16 +9,21 @@ last_modified_at: 2025-01-18
 
 
 
-<!-- <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\post\welding_rebar.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\post\Rotate-ICP\welding.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Recent work: We recently pay our attention to providing a new end2end framework for estimating a 6-DOF pose, which can be appiled
-       in various scenarios, such as bin-picking, Augmented Reality, and etc.</b>
+      <b>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls (Under Review)</b>
     </span>
+    <p>
+      Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong>
+      <br>        
+            <!-- <i>International Symposium on Automation and Robotics in Construction</i> -->
+    </p>
   </div>
-</div> -->
-
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources/post/isarc2025/ISARC2025.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
