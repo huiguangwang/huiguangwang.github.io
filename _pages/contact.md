@@ -28,12 +28,6 @@ author_profile: true
 
 
 
-
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
+<div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
+  <img src="/web_resources\合照.jpg" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+</div>
