@@ -35,4 +35,52 @@ comments: True
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM"></script>
+<div class="footer-container">
+  <!-- 左侧：地球图 -->
+  <div class="map">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM"></script>
+  </div>
+
+  <!-- 右侧：版权声明 -->
+  <div class="copyright">
+    If there are any copyright issues on the website, please let me know and I will handle it within 5 working days.
+  </div>
+</div>
+
+<style>
+  .footer-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; /* 小屏时换行 */
+    gap: 1rem;
+    padding: 1rem 0;
+  }
+
+  .map {
+    width: 200px;
+    min-width: 200px;
+    height: auto;
+  }
+
+  .copyright {
+    flex: 1;
+    font-size: 0.9rem;
+    color: #555;
+  }
+
+  @media (max-width: 600px) {
+    .footer-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .map {
+      width: 100%;
+      max-width: 200px;
+    }
+
+    .copyright {
+      margin-top: 0.5rem;
+    }
+  }
+</style>
