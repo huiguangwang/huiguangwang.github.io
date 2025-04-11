@@ -38,15 +38,16 @@ comments: True
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 300px; margin-right: 20px;">
     <script type="text/javascript" id="clustrmaps"
-      src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM">
+      src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM">
     </script>
   </div>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>If there are any copyright issues on the website</b>
+      <b>Friendship Links</b>
     </span>
     <p>
-      please let me know and I will handle it within 5 working days.
+      <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>DengTeam</strong><br>
+      <a href="https://www.shao-lab.com/AIS-Construction-Lab-d2cd3b540c494942b20594212ffd448c" target="_blank"><strong>AIS Construction Lab</strong>
     </p>
   </div>
 </div>
