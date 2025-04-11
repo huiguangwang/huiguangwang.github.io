@@ -35,4 +35,9 @@ comments: True
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=800&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM'></script>
+<div style="max-width: 100%; width: 100%;">
+  <script type='text/javascript' id='clustrmaps' 
+    src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100%&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM'>
+  </script>
+</div>
+
