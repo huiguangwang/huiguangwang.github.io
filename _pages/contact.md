@@ -35,18 +35,21 @@ comments: True
 
 
 
-<div class="map-wrapper" style="width: 100%; max-width: 100%;">
-  <script type='text/javascript' id='clustrmaps' 
-    src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM'>
-  </script>
+<div class="clustrmaps-container">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100%&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM'></script>
 </div>
 
 <style>
-  /* 确保生成的 iframe 或内部 div 自适应 */
-  .map-wrapper iframe,
-  .map-wrapper > div {
-    width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
+  .clustrmaps-container {
+    max-width: 100%;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  /* 如果地图加载的是 iframe，可以用以下样式控制 */
+  .clustrmaps-container iframe {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
   }
 </style>
