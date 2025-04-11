@@ -326,4 +326,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: flase
+      related: true
