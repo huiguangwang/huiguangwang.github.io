@@ -35,28 +35,18 @@ comments: True
 
 
 
-<style>
-  .map-responsive {
-    position: relative;
-    width: 100%;
-    padding-bottom: 50%; /* 地图高宽比（比例） */
-    height: 0;
-    overflow: hidden;
-  }
-  .map-responsive iframe, 
-  .map-responsive div {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
-  }
-</style>
-
-<div class="map-responsive">
+<div class="map-wrapper" style="width: 100%; max-width: 100%;">
   <script type='text/javascript' id='clustrmaps' 
     src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM'>
   </script>
 </div>
 
-
+<style>
+  /* 确保生成的 iframe 或内部 div 自适应 */
+  .map-wrapper iframe,
+  .map-wrapper > div {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+</style>
