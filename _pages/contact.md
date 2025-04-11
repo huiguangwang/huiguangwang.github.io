@@ -3,6 +3,7 @@ layout: single
 permalink: /contact/
 classes: wide
 author_profile: true
+comments: True
 ---
 
 
