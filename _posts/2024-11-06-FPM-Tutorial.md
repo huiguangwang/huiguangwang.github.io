@@ -166,12 +166,7 @@ FPM_code
 
 
 
-## Leave a Message
-<br>
 
-{% include disqus.html %} 
-
-<br>
 
 
 
