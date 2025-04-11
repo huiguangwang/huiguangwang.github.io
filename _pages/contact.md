@@ -29,8 +29,11 @@ comments: True
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;margin: 0 auto;">
   <img src="/web_resources\合照.jpg" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-</div>
+</div> -->
 
 
+<body>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM'></script>
+</body>
