@@ -15,11 +15,11 @@ comments: True
 
 Given:
 - A planar surface (infinite plane) observed by an RGB-D camera.
-- A known 2D world coordinate on the plane: \( (x_w, y_w) \)
-- The depth \( z_w \) of the point is **unknown**
+- A known 2D world coordinate on the plane: $ (x_w, y_w) $
+- The depth $ z_w $ of the point is **unknown**
 - The RGB-D camera provides both color and depth images
 
-**Goal**: Find the pixel coordinate \( (u, v) \) in the image that corresponds to the world point \( (x_w, y_w) \).
+**Goal**: Find the pixel coordinate $ (u, v) $ in the image that corresponds to the world point $ (x_w, y_w) $.
 
 ---
 
@@ -33,7 +33,7 @@ a method named **Fast Pixel Matching (FPM)** is proposed to solve this problem e
 
 ## 📐 Standard Projection Equation
 
-When the depth \( z_{\text{cam}} \) is known, the 3D point in the **camera coordinate system** can be computed by:
+When the depth $ z_{\text{cam}} $ is known, the 3D point in the **camera coordinate system** can be computed by:
 
 $$
 \mathbf{X}_c =
@@ -51,21 +51,21 @@ R \cdot \mathbf{X}_c + t
 $$
 
 where:
-- \( K \) is the camera intrinsic matrix,
-- \( R \), \( t \) are the rotation and translation matrices from the camera to world frame,
-- \( \mathbf{X}_c \) and \( \mathbf{X}_w \) are the 3D coordinates in camera and world frames respectively.
+- $ K $ is the camera intrinsic matrix,
+- $ R $, $ t $ are the rotation and translation matrices from the camera to world frame,
+- $ \mathbf{X}_c $ and $ \mathbf{X}_w $ are the 3D coordinates in camera and world frames respectively.
 
-> But in our case, we **already know** \( x_w, y_w \) and want to **find** the corresponding \( (u, v) \), so we need to **reverse** the process using FPM.
+> But in our case, we **already know** $ x_w, y_w $ and want to **find** the corresponding $ (u, v) $, so we need to **reverse** the process using FPM.
 
 ## 🚀 FPM Algorithm Summary
 
 1. **Brute-force idea**:  
-   For each pixel \( (u,v) \), retrieve depth \( z_{\text{cam}} \), and project it into world coordinates.  
-   Then compare \( (x_w, y_w) \) with the computed 3D point.
+   For each pixel $ (u,v) $, retrieve depth $ z_{\text{cam}} $, and project it into world coordinates.  
+   Then compare $ (x_w, y_w) $ with the computed 3D point.
 
 2. **FPM improvement**:
    - Avoids linear scan of all pixels (O(N)).
-   - Performs **logarithmic spatial subdivision** (quadtree-like search), reaching time complexity \( O(\log_4 N) \).
+   - Performs **logarithmic spatial subdivision** (quadtree-like search), reaching time complexity $ O(\log_4 N) $.
    - Efficiently narrows down to pixels where:
      $$
      \left\| \text{World}(u,v) - (x_w, y_w) \right\| < \varepsilon
@@ -78,18 +78,18 @@ where:
 ## 🔄 Overall Procedure
 
 1. **Inputs**:
-   - Target world coordinate: \( (x_w, y_w) \)
-   - Camera intrinsics \( K \), extrinsics \( M_{\text{cam2world}} \)
-   - Depth image \( D(u,v) \)
+   - Target world coordinate: $ (x_w, y_w) $
+   - Camera intrinsics $ K $, extrinsics $ M_{\text{cam2world}} $
+   - Depth image $ D(u,v) $
 
 2. **Search using FPM**:
    - For each candidate pixel in a shrinking search region:
-     - Get depth \( z_{\text{cam}} \) at \( (u,v) \)
+     - Get depth $ z_{\text{cam}} $ at $ (u,v) $
      - Back-project to 3D world coordinate
-     - Check distance to target \( (x_w, y_w) \)
+     - Check distance to target $ (x_w, y_w) $
 
 3. **Output**:
-   - Pixel coordinate \( (u,v) \) such that back-projected point is close to \( (x_w, y_w) \)
+   - Pixel coordinate $ (u,v) $ such that back-projected point is close to $ (x_w, y_w) $
 
 ---
 
@@ -105,4 +105,4 @@ where:
 
 - Ensure accurate calibration of intrinsic and extrinsic parameters
 - Use depth filtering/smoothing to reduce noise
-- Choose a small \( \varepsilon \) (e.g., 1 mm) for fine alignment
+- Choose a small $ \varepsilon $ (e.g., 1 mm) for fine alignment
