@@ -56,21 +56,21 @@ The goal of this calibration is to determine the **intrinsic** and **extrinsic**
 
 ### Step 3: Estimate Intrinsic Parameters
 - Use OpenCV or similar toolboxes to compute:
-  - Focal lengths \( f_x, f_y \)
-  - Principal point \( p_x, p_y \)
+  - Focal lengths $ f_x, f_y $
+  - Principal point $ p_x, p_y $
   - Lens distortion coefficients
 
 ### Step 4: Estimate Extrinsic Parameters
 - Solve the **Hand-Eye Calibration** problem:
   - Input: Robot poses + camera poses relative to the calibration board
-  - Output: Transformation from camera to robot flange \( \mathbf{T}_{\text{camera}}^{\text{end-effector}} \)
+  - Output: Transformation from camera to robot flange $ \mathbf{T}_{\text{camera}}^{\text{end-effector}} $
 - Common method: Tsai-Lenz or Dual Quaternion-based approach
 
 ---
 
 ## 📐 Output
 
-- **Intrinsic Matrix** \( K \):
+- **Intrinsic Matrix** $ K $:
 
 {% raw %}
 $$
@@ -83,9 +83,9 @@ f_x & 0 & p_x \\
 $$
 {% endraw %}
 
-- **Distortion Coefficients**: \( k_1, k_2, p_1, p_2, k_3 \)
+- **Distortion Coefficients**: $ k_1, k_2, p_1, p_2, k_3 $
 
-- **Extrinsic Matrix** \( [R | t] \): Rotation and translation from robot end-effector to camera
+- **Extrinsic Matrix** $ [R | t] $: Rotation and translation from robot end-effector to camera
 
 ---
 
