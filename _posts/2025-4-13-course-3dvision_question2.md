@@ -9,7 +9,6 @@ last_modified_at: 2025-04-13
 comments: True
 ---
 
-# Question 2: Relationship Between Principal Point and Image Dimensions
 
 ## 📌 Theoretical Relationship
 

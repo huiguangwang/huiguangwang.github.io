@@ -1,5 +1,5 @@
 ---
-title: Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
+title: Course-Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
 classes: wide
 author_profile: true
 date: 2025-04-13
@@ -9,14 +9,13 @@ last_modified_at: 2025-04-13
 comments: True
 ---
 
-# Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
 
 ## 📌 Problem Description
 
 Given:
 - A planar surface (infinite plane) observed by an RGB-D camera.
 - A known 2D world coordinate on the plane: $ (x_w, y_w) $
-- The depth $ z_w $ of the point is **unknown**
+- The coordinate $ z_w $ of the point is **unknown**
 - The RGB-D camera provides both color and depth images
 
 **Goal**: Find the pixel coordinate $ (u, v) $ in the image that corresponds to the world point $ (x_w, y_w) $.
@@ -26,8 +25,7 @@ Given:
 ## ✅ Key Insight from Literature
 
 Based on the paper:  
-**"Automated point positioning for robotic spot welding using integrated 2D drawings and structured light cameras"**,  
-a method named **Fast Pixel Matching (FPM)** is proposed to solve this problem efficiently.
+**"Automated point positioning for robotic spot welding using integrated 2D drawings and structured light cameras"**, a method named **Fast Pixel Matching (FPM)** is proposed to solve this problem efficiently.
 
 ---
 
