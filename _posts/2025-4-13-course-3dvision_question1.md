@@ -85,7 +85,8 @@ $$
 
 - **Distortion Coefficients**: $ k_1, k_2, p_1, p_2, k_3 $
 
-- **Extrinsic Matrix** $[R | t]$: Rotation and translation from robot end-effector to camera
+**Extrinsic Matrix** $[\mathbf{R} \mid \mathbf{t}]$: Rotation and translation from robot end-effector to camera
+
 
 ---
 
