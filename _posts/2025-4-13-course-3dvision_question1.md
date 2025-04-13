@@ -8,7 +8,7 @@ categories:
 last_modified_at: 2025-04-13
 comments: True
 ---
-
+123
 # Question 1: Eye-in-Hand Camera Calibration Guide (Using RGB + Pose Data)
 
 ## 🎯 Objective
