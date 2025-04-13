@@ -1,16 +1,14 @@
 ---
-title: Course-Related answers about 3D vision course
+title: Course-Relationship Between Principal Point and Image Dimensions
 classes: wide
 author_profile: true
 date: 2025-04-13
 categories: 
   - Course
-last_modified_at: 2025-04-08
+last_modified_at: 2025-04-13
 comments: True
 ---
-
-
-# Relationship Between Principal Point and Image Dimensions
+# Question 2: Relationship Between Principal Point and Image Dimensions
 
 ## 📌 Theoretical Relationship
 
