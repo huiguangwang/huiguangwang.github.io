@@ -9,6 +9,25 @@ last_modified_at: 2025-04-13
 comments: True
 ---
 
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+Here is an inline equation: \\( E = mc^2 \\)
+
+And here is a block-level matrix:
+
+{% raw %}
+$$
+K =
+\\begin{bmatrix}
+f_x & 0 & p_x \\\\
+0 & f_y & p_y \\\\
+0 & 0 & 1
+\\end{bmatrix}
+$$
+{% endraw %}
+
 # Question 1: Eye-in-Hand Camera Calibration Guide (Using RGB + Pose Data)
 
 ## 🎯 Objective
