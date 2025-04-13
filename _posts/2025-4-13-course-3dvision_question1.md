@@ -8,6 +8,7 @@ categories:
 last_modified_at: 2025-04-13
 comments: True
 ---
+
 # Question 1: Eye-in-Hand Camera Calibration Guide (Using RGB + Pose Data)
 
 ## 🎯 Objective
@@ -70,14 +71,19 @@ The goal of this calibration is to determine the **intrinsic** and **extrinsic**
 ## 📐 Output
 
 - **Intrinsic Matrix** \( K \):
-```
-K = | f_x   0   p_x |
-    |  0   f_y  p_y |
-    |  0    0    1  |
-```
 
+{% raw %}
+$$
+K = 
+\begin{bmatrix}
+f_x & 0 & p_x \\
+0 & f_y & p_y \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+{% endraw %}
 
-- **Distortion Coefficients**: \( k_1, k_2, p_1, p_2, k_3 \) (or more)
+- **Distortion Coefficients**: \( k_1, k_2, p_1, p_2, k_3 \)
 
 - **Extrinsic Matrix** \( [R | t] \): Rotation and translation from robot end-effector to camera
 
@@ -106,6 +112,3 @@ This calibration result can be used in:
 - Visual servoing
 - Pose estimation
 - Robotic SLAM and mapping
-
-
-
