@@ -8,16 +8,20 @@ categories:
 last_modified_at: 2025-04-13
 comments: True
 ---
+
 # Question 2: Relationship Between Principal Point and Image Dimensions
 
 ## 📌 Theoretical Relationship
 
 In theory, the **principal point** refers to the intersection of the camera's **optical axis** with the image plane. This point is typically located **near the center of the image**. Thus:
 
-```
-p_x ≈ image_width / 2  
-p_y ≈ image_height / 2
-```
+$$
+p_x \approx \frac{W}{2}  
+$$
+
+$$
+p_y \approx \frac{H}{2}
+$$
 
 ---
 
@@ -31,16 +35,22 @@ Let:
 In a pixel coordinate system (origin at top-left corner):
 
 - If pixel centers are at integer positions:
-  ```
-  p_x = (W - 1) / 2  
-  p_y = (H - 1) / 2
-  ```
+  $$
+  p_x = \frac{W - 1}{2}  
+  $$
+
+  $$
+  p_y = \frac{H - 1}{2}
+  $$
 
 - If pixel centers are at half-integer positions:
-  ```
-  p_x = W / 2  
-  p_y = H / 2
-  ```
+  $$
+  p_x = \frac{W}{2}  
+  $$
+
+  $$
+  p_y = \frac{H}{2}
+  $$
 
 ---
 
@@ -48,10 +58,13 @@ In a pixel coordinate system (origin at top-left corner):
 
 For a 1920×1080 image:
 
-```
-p_x ≈ 960  
-p_y ≈ 540
-```
+$$
+p_x \approx 960  
+$$
+
+$$
+p_y \approx 540
+$$
 
 ---
 
@@ -71,11 +84,13 @@ p_y ≈ 540
 
 The camera intrinsic matrix \( K \) is defined as:
 
-```
-K = | f_x   0   p_x |
-    |  0   f_y  p_y |
-    |  0    0    1  |
-```
+$$
+K = \begin{bmatrix}
+f_x & 0 & p_x \\
+0 & f_y & p_y \\
+0 & 0 & 1
+\end{bmatrix}
+$$
 
 Where:
 

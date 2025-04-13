@@ -1,5 +1,5 @@
 ---
-title: Course-Relationship Between Principal Point and Image Dimensions
+title: Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
 classes: wide
 author_profile: true
 date: 2025-04-13
@@ -9,7 +9,7 @@ last_modified_at: 2025-04-13
 comments: True
 ---
 
-# Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using a RGB-D Camera
+# Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
 
 ## 📌 Problem Description
 
@@ -35,20 +35,20 @@ a method named **Fast Pixel Matching (FPM)** is proposed to solve this problem e
 
 When the depth \( z_{\text{cam}} \) is known, the 3D point in the **camera coordinate system** can be computed by:
 
-\[
+$$
 \mathbf{X}_c =
 z_{\text{cam}} \cdot K^{-1} \cdot
 \begin{bmatrix}
 u \\ v \\ 1
 \end{bmatrix}
-\]
+$$
 
 To convert it into **world coordinates**, apply the extrinsic transformation:
 
-\[
+$$
 \mathbf{X}_w =
 R \cdot \mathbf{X}_c + t
-\]
+$$
 
 where:
 - \( K \) is the camera intrinsic matrix,
@@ -57,20 +57,20 @@ where:
 
 > But in our case, we **already know** \( x_w, y_w \) and want to **find** the corresponding \( (u, v) \), so we need to **reverse** the process using FPM.
 
-
 ## 🚀 FPM Algorithm Summary
 
 1. **Brute-force idea**:  
-   For each pixel \( (u,v) \), retrieve depth \( z_{\text{cam}} \), and project it into world coordinates.
+   For each pixel \( (u,v) \), retrieve depth \( z_{\text{cam}} \), and project it into world coordinates.  
    Then compare \( (x_w, y_w) \) with the computed 3D point.
 
 2. **FPM improvement**:
    - Avoids linear scan of all pixels (O(N)).
    - Performs **logarithmic spatial subdivision** (quadtree-like search), reaching time complexity \( O(\log_4 N) \).
    - Efficiently narrows down to pixels where:
-     \[
+     $$
      \left\| \text{World}(u,v) - (x_w, y_w) \right\| < \varepsilon
-     \]
+     $$
+
    - Example: For a 1280×1024 depth image, only **11 iterations** are needed.
 
 ---
@@ -106,5 +106,3 @@ where:
 - Ensure accurate calibration of intrinsic and extrinsic parameters
 - Use depth filtering/smoothing to reduce noise
 - Choose a small \( \varepsilon \) (e.g., 1 mm) for fine alignment
-
----
