@@ -14,8 +14,8 @@ comments: True
 
 Given:
 - A planar surface (infinite plane) observed by an RGB-D camera.
-- A known 2D world coordinate on the plane: $ (x_w, y_w) $
-- The coordinate $ z_w $ of the point is **unknown**
+- A known 2D world coordinate on the plane: $ P: (x_w, y_w) $
+- The Z coordinate $ z_w $ of $P$  of the point is **unknown**
 - The RGB-D camera provides both color and depth images
 
 **Goal**: Find the pixel coordinate $ (u, v) $ in the image that corresponds to the world point $ (x_w, y_w) $.
