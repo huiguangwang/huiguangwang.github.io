@@ -8,7 +8,7 @@ categories:
 last_modified_at: 2025-04-13
 comments: True
 ---
-123
+
 # Question 1: Eye-in-Hand Camera Calibration Guide (Using RGB + Pose Data)
 
 ## 🎯 Objective
@@ -27,9 +27,9 @@ The goal of this calibration is to determine the **intrinsic** and **extrinsic**
   - One **6-DOF pose** of the robot end-effector
 - **Total Samples**: 37
 - **Pose Representation**:
-  - **Translation**: \((x, y, z)\), in **millimeters**
-  - **Rotation**: \((rx, ry, rz)\), in **radians**
-  - **Rotation Order**: **XYZ**, using **fixed angles**
+  - **Translation**: $ (x, y, z) $, in **millimeters**
+  - **Rotation**: $ (r_x, r_y, r_z) $, in **radians**
+  - **Rotation Order**: XYZ (fixed angles)
   - **Coordinate System**: **Right-hand coordinate system**
 
 ---
