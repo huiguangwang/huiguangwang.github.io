@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 date: 2025-04-03
 categories: 
-  -Blog
+  - Blog
 last_modified_at: 2025-04-03
 ---
 
