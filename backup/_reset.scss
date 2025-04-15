@@ -10,6 +10,18 @@ html {
   background-color: $background-color;
   font-size: $doc-font-size;
 
+  @include breakpoint($medium) {
+    font-size: $doc-font-size-medium;
+  }
+
+  @include breakpoint($large) {
+    font-size: $doc-font-size-large;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: $doc-font-size-x-large;
+  }
+
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
