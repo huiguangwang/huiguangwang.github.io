@@ -108,7 +108,7 @@ last_modified_at: 2025-01-20
 
 
 ## Publications
-* means corresponding author
+(*) means corresponding author
 <div style="text-align: justify;">
   <ol>
     <li>Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <b>Huiguang Wang*,</b> <i>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls</i>. (Under Review)</li>
