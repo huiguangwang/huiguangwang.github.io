@@ -108,11 +108,13 @@ last_modified_at: 2025-01-20
 
 
 ## Publications
+* means corresponding author
 <div style="text-align: justify;">
   <ol>
+    <li>Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <b>Huiguang Wang*,</b> <i>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls</i>. (Under Review)</li>
     <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Jingjing Guo, <i>Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras</i>, <b>Automation in Construction</b>. (Journal Article, SCI, Q1, IF=9.6)</li>
     <li>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <b>Huiguang Wang</b>, <i>Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying</i>, <b>Automation in Construction</b>. (Journal Article, SCI, Q1, IF=9.6)</li>
-    <li>Shaopeng Xu, <b>Huiguang Wang</b>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo, <i>Vision-Guided Camera Pose Estimation for Robotic Rebar Tying</i>, <b>2025 International Symposium on Automation and Robotics in Construction</b>. (Conference, EI, Under Review)</li>
+    <li>Shaopeng Xu, <b>Huiguang Wang</b>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo, <i>Vision-Guided Camera Pose Estimation for Robotic Rebar Tying</i>, <b>2025 International Symposium on Automation and Robotics in Construction</b>. (Conference, EI)</li>
     <li><b>Huiguang Wang</b>, Lu Deng, Ran Cao, Jingjing Guo, <i>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</i>, <b>2024 International Symposium on Automation and Robotics in Construction</b>. (Conference, EI)</li>
     <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Xun Zuo, <i>A Welding Method and System for Steel-concrete Composite Structure Connectors</i>, CN 117102725 B, 2024-01-09. (Patent)</li>
     <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Jingjing Guo, <i>A Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage</i>. (Patent)</li>
