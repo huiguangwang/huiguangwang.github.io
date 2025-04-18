@@ -1,5 +1,5 @@
 ---
-title: Blog-Recently Featured by the School of Civil Engineering, Hunan University
+title: Blog-Recently Featured by the College of Civil Engineering, Hunan University
 classes: wide
 author_profile: true
 date: 2025-04-03
