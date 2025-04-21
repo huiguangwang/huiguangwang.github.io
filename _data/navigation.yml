@@ -14,5 +14,7 @@ main:
     url: /video/
   - title: "Posts"
     url: /post/
+  - title: "Resources"
+    url: /resource/
   - title: "Contact"
     url: /contact/
