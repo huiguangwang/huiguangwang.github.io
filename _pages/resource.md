@@ -17,7 +17,7 @@ last_modified_at: 2025-04-21
 ## Codes
 <div style="text-align: justify;">
   <ol>
-    <li>Fast-Pixel-Matching algorithm: How to map 2D coordinates in 2D drawings into surfaces of components<a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>Fast-Pixel-Matching algorithm: How to map 2D coordinates in 2D drawings into surfaces of components <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
   </ol>
 </div>
 
@@ -25,15 +25,15 @@ last_modified_at: 2025-04-21
 
 <div style="text-align: justify;">
   <ol>
-    <li>CAD plug-in: How to extract 2D coordinates from 2D drawings<a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>CAD plug-in: How to extract 2D coordinates from 2D drawings <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
   </ol>
 </div>
 
 ## Dataset
 <div style="text-align: justify;">
   <ol>
-    <li>4-DoF rebar tying<a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
-    <li>6-DoF rebar tying<a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>4-DoF rebar tying <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>6-DoF rebar tying <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
   </ol>
 </div>
 
