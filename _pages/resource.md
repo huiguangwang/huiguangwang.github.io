@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /resource/
-# title: Code and Dataset
+title: Resources
 classes: wide
 author_profile: true
 last_modified_at: 2025-04-21
