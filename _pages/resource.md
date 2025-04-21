@@ -32,7 +32,7 @@ comments: True
   </ol>
 </div>
 
-## How to apply
+## How to apply codes
 
 <div style="text-align: justify;">
   <ol>
