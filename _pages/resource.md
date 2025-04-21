@@ -15,8 +15,19 @@ last_modified_at: 2025-04-21
 
 
 ## Codes
+<div style="text-align: justify;">
+  <ol>
+    <li>Fast-Pixel-Matching algorithm: How to map 2D coordinates in 2D drawings into surfaces of components<a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+  </ol>
+</div>
 
 ## Plug-in
+
+<div style="text-align: justify;">
+  <ol>
+    <li>CAD plug-in: How to extract 2D coordinates from 2D drawings<a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+  </ol>
+</div>
 
 ## Dataset
 <div style="text-align: justify;">
@@ -30,6 +41,7 @@ last_modified_at: 2025-04-21
 
 <div style="text-align: justify;">
   <ol>
-    <li>2D bounding boxes and keypoints detection <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>YoloV9: 2D bounding boxes and keypoints detection <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>PoseCNN: An end-to-end network to estimate 6-DoF poses of objects <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
   </ol>
 </div>
