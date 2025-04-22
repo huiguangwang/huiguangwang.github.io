@@ -46,13 +46,13 @@ cv2.circle(self.im, (int(x_coord), int(y_coord)), radius, color_k, -1, lineType=
 # cv2.circle(self.im, (int(x_coord), int(y_coord)), , color_k, -1, lineType=cv2.LINE_AA)
 ```
 
-- ultralytics\cfg\default.yaml: defaulyt configuration file
+- ultralytics\cfg\default.yaml: default configuration file
 
 ### Train
 
-```bash
+`
 yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640
-```
+`
 
 
 
