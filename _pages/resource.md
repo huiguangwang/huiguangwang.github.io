@@ -39,7 +39,7 @@ comments: True
     <li>YoloV9: 2D bounding boxes and keypoints detection <a href="https://huiguangwang.top/resources/pose-detection/">[Click me]</a></li>
     <li>YoloV9: 2D bounding boxes detection <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
     <li>YoloV9: 2D masks segmentation <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
-    <li>PoseCNN: An end-to-end network to estimate 6-DoF poses of objects <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
+    <li>PoseCNN: An end-to-end network to estimate 6-DoF poses of objects <a href="https://github.com/IlikeSukiyaki/PoseCNN_pytorch/tree/main">[Code]</a> <a href="https://www.selectdataset.com/dataset/882376072e23b0ab4fdfa224938dba9a">[Dataset]</a></li>
     <li>Fast-Pixel-Matching algorithm: How to map 2D coordinates in 2D drawings into surfaces of components <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
     <li>Rotate-ICP: Estimate 6-DoF poses of tie rebars <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
   </ol>
