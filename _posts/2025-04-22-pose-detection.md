@@ -57,6 +57,7 @@ yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\c
 ---
 ### Related links
 
-code:
+code:[github](https://github.com/senseable-ai/yolov9-pose) [our code](https://github.com/senseable-ai/yolov9-pose)
+<br>
 dataset:
 
