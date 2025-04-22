@@ -18,13 +18,48 @@ categories:
 1. datasets/pose_json2txt.py: Transfer label files from .json to .txt
 2. datasets/split.py: split dataset
 3. change configuration files
-- ultralytics\cfg\models\v9\yolov9-pose.yaml nc & kpt_shape
+
+- ultralytics\cfg\models\v9\yolov9-pose.yaml
+```bash
+# Parameters
+nc: 1  # number of classes
+kpt_shape: [2, 3] # number of keypoints, just change the first parameter, '3' means visibility
+```
+
+
 - ultralytics\cfg\datasets\coco-pose.yaml 
-- ultralytics\utils\plotting.py line 243 radius to control the size of keypoints
 
+
+```bash
+# Keypoints
+kpt_shape: [2, 3] # number of keypoints, number of dims (2 for x,y or 3 for x,y,visible)
+# Classes
+names:
+  0: Joint
+```
+
+
+
+- ultralytics\utils\plotting.py 
+
+```bash
+# line 243 'radius' to control the size of keypoints
+cv2.circle(self.im, (int(x_coord), int(y_coord)), radius, color_k, -1, lineType=cv2.LINE_AA)
+# cv2.circle(self.im, (int(x_coord), int(y_coord)), , color_k, -1, lineType=cv2.LINE_AA)
+
+```
+
+- ultralytics\cfg\default.yaml: defaulyt configuration file
 ### Train
-`yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640`
+```bash
+yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640
+```
 
 
 
+---
+### Related links
+
+code:
+dataset:
 
