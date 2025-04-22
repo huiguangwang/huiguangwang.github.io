@@ -4,7 +4,6 @@ classes: wide
 author_profile: true
 date: 2025-04-22
 last_modified_at: 2024-04-22
-comments: True
 categories: 
   - Resources
 ---
@@ -18,6 +17,13 @@ categories:
 ### Important files in the Yolov9 pose detection algorithm file
 1. datasets/pose_json2txt.py: Transfer label files from .json to .txt
 2. datasets/split.py: split dataset
+3. change configuration files
+- ultralytics\cfg\models\v9\yolov9-pose.yaml nc & kpt_shape
+- ultralytics\cfg\datasets\coco-pose.yaml 
+- ultralytics\utils\plotting.py line 243 radius to control the size of keypoints
+
+### Train
+`yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640`
 
 
 
