@@ -20,6 +20,7 @@ categories:
 3. change configuration files
 
 - ultralytics\cfg\models\v9\yolov9-pose.yaml
+
 ```bash
 # Parameters
 nc: 1  # number of classes
@@ -27,7 +28,8 @@ kpt_shape: [2, 3] # number of keypoints, just change the first parameter, '3' me
 ```
 
 
-- ultralytics\cfg\datasets\coco-pose.yaml 
+- ultralytics\cfg\datasets\coco-pose.yaml
+
 ```bash
 # Keypoints
 kpt_shape: [2, 3] # number of keypoints, number of dims (2 for x,y or 3 for x,y,visible)
@@ -36,18 +38,18 @@ names:
   0: Joint
 ```
 
-
-
 - ultralytics\utils\plotting.py 
+
 ```bash
 # line 243 'radius' to control the size of keypoints
 cv2.circle(self.im, (int(x_coord), int(y_coord)), radius, color_k, -1, lineType=cv2.LINE_AA)
 # cv2.circle(self.im, (int(x_coord), int(y_coord)), , color_k, -1, lineType=cv2.LINE_AA)
-
 ```
 
 - ultralytics\cfg\default.yaml: defaulyt configuration file
+
 ### Train
+
 ```bash
 yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640
 ```
