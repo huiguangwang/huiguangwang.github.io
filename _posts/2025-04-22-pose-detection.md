@@ -47,9 +47,7 @@ cv2.circle(self.im, (int(x_coord), int(y_coord)), radius, color_k, -1, lineType=
 
 ### Train
 
-`
-yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640
-`
+`yolo pose train data=ultralytics\cfg\datasets\coco-pose.yaml model=ultralytics\cfg\models\v9\yolov9-pose.yaml epochs=300 imgsz=640`
 
 
 
