@@ -36,7 +36,7 @@ comments: True
 
 <div style="text-align: justify;">
   <ol>
-    <li>YoloV9: 2D bounding boxes and keypoints detection <a href="pose-detection">[Click me]</a></li>
+    <li>YoloV9: 2D bounding boxes and keypoints detection <a href="https://huiguangwang.top/resources/pose-detection/">[Click me]</a></li>
     <li>YoloV9: 2D bounding boxes detection <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
     <li>YoloV9: 2D masks segmentation <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
     <li>PoseCNN: An end-to-end network to estimate 6-DoF poses of objects <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
