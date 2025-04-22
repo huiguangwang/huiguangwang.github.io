@@ -28,8 +28,6 @@ kpt_shape: [2, 3] # number of keypoints, just change the first parameter, '3' me
 
 
 - ultralytics\cfg\datasets\coco-pose.yaml 
-
-
 ```bash
 # Keypoints
 kpt_shape: [2, 3] # number of keypoints, number of dims (2 for x,y or 3 for x,y,visible)
@@ -41,7 +39,6 @@ names:
 
 
 - ultralytics\utils\plotting.py 
-
 ```bash
 # line 243 'radius' to control the size of keypoints
 cv2.circle(self.im, (int(x_coord), int(y_coord)), radius, color_k, -1, lineType=cv2.LINE_AA)
