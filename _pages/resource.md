@@ -44,3 +44,12 @@ comments: True
     <li>Rotate-ICP: Estimate 6-DoF poses of tie rebars <a href="https://mp.weixin.qq.com/s/sMtM10wl2myPuwapOAP3xg">[Click me]</a></li>
   </ol>
 </div>
+
+## 4.Hardware
+
+<div style="text-align: justify;">
+  <ol>
+    <li>Intel Realsense D435i <a href="https://github.com/huiguangwang/D435i-camera-API">[Click me]</a></li>
+    <li>Mech-mind API <a href="https://github.com/huiguangwang/Mech-Eye-API">[Click me]</a></li>
+  </ol>
+</div>
