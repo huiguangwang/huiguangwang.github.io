@@ -1,11 +1,11 @@
 ---
-title: Tutorial-How to apply FPM algorithm
+title: Tutorial-A new approach to estimate the poses of rebar joints
 classes: wide
 author_profile: true
-date: 2024-11-06
+date: 2024-04-27
 categories: 
   - Tutorial
-last_modified_at: 2024-12-03
+last_modified_at: 2024-04-27
 comments: True
 ---
 
