@@ -12,7 +12,7 @@ comments: True
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    A 4DoF pose estimation method of rebar tying based on RGB images and depth maps with low quality<br/>
+    A pose estimation method of rebar tying based on RGB images and depth maps with low quality<br/>
   </p>
   <p style="margin-top: 10px;"><strong>Huiguang Wang (a)</strong>, Shaopeng Xu (b), Peng Zeng (c), Yu Dai (b), Lu Deng (b), Yi Shao (a)</p>
   <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>b Hunan University, Changsha, PR China<br>c China Machinery International Engineering Design & Research Institute Co., Ltd, Changsha, PR China
