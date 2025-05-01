@@ -139,7 +139,7 @@ last_modified_at: 2025-01-18
 
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <div style="position: relative; flex-shrink: 0; width: 200px; margin-right: 20px;">
+  <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="width: 100%;">
     <span style="
       position: absolute;
@@ -168,7 +168,22 @@ last_modified_at: 2025-01-18
 
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/ISARC.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
+    <img src="/web_resources/publication/picture/ISARC.png" style="width: 100%;">
+    <span style="
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      background: rgba(255, 255, 255, 0.8);
+      color: #000;
+      padding: 2px 8px;
+      font-size: 12px;
+      font-weight: bold;
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+      ISARC 2024
+    </span>
+  </div>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</b>
@@ -186,8 +201,24 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/剪力钉焊接专利.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
+    <img src="/web_resources/publication/picture/剪力钉焊接专利.png" style="width: 100%;">
+    <span style="
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      background: rgba(255, 255, 255, 0.8);
+      color: #000;
+      padding: 2px 8px;
+      font-size: 12px;
+      font-weight: bold;
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+      Patent
+    </span>
+  </div>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>A welding method and system for steel-concrete composite structure connectors</b><br>(NO. CN 117102725 B, 2024-01-09)
@@ -199,8 +230,24 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/李德安图片.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
+    <img src="/web_resources/publication/picture/李德安图片.png" style="width: 100%;">
+    <span style="
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      background: rgba(255, 255, 255, 0.8);
+      color: #000;
+      padding: 2px 8px;
+      font-size: 12px;
+      font-weight: bold;
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+      Journal of Hefei University of Technology
+    </span>
+  </div>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Vibration control for vehicle-bridge coupling of double main girder steel-concrete composite beam bridge based on PTMD</b>
@@ -215,8 +262,24 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
+    <img src="/web_resources/publication/picture/基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.png" style="width: 100%;">
+    <span style="
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      background: rgba(255, 255, 255, 0.8);
+      color: #000;
+      padding: 2px 8px;
+      font-size: 12px;
+      font-weight: bold;
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+      Journal
+    </span>
+  </div>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Research of the Comfort Level of Prefabricated Composite Steel Plate Beam Bridge Based on the Vibration Effect of Driving Vehicle</b>
@@ -230,6 +293,7 @@ last_modified_at: 2025-01-18
     </p>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources/publication/picture/剪切耗能装置.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
