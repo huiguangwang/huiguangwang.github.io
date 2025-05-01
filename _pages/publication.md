@@ -80,7 +80,7 @@ last_modified_at: 2025-01-18
       font-weight: bold;
       border-radius: 4px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      AIC
+      Journal: AIC
     </span>
   </div>
   <div style="text-align: justify;">
@@ -110,7 +110,7 @@ last_modified_at: 2025-01-18
       font-weight: bold;
       border-radius: 4px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      AIC
+      Journal: AIC
     </span>
   </div>
   <div style="text-align: justify;">
