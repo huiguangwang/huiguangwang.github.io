@@ -223,7 +223,7 @@ last_modified_at: 2025-01-18
   <p>New publications will come soon!🚀🚀🚀</p>
 </div>
 
-<!-- 
+
 ## Thesis
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
@@ -321,4 +321,4 @@ last_modified_at: 2025-01-18
       <a href="https://1drv.ms/f/c/665d3e10d9989786/Eu8fSFAlSiVLt4aE0CP2maoBf2r24PunBy5VAe3tIEISKw?e=9vj6Mz"><b>[Drawings]</b></a>
     </p>
   </div>
-</div> -->
+</div>
