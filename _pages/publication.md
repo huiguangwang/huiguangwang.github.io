@@ -39,7 +39,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/post/isarc2025/ISARC2025.png" style="width: 100%;">
     <span style="
@@ -68,7 +68,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
     <span style="
@@ -98,7 +98,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/第二篇文章.png" style="width: 100%;">
     <span style="
@@ -129,7 +129,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="width: 100%;">
     <span style="
@@ -156,7 +156,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/ISARC.png" style="width: 100%;">
     <span style="
@@ -188,7 +188,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/剪力钉焊接专利.png" style="width: 100%;">
     <span style="
@@ -215,7 +215,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/李德安图片.png" style="width: 100%;">
     <span style="
@@ -247,7 +247,7 @@ last_modified_at: 2025-01-18
 </div>
 
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.png" style="width: 100%;">
     <span style="
@@ -278,7 +278,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/剪切耗能装置.png" style="width: 100%;">
     <span style="
@@ -315,7 +315,7 @@ last_modified_at: 2025-01-18
 
 ## Thesis
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <img src="/web_resources\publication\picture\毕业设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
@@ -414,10 +414,19 @@ last_modified_at: 2025-01-18
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const count = document.querySelectorAll('.publication-item').length;
-  const title = document.querySelector('h2'); // 这里找的是“## Papers and Patents”对应的 <h2>
-  if (title) {
-    title.textContent += ` (${count})`;
-  }
+  const counts = [
+    { name: 'Papers and Patents', selector: '.publication-item' },
+    { name: 'Projects', selector: '.project-item' },
+    { name: 'Awards', selector: '.award-item' }
+  ];
+
+  const summaryDiv = document.getElementById('stats-summary');
+  counts.forEach(item => {
+    const count = document.querySelectorAll(item.selector).length;
+    const p = document.createElement('p');
+    p.textContent = `${item.name} (${count})`;
+    summaryDiv.appendChild(p);
+  });
 });
 </script>
+
