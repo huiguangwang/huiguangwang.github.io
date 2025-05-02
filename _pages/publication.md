@@ -6,6 +6,13 @@ classes: wide
 author_profile: true
 last_modified_at: 2025-01-18
 ---
+<div id="categories" style="margin-bottom: 20px;">
+  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-between;">
+    <li><a href="#papers-and-patents" style="text-decoration: none; color: #007bff;">Papers and Patents</a></li>
+    <li><a href="#thesis" style="text-decoration: none; color: #007bff;">Thesis</a></li>
+    <li><a href="#design-work" style="text-decoration: none; color: #007bff;">Design Work</a></li>
+  </ul>
+</div>
 
 
 ## Papers and Patents
