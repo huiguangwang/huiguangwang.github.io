@@ -32,7 +32,8 @@ last_modified_at: 2025-01-18
       <b>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls (Under Review)</b>
     </span>
     <p>
-      Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong>
+      Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong><br>
+      <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
     </p>
   </div>
 </div>
@@ -61,7 +62,7 @@ last_modified_at: 2025-01-18
     <p>
       Shaopeng Xu, <strong>Huiguang Wang</strong>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo
       <br>        
-      <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2025
+      <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2025 (EI compendex)
     </p>
   </div>
 </div>
@@ -177,7 +178,7 @@ last_modified_at: 2025-01-18
     </span>
     <p>
       <strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo<br>        
-      <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2024<br>
+      <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2024 (EI compendex)<br>
       <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"><b>[PDF]</b></a>
       <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
       <a href="https://youtu.be/1HMwYa4aOio"><b>[Presentation]</b></a>
