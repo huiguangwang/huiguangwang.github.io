@@ -8,16 +8,16 @@ last_modified_at: 2025-01-18
 ---
 <div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#papers-and-patents" style="text-decoration: none; color: #007bff;">Papers and Patents</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color: #007bff;">(10)</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers and Patents</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#thesis" style="text-decoration: none; color: #007bff;">Thesis</a></div>
-    <div><a href="#thesis" style="text-decoration: none; color: #007bff;">(1)</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(1)</a></div>
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#design-work" style="text-decoration: none; color: #007bff;">Design Work</a></div>
-    <div><a href="#design-work" style="text-decoration: none; color: #007bff;">(6)</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design Work</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
   </div>
 </div>
 
@@ -328,6 +328,14 @@ last_modified_at: 2025-01-18
 <div style="text-align: justify;">
   <p>New publications will come soon!🚀🚀🚀</p>
 </div>
+
+<!-- Back to Top Button -->
+<div style="position: fixed; right: 20px; bottom: 20px;">
+  <a href="#categories" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+    Back to Top
+  </a>
+</div>
+
 
 
 ## Thesis
