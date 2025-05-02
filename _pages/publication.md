@@ -34,6 +34,7 @@ last_modified_at: 2025-01-18
     <p>
       Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong><br>
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
+      <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
     </p>
   </div>
 </div>
