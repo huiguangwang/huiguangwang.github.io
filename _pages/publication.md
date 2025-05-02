@@ -5,6 +5,7 @@ title: Publications
 classes: wide
 author_profile: true
 last_modified_at: 2025-01-18
+footer: false
 ---
 <div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
