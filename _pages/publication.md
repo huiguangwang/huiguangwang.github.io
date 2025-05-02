@@ -17,7 +17,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -44,7 +44,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -80,7 +80,7 @@ last_modified_at: 2025-01-18
       font-weight: bold;
       border-radius: 4px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      AIC
+      Top Journal: AIC
     </span>
   </div>
   <div style="text-align: justify;">
@@ -110,7 +110,7 @@ last_modified_at: 2025-01-18
       font-weight: bold;
       border-radius: 4px;
       box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      AIC
+      Top Journal: AIC
     </span>
   </div>
   <div style="text-align: justify;">
@@ -134,7 +134,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -161,7 +161,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -193,7 +193,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -220,7 +220,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -252,7 +252,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -283,7 +283,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(255, 0, 0, 0.9);
+      background: rgba(13, 40, 216, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
