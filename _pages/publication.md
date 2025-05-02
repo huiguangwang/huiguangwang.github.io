@@ -6,13 +6,23 @@ classes: wide
 author_profile: true
 last_modified_at: 2025-01-18
 ---
-<div id="categories" style="margin-bottom: 20px;">
-  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-between;">
-    <li><a href="#papers-and-patents" style="text-decoration: none; color: #007bff;">Papers and Patents</a></li>
-    <li><a href="#thesis" style="text-decoration: none; color: #007bff;">Thesis</a></li>
-    <li><a href="#design-work" style="text-decoration: none; color: #007bff;">Design Work</a></li>
-  </ul>
+<div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
+  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#papers-and-patents" style="text-decoration: none; color: #007bff;">Papers and Patents</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color: #007bff;">(10)</a></div>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#thesis" style="text-decoration: none; color: #007bff;">Thesis</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color: #007bff;">(1)</a></div>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#design-work" style="text-decoration: none; color: #007bff;">Design Work</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color: #007bff;">(6)</a></div>
+  </div>
 </div>
+
+
+
 
 
 ## Papers and Patents
