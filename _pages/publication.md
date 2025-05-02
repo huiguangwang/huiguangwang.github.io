@@ -430,30 +430,9 @@ last_modified_at: 2025-01-18
 </div>
 
 
-
-
-
 <!-- Back to Top Button -->
-<button onclick="topFunction()" id="backToTopBtn" style="position: fixed; bottom: 20px; right: 20px; background-color: #1772d0; color: white; border: none; padding: 15px 20px; border-radius: 50%; font-size: 16px; cursor: pointer; display: none;">
-  ↑
-</button>
-
-<script>
-// Get the button
-var mybutton = document.getElementById("backToTopBtn");
-
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-};
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
-</script>
+<div style="position: fixed; right: 20px; bottom: 20px;">
+  <a href="#categories" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+    Back to Top
+  </a>
+</div>
