@@ -8,9 +8,9 @@ last_modified_at: 2025-01-18
 ---
 
 
+## Papers and Patents
 
-
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources\post\Rotate-ICP\welding.png" style="width: 100%;">
     <span style="
@@ -411,3 +411,13 @@ last_modified_at: 2025-01-18
     </p>
   </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const count = document.querySelectorAll('.publication-item').length;
+  const title = document.querySelector('h2'); // 这里找的是“## Papers and Patents”对应的 <h2>
+  if (title) {
+    title.textContent += ` (${count})`;
+  }
+});
+</script>
