@@ -11,6 +11,22 @@ last_modified_at: 2025-01-05
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://youtu.be/1HMwYa4aOio" style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/web_resources\presentation\guest_report.png" style="width: 250px;"/>
+  </a>
+  <div style="text-align: justify;">
+    <span style="display: block; margin-bottom: 10px;">
+      <b style="color: #1772d0;">A report ablout my research works in my master's period</b>
+    </span>
+    <p>
+      A guest report for undergraduates
+      <br/>
+      <a href="https://youtu.be/1HMwYa4aOio"><b>[Slides]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://youtu.be/1HMwYa4aOio" style="flex-shrink: 0; margin-right: 20px;">
     <img src="/web_resources\presentation\ISARC2024_presentation.png" style="width: 250px;"/>
   </a>
   <div style="text-align: justify;">
