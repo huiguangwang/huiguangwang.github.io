@@ -16,7 +16,7 @@ last_modified_at: 2025-01-18
 
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/第二篇文章.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <img src="/web_resources/publication/picture/第二篇文章.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras</b>
@@ -33,7 +33,7 @@ last_modified_at: 2025-01-18
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage</b>
