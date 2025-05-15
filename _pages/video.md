@@ -20,7 +20,7 @@ last_modified_at: 2025-01-05
     <p>
       A guest report for undergraduates
       <br/>
-      <a href="https://youtu.be/1HMwYa4aOio"><b>[Slides]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Ef2qJI37WYpKrbDpCFdq7akB1VDkDRrYVQWSPwrgNuyuZg?e=whFaka"><b>[Slides]</b></a>
     </p>
   </div>
 </div>
