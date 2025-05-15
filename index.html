@@ -62,9 +62,9 @@ classes: wide
     const btn = document.getElementById('toggle-btn');
     const expanded = btn.dataset.expanded === 'true';
     items.forEach(i => i.style.display = expanded ? 'none' : 'list-item');
-    btn.textContent = expanded ? '📂 Show more' : '📁 Show less';
+    btn.textContent = expanded ? '🔻 Show more' : '🔺 Show less';
     btn.dataset.expanded = !expanded;
-  })()">📂 Show more</button>
+  })()">🔻 Show more</button>
   <style>
     .hidden-item { display: none; }
     #toggle-btn:focus { outline: none; }
