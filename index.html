@@ -62,10 +62,13 @@ classes: wide
     const btn = document.getElementById('toggle-btn');
     const expanded = btn.dataset.expanded === 'true';
     items.forEach(i => i.style.display = expanded ? 'none' : 'list-item');
-    btn.textContent = expanded ? '📂 点击展开查看更多内容' : '📁 收起内容';
+    btn.textContent = expanded ? '📂 Show more' : '📁 Show less';
     btn.dataset.expanded = !expanded;
-  })()">📂 点击展开查看更多内容</button>
-  <style>.hidden-item{display:none;}</style>
+  })()">📂 Show more</button>
+  <style>
+    .hidden-item { display: none; }
+    #toggle-btn:focus { outline: none; }
+  </style>
 </div>
 
 
