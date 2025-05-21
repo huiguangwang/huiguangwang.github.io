@@ -103,11 +103,11 @@ classes: wide
   </style>
 
   <script>
-    // 自动隐藏第 6 项及之后的 li 元素
+    // 自动隐藏第 10 项及之后的 li 元素
     document.addEventListener("DOMContentLoaded", () => {
       const listItems = document.querySelectorAll("#news-list li");
       listItems.forEach((item, index) => {
-        if (index >= 6) {
+        if (index >= 10) {
           item.classList.add("hidden-item");
         }
       });
