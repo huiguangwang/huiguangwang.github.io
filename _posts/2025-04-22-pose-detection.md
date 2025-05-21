@@ -1,5 +1,5 @@
 ---
-title: YoloV9:2D bounding boxes and keypoints detection
+title: YoloV9-2D bounding boxes and keypoints detection
 classes: wide
 author_profile: true
 date: 2025-04-22
