@@ -15,7 +15,7 @@ last_modified_at: 2025-01-05
   </a>
   <div style="text-align: justify;">
     <span style="display: block; margin-bottom: 10px;">
-      <b style="color: #1772d0;">A report ablout my research works in my master's period</b>
+      <b style="color: #1772d0;">A report about my research works in my master's period</b>
     </span>
     <p>
       A guest report for undergraduates
