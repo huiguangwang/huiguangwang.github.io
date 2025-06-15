@@ -333,7 +333,6 @@ last_modified_at: 2025-01-18
 ## Thesis
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources/publication/picture/第二篇文章.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>A Thesis Submitted for the Degree of Master: Study on Intelligent Welding Positioning Technology Based on the 2D Drawing and Structured Light Camera</b>
@@ -346,7 +345,6 @@ last_modified_at: 2025-01-18
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\毕业设计.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of A Teaching and Experiment Complex Building of Hefei Science and Technology Training College</b>
