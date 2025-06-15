@@ -34,7 +34,7 @@ last_modified_at: 2025-01-18
       position: absolute;
       top: 10px;
       left: 10px;
-      background: rgba(13, 40, 216, 0.9);
+      background: rgba(255, 0, 0, 0.9);
       color: #fff;
       padding: 2px 8px;
       font-size: 12px;
@@ -49,7 +49,7 @@ last_modified_at: 2025-01-18
       <b>A robust 6DoF rebar tying pose estimation for rebar cages (Under Working)</b>
     </span>
     <p>
-      <strong>Huiguang Wang</strong><br>
+      <strong>Huiguang Wang</strong>, Shaopeng Xu, Lu Deng<br>
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
       <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
     </p>
