@@ -13,7 +13,7 @@ last_modified_at: 2025-01-18
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
-    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(1)</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design Work</a></div>
@@ -333,7 +333,20 @@ last_modified_at: 2025-01-18
 ## Thesis
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/web_resources\publication\picture\毕业设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <img src="/web_resources/publication/picture/第二篇文章.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A Thesis Submitted for the Degree of Master: Study on Intelligent Welding Positioning Technology Based on the 2D Drawing and Structured Light Camera</b>
+    </span>
+    <p><strong>Supervisor:</strong> Prof. Lu Deng
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"><b>[Dissertation]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\毕业设计.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of A Teaching and Experiment Complex Building of Hefei Science and Technology Training College</b>
