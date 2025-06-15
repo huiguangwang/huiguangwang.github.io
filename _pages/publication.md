@@ -9,7 +9,7 @@ last_modified_at: 2025-01-18
 <div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers and Patents</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">(11)</a></div>
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
@@ -26,6 +26,35 @@ last_modified_at: 2025-01-18
 
 
 ## Papers and Patents
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
+    <img src="/web_resources/publication/picture\newpaper.png" style="width: 100%;">
+    <span style="
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(13, 40, 216, 0.9);
+      color: #fff;
+      padding: 2px 8px;
+      font-size: 12px;
+      font-weight: bold;
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+      Under Working
+    </span>
+  </div>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A robust 6DoF rebar tying pose estimation for rebar cages (Under Working)</b>
+    </span>
+    <p>
+      <strong>Huiguang Wang</strong><br>
+      <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
+      <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
