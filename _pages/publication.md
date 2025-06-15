@@ -9,7 +9,7 @@ last_modified_at: 2025-01-18
 <div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers and Patents</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">(11)</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
