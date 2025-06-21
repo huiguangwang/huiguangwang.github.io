@@ -137,7 +137,7 @@ last_modified_at: 2025-01-18
     </span>
     <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong>
     <br>
-    <i>Automation in Construction</i>, Impact Factor: 9.6 (SCI, Q1)<br>
+    <i>Automation in Construction</i>, Impact Factor: 11.5 (SCI, Q1)<br>
       <a href="https://www.youtube.com/watch?v=7VkRotXTWYA&list=PLHXybvFCWrYLfXiHWue_Mre6Mk0OO2tC2"><b>[Demo]</b></a>
       <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000391"><b>[PDF]</b></a>
     </p>
@@ -167,7 +167,7 @@ last_modified_at: 2025-01-18
     </span>
     <p>
       Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo<br>
-      <i>Automation in Construction</i>, Impact Factor: 9.6 (SCI, Q1)<br>        
+      <i>Automation in Construction</i>, Impact Factor: 11.5 (SCI, Q1)<br>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>
       <a href="https://1drv.ms/b/c/665d3e10d9989786/EYU2XNZRcYxPjVxXO2Oa9t4BOPft-fwTeQuEkF2YgXdeTQ?e=8RtEEv"><b>[PDF]</b></a>

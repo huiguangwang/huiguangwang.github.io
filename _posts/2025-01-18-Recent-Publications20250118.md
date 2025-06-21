@@ -9,7 +9,7 @@ last_modified_at: 2025-01-18
 ---
 
 <div style="text-align: justify;">
-  <p>Recently, a paper of us, named 'Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras', has been accepted to <strong>Automation in Construction whose impact factor reached at 9.6 scores in 2024 (SCI Q1)</strong>.<br>
+  <p>Recently, a paper of us, named 'Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras', has been accepted to <strong>Automation in Construction whose impact factor reached at 11.5 scores in 2024 (SCI Q1)</strong>.<br>
   Additionally, a new patent, named 'Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage', was authorized by China National Intellectual Property Administration.
   </p>
 </div>
@@ -23,7 +23,7 @@ last_modified_at: 2025-01-18
     </span>
     <p>
       Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo<br>
-      <i>Automation in Construction</i>, Impact Factor: 9.6 (SCI, Q1)
+      <i>Automation in Construction</i>, Impact Factor: 11.5 (SCI, Q1)
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>

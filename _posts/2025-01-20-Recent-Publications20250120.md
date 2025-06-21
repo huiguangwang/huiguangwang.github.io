@@ -9,7 +9,7 @@ last_modified_at: 2025-01-20
 ---
 
 <div style="text-align: justify;">
-  <p>Recently, a paper of us, named 'Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying', has been accepted to <strong>Automation in Construction whose impact factor reached at 9.6 scores in 2024 (SCI Q1)</strong>.
+  <p>Recently, a paper of us, named 'Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying', has been accepted to <strong>Automation in Construction whose impact factor reached at 11.5 scores in 2025 (SCI Q1)</strong>.
   </p>
 </div>
 
@@ -38,7 +38,7 @@ estimation, expanding the applications of robotic rebar tying and reducing relia
     </span>
     <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong>
     <br>
-    <i>Automation in Construction</i>, Impact Factor: 9.6 (SCI, Q1)<br>
+    <i>Automation in Construction</i>, Impact Factor: 11.5 (SCI, Q1)<br>
       <a href="https://www.youtube.com/watch?v=7VkRotXTWYA&list=PLHXybvFCWrYLfXiHWue_Mre6Mk0OO2tC2"><b>[Demo]</b></a>
     </p>
   </div>
