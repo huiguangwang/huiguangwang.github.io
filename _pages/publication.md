@@ -29,7 +29,7 @@ last_modified_at: 2025-01-18
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
-    <img src="/web_resources/publication/picture\new.png" style="width: 100%;">
+    <img src="/web_resources/publication/picture\NewPaper.png" style="width: 100%;">
     <span style="
       position: absolute;
       top: 10px;
