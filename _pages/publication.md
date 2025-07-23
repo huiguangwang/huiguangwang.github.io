@@ -26,6 +26,7 @@ last_modified_at: 2025-01-18
 
 
 ## Papers and Patents
+<b>* means corresponding author</b>
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
@@ -135,7 +136,7 @@ last_modified_at: 2025-01-18
       <b>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls (Under Review)</b>
     </span>
     <p>
-      Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong><br>
+      Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang<sup>*</sup></strong><br>
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
       <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
     </p>
