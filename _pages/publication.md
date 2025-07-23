@@ -45,7 +45,7 @@ last_modified_at: 2025-01-18
   </div>
   <div style="text-align: justify;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Sim-to-real Generalization for 6DoF Pose Estimation in Rebar Tying via a Synthetic Dataset and Modular Point Cloud Registration Pipeline (Under Review)</b>
+      <b>A new approach to estimate the poses of rebar joints (Under Review)</b>
     </span>
     <p>
       <strong>Huiguang Wang</strong>, Lu Deng, Shaopeng Xu, Yu Dai, Mi Liu, Yi Shao<br>
