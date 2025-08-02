@@ -9,7 +9,7 @@ last_modified_at: 2025-01-18
 <div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers and Patents</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">(0)</a></div>
   </div>
   <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
@@ -29,7 +29,7 @@ last_modified_at: 2025-01-18
 <b>* means corresponding author</b>
 
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
     <span style="
@@ -418,6 +418,15 @@ last_modified_at: 2025-01-18
   <p>New publications will come soon!🚀🚀🚀</p>
 </div>
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const paperCount = document.querySelectorAll('.paper-patent-item').length;
+    const paperCountElement = document.querySelector('#paper-count');
+    if (paperCountElement) {
+      paperCountElement.textContent = `(${paperCount})`;
+    }
+  });
+</script>
 
 ## Thesis
 
