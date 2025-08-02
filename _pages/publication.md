@@ -58,7 +58,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
     <span style="
@@ -87,7 +87,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
     <span style="
@@ -116,7 +116,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources\post\Rotate-ICP\welding.png" style="width: 100%;">
     <span style="
@@ -145,7 +145,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/post/isarc2025/ISARC2025.png" style="width: 100%;">
     <span style="
@@ -174,7 +174,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
     <span style="
@@ -204,7 +204,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/第二篇文章.png" style="width: 100%;">
     <span style="
@@ -235,7 +235,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="width: 100%;">
     <span style="
@@ -262,7 +262,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/ISARC.png" style="width: 100%;">
     <span style="
@@ -294,7 +294,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/剪力钉焊接专利.png" style="width: 100%;">
     <span style="
@@ -321,7 +321,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/李德安图片.png" style="width: 100%;">
     <span style="
@@ -353,7 +353,7 @@ last_modified_at: 2025-01-18
 </div>
 
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.png" style="width: 100%;">
     <span style="
@@ -384,7 +384,7 @@ last_modified_at: 2025-01-18
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+<div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources/publication/picture/剪切耗能装置.png" style="width: 100%;">
     <span style="
