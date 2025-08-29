@@ -48,8 +48,8 @@ comments: True
       <b>Friendship Links</b>
     </span>
     <p>
-      <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>DengTeam</strong></a><br>
-      <a href="https://www.shao-lab.com/AIS-Construction-Lab-d2cd3b540c494942b20594212ffd448c" target="_blank"><strong>AIS Construction Lab</strong></a>
+      <a href="https://www.shao-lab.com/AIS-Construction-Lab-d2cd3b540c494942b20594212ffd448c" target="_blank"><strong>AIS Construction Lab</strong></a><br>
+      <a href="https://www.dengteam.com/index.php?m=content&c=index&a=lists&catid=19" target="_blank"><strong>DengTeam</strong></a>
     </p>
   </div>
 
