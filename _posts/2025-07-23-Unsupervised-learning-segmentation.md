@@ -1,5 +1,5 @@
 ---
-title: Tutorial-Rebar Tying and Welding Unified Framework Based on an Unsupervised Rebar Segmentation Algorithm
+title: Tutorial-Unsupervised Rebar Mesh Segmentation Algorithm
 classes: wide
 author_profile: true
 date: 2025-09-06
@@ -12,7 +12,7 @@ comments: True
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    A new approach to estimate the poses of rebar joints<br/>
+    Tutorial-Rebar Tying and Welding Unified Framework Based on an Unsupervised Rebar Segmentation Algorithm<br/>
   </p>
   <p style="margin-top: 10px;">
     <strong>Huiguang Wang <sup>a</sup></strong>, Jiayao Zou <sup>b</sup>, Yu Dai <sup>b</sup>, Yu Dai <sup>b</sup>, Shaopeng Xu <sup>b</sup>, Yi Shao <sup>a,*</sup>
