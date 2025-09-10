@@ -15,9 +15,9 @@ comments: True
     Tutorial-Rebar Tying and Welding Unified Framework Based on an Unsupervised Rebar Segmentation Algorithm<br/>
   </p>
   <p style="margin-top: 10px;">
-    <strong>Huiguang Wang <sup>a</sup></strong>, Jiayao Zou <sup>b</sup>, Yu Dai <sup>b</sup>, Shaopeng Xu <sup>b</sup>, Lu Deng <sup>b</sup>, Yi Shao <sup>a,*</sup>
+    <strong>Huiguang Wang <sup>a</sup></strong>, Jiayao Zou <sup>b</sup>, Yu Dai <sup>b</sup>, Shaopeng Xu <sup>b</sup>, Lu Deng <sup>b,*</sup>
   </p>
-  <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>b Hunan University, Changsha, PR China<br> * Corresponding author, email address: yi.shao2@mcgill.ca
+  <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>b Hunan University, Changsha, PR China<br> * Corresponding author, email address: ludeng@hnu.edu.cn
 </p>
 
   <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">

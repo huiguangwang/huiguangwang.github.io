@@ -51,7 +51,7 @@ last_modified_at: 2025-01-18
       <b>Rebar Tying and Welding Unified Framework Based on an Unsupervised Rebar Segmentation Algorithm (Under Review)</b>
     </span>
     <p>
-      <strong>Huiguang Wang</strong>, Jiayao Zou, Yu Dai, Shaopeng Xu, Lu Deng, Yi Shao<sup>*</sup><br>
+      <strong>Huiguang Wang</strong>, Jiayao Zou, Yu Dai, Shaopeng Xu, Lu Deng<sup>*</sup><br>
       <a href="https://huiguangwang.top/tutorial/Unsupervised-learning-segmentation/"><b>[Code]</b></a>
     </p>
   </div>
