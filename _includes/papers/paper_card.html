@@ -381,3 +381,15 @@
     </p>
   </div>
 </div>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const papers = document.querySelectorAll(".paper-patent-item");
+    papers.forEach((paper, index) => {
+      if (index >= 6) {
+        paper.style.display = "none"; // 隐藏第7篇及之后
+      }
+    });
+  });
+</script>
