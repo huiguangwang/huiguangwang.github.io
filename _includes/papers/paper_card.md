@@ -398,7 +398,7 @@
 <div style="text-align: right
 ; margin-top: 20px;">
   <a href="https://huiguangwang.top/publication/#papers-and-patents" 
-     style="color: #3366cc; font-weight: bold; text-decoration: none; font-size: 16px;">
+     style="color: #1772d0; font-weight: bold; text-decoration: none; font-size: 16px;">
     🔗 More papers
   </a>
 </div>
