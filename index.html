@@ -58,14 +58,19 @@ classes: wide
     <li>2024.01.09: Congratulations!🎉🎉 Our new patent has been accepted by <i>CNIPA</i>. <a href="https://huiguangwang.top/web_resources/publication/papers/%E5%89%AA%E5%8A%9B%E9%92%89%E4%B8%93%E5%88%A9.pdf">[Click me]</a></li>
   </ol>
 
-  <button id="toggle-btn" style="margin-top:10px;font-weight:bold;cursor:pointer;color:#3366cc;background:none;border:none;font-size:16px;padding:0;text-decoration:none;" onclick="(function(){
-    const items = document.querySelectorAll('#news-list li.hidden-item');
-    const btn = document.getElementById('toggle-btn');
-    const expanded = btn.dataset.expanded === 'true';
-    items.forEach(i => i.style.display = expanded ? 'none' : 'list-item');
-    btn.textContent = expanded ? '🔽 Show more' : '🔼 Show less';
-    btn.dataset.expanded = !expanded;
-  })()">🔽 Show more</button>
+  <div style="display: flex; justify-content: flex-end; margin-top: 10px;">
+  <button id="toggle-btn" 
+          style="font-weight:bold;cursor:pointer;color:#3366cc;background:none;border:none;font-size:16px;padding:0;text-decoration:none;" 
+          onclick="(function(){
+              const items = document.querySelectorAll('#news-list li.hidden-item');
+              const btn = document.getElementById('toggle-btn');
+              const expanded = btn.dataset.expanded === 'true';
+              items.forEach(i => i.style.display = expanded ? 'none' : 'list-item');
+              btn.textContent = expanded ? '🔽 Show more' : '🔼 Show less';
+              btn.dataset.expanded = !expanded;
+          })()">🔽 Show more</button>
+</div>
+
 
   <style>
     .hidden-item { display: none; }
