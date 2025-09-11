@@ -387,9 +387,18 @@
   document.addEventListener("DOMContentLoaded", () => {
     const papers = document.querySelectorAll(".paper-patent-item");
     papers.forEach((paper, index) => {
-      if (index >= 6) {
-        paper.style.display = "none"; // 隐藏第7篇及之后
+      if (index >= 6) {  // 第7篇及之后隐藏
+        paper.style.display = "none";
       }
     });
   });
 </script>
+
+<!-- More papers 链接 -->
+<div style="text-align: right
+; margin-top: 20px;">
+  <a href="https://huiguangwang.top/publication/#papers-and-patents" 
+     style="color: #3366cc; font-weight: bold; text-decoration: none; font-size: 16px;">
+    🔗 More papers
+  </a>
+</div>
