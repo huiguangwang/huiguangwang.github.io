@@ -387,7 +387,7 @@
   document.addEventListener("DOMContentLoaded", () => {
     const papers = document.querySelectorAll(".paper-patent-item");
     papers.forEach((paper, index) => {
-      if (index >= 6) {  // 第7篇及之后隐藏
+      if (index >= 5) {  // 第7篇及之后隐藏
         paper.style.display = "none";
       }
     });
