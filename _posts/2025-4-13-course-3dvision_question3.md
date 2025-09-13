@@ -1,5 +1,5 @@
 ---
-title: Course-Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
+title: Pixel Coordinate Estimation from 2D World Coordinates on a Plane Using an RGB-D Camera
 classes: wide
 author_profile: true
 date: 2025-04-13

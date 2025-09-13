@@ -1,5 +1,5 @@
 ---
-title: Course-Eye-in-Hand Camera Calibration Guide (Using RGB + Pose Data)
+title: Eye-in-Hand Camera Calibration Guide (Using RGB + Pose Data)
 classes: wide
 author_profile: true
 date: 2025-04-13

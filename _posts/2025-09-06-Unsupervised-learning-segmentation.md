@@ -1,5 +1,5 @@
 ---
-title: Tutorial-Unsupervised Rebar Mesh Segmentation Algorithm
+title: Unsupervised Rebar Mesh Segmentation Algorithm
 classes: wide
 author_profile: true
 date: 2025-09-06

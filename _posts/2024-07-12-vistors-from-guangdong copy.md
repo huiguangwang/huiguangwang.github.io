@@ -1,5 +1,5 @@
 ---
-title: Blog-Huiguang serves as the host to receive visiting students from Guangdong Province
+title: Huiguang serves as the host to receive visiting students from Guangdong Province
 classes: wide
 date: 2024-07-12
 categories: 

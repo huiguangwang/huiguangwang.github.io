@@ -1,5 +1,5 @@
 ---
-title: Course-Relationship Between Principal Point and Image Dimensions
+title: Relationship Between Principal Point and Image Dimensions
 classes: wide
 author_profile: true
 date: 2025-04-13

@@ -1,5 +1,5 @@
 ---
-title: Tutorial-A new approach to estimate the poses of rebar joints
+title: A new approach to estimate the poses of rebar joints
 classes: wide
 author_profile: true
 date: 2025-07-23

@@ -1,5 +1,5 @@
 ---
-title: Tutorial-How to apply FPM algorithm
+title: How to apply FPM algorithm
 classes: wide
 author_profile: true
 date: 2024-11-06

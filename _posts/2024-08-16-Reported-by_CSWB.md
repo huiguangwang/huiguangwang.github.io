@@ -1,5 +1,5 @@
 ---
-title: Blog-The developments of our lab reported in newspaper- Changsha Wanbao
+title: The developments of our lab reported in newspaper- Changsha Wanbao
 classes: wide
 date: 2024-08-16
 categories: 

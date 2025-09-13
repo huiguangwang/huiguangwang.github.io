@@ -1,5 +1,5 @@
 ---
-title: Presentation-ISARC2024 in Paris
+title: ISARC2024 in Paris
 classes: wide
 date: 2024-06-02
 categories: 

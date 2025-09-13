@@ -1,5 +1,5 @@
 ---
-title: Tutorial-How to apply Rotate-ICP algorithm
+title: How to apply Rotate-ICP algorithm
 classes: wide
 author_profile: true
 date: 2025-04-08
