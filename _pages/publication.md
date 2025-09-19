@@ -59,7 +59,7 @@ last_modified_at: 2025-01-18
 
 <div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
-    <img src="/web_resources/publication/picture/AnyDirTying.png" style="width: 100%;">
+    <img src="/web_resources\post\Rebar_tying\vertical_shot.png" style="width: 100%;">
     <span style="
       position: absolute;
       top: 10px;
@@ -79,7 +79,7 @@ last_modified_at: 2025-01-18
       <b>A new approach to estimate the poses of rebar joints (Under Review)</b>
     </span>
     <p>
-      <strong>Huiguang Wang</strong>, Lu Deng, Shaopeng Xu, Yu Dai, Mi Liu, Yi Shao<br>
+      <strong>Huiguang Wang</strong>, Yi Shao<sup>*</sup><br>
       <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"><b>[Tutorial & Code]</b></a>
       <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"><b>[Demo]</b></a>
     </p>
