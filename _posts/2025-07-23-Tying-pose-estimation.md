@@ -15,9 +15,9 @@ comments: True
     A new approach to estimate the poses of rebar joints<br/>
   </p>
   <p style="margin-top: 10px;">
-    <strong>Huiguang Wang <sup>a</sup></strong>, Lu Deng <sup>b</sup>, Shaopeng Xu <sup>b</sup>, Yu Dai <sup>b</sup>, Mi Liu <sup>b</sup>
+    <strong>Huiguang Wang <sup>a</sup></strong>, Yi Shao <sup>b,*</sup>
   </p>
-  <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>b Hunan University, Changsha, PR China<br> * Corresponding author, email address: 
+  <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>* Corresponding author, email address: yi.shao2@mcgill.ca
 </p>
 
   <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
