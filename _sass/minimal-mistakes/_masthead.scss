@@ -40,11 +40,6 @@
 
 .site-logo img {
   max-height: 2rem;
-  filter: brightness(1.2); // 让头像一直变亮
-}
-
-.site-logo img:hover {
-  filter: brightness(1.2); // 悬停时也保持一样的亮度
 }
 
 .site-title {
