@@ -40,6 +40,7 @@
 
 .site-logo img {
   max-height: 2rem;
+  filter: brightness(1.2); // 让头像一直变亮
 }
 
 .site-title {
