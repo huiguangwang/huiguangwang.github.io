@@ -1,3 +1,35 @@
+---
+layout: single
+permalink: /pub/
+title: Publications
+classes: wide
+author_profile: true
+last_modified_at: 2025-09-21
+comments: True
+---
+
+<div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
+  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers and Patents</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">(0)</a></div>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design Work</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
+  </div>
+</div>
+
+
+
+
+
+## Papers and Patents
+<b>* means corresponding author</b>
+
 <div class="paper-patent-item" style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <div style="position: relative; flex-shrink: 0; width: 300px; margin-right: 20px;">
     <img src="/web_resources\post\unsupervised_segmentation\preview.png" style="width: 100%;">
@@ -412,23 +444,136 @@
 
 
 
+<div style="text-align: justify;">
+  <p>New publications will come soon!🚀🚀🚀</p>
+</div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", () => {
-    const papers = document.querySelectorAll(".paper-patent-item");
-    papers.forEach((paper, index) => {
-      if (index >= 5) {  // 第7篇及之后隐藏
-        paper.style.display = "none";
-      }
-    });
+  window.addEventListener('DOMContentLoaded', () => {
+    const paperCount = document.querySelectorAll('.paper-patent-item').length;
+    const paperCountElement = document.querySelector('#paper-count');
+    if (paperCountElement) {
+      paperCountElement.textContent = `(${paperCount})`;
+    }
   });
 </script>
 
-<!-- More papers 链接 -->
-<div style="text-align: right
-; margin-top: 20px;">
-  <a href="https://huiguangwang.top/pub/#papers-and-patents" 
-     style="color: #1772d0; font-weight: bold; text-decoration: none; font-size: 16px;">
-    🔗 More papers
+## Thesis
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources/publication/picture/第二篇文章.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A Thesis Submitted for the Degree of Master: Study on Intelligent Welding Positioning Technology Based on the 2D Drawing and Structured Light Camera</b>
+    </span>
+    <p><strong>Supervisor:</strong> Prof. Lu Deng
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"><b>[Dissertation]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\毕业设计.png" style="flex-shrink: 0; width: 300px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of A Teaching and Experiment Complex Building of Hefei Science and Technology Training College</b>
+    </span>
+    <p><strong>Supervisor:</strong> Prof. Zhang Liang and Prof. Yulong Feng
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"><b>[Dissertation]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EZwIKKAXVh1GsZLNGH8wXxgBdp-MRvSnqjP3a1ukCohMdA?e=gLh7AC"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+## Design Work
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\结构信息技术大赛.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b>
+    </span>
+    <p><strong>Abstract:</strong> This competition include the design of BIM model, structural analysis, and the detailed design of components.
+    <br>
+      <a href="https://youtu.be/Cu3-2oeKpLU"><b>[Demo]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\桥梁设计大赛.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b>
+    </span>
+    <p><strong>Abstract:</strong> The content of this competition include the design of BIM model, structural analysis, and renderings of the designed bridge.
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/ESx5h6YQu2xKnkUQMcdOYwQBco1K9quULG7Rihbn1aW2Hg?e=sxu8HK"><b>[Renderings]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EYEzso2s4h1GgeS5zT7_h60B5P38pqV2n8il2jLg_AvylA?e=tZSqFo"><b>[Paper]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EauMMS_RKxZHnA5DovEfqkkBup7S7nfi_57-KxxkBdJHWQ?e=jX2Yzs"><b>[Slides]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\基础工程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Foundation Design of An Office Building</b>
+    </span>
+    <p><strong>Abstract:</strong> This curriculum design mainly focus on the foundation design of an office building.
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"><b>[The Design and Analysis of the Foundation]</b></a>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\房屋建筑学.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Building Architecture</b>
+    </span>
+    <p><strong>Abstract:</strong> This course design mainly focus on the architecture design of a teaching building of an elementary school.
+    <br>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\钢结构课程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Steel Structure</b>
+    </span>
+    <p><strong>Abstract:</strong> This course design mainly focus on the  design of an steel structure roof truss.
+    <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeKIQzt6xxVJlmWx7CcQUhcBuvvDqBGlekdB2SBiOritZg?e=mElbBt"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/web_resources\publication\picture\混凝土课程设计.png" style="flex-shrink: 0; width: 200px; margin-right: 20px;"/>
+  <div style="text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Concrete Structure</b>
+    </span>
+    <p><strong>Abstract:</strong> This course design mainly focus on the  design of an concrete structure plant.
+    <br>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/Eu8fSFAlSiVLt4aE0CP2maoBf2r24PunBy5VAe3tIEISKw?e=9vj6Mz"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+
+<!-- Back to Top Button -->
+<div style="position: fixed; right: 20px; top: 500px;">
+  <a href="#" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+    Back to Top
   </a>
 </div>
