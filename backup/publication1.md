@@ -1,12 +1,3 @@
----
-layout: single
-permalink: /publication/
-title: Publications
-classes: wide
-author_profile: true
-last_modified_at: 2025-01-18
----
-
 
 
 <div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
