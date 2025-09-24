@@ -10,8 +10,8 @@ main:
     url: /pub/
   # - title: "Awards"
   #   url: /award/
-  # - title: "Videos"
-  #   url: /video/
+  - title: "Videos"
+    url: /video/
   - title: "Posts"
     url: /post/
   - title: "Resources"
