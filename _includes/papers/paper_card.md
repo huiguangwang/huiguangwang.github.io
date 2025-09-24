@@ -415,7 +415,7 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const papers = document.querySelectorAll(".papers-and-patents");
+    const papers = document.querySelectorAll(".paper-patent-item");
     papers.forEach((paper, index) => {
       if (index >= 5) {  // 第7篇及之后隐藏
         paper.style.display = "none";
