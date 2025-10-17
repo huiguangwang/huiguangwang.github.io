@@ -145,7 +145,7 @@ comments: True
       <b>A robust 6DoF rebar tying pose estimation for rebar cages (Under Working)</b>
     </span>
     <p>
-      <strong>Huiguang Wang</strong>, Shaopeng Xu, Lu Deng<br>
+      <strong>Huiguang Wang</strong>, Lu Deng, Shaopeng Xu<sup>*</sup><br>
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
       <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
     </p>
