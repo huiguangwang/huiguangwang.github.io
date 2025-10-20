@@ -57,7 +57,7 @@ comments: True
       <b>An automated welding seam extraction and path planning method for steel box girders based on 3D vision (Under Review)</b>
     </span>
     <p>       
-      Jiayao Zou, Wenyao Liu, <strong>Huiguang Wang</strong>, Yv Dai, Feng Zhang, Lu Deng<sup>*</sup><br>
+      Jiayao Zou, Wenyao Liu, <strong>Huiguang Wang</strong>, Yu Dai, Feng Zhang, Lu Deng<sup>*</sup><br>
     </p>
   </div>
 </div>
@@ -104,10 +104,10 @@ comments: True
   </div>
   <div style="text-align: justify; flex: 1; min-width: 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>A new approach to estimate the poses of rebar joints (Under Review)</b>
+      <b>A new pipeline to estimate the poses of rebar joints (Under Review)</b>
     </span>
     <p>
-      <strong>Huiguang Wang</strong>, Yi Shao<sup>*</sup><br>
+      <strong>Huiguang Wang</strong>, Zekai Jin, Yi Shao<sup>*</sup><br>
       <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"><b>[Tutorial & Code]</b></a>
       <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"><b>[Demo]</b></a>
     </p>
@@ -164,7 +164,7 @@ comments: True
       <b>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls (Under Review)</b>
     </span>
     <p>
-      Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang<sup>*</sup></strong><br>
+      Lu Deng, Yu Dai, Shaopeng Xu, Peng Shi, Mi Liu, <strong>Huiguang Wang<sup>*</sup></strong><br>
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
       <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
     </p>
