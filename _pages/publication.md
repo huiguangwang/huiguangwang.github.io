@@ -29,7 +29,7 @@ comments: True
 
 ## Papers and Patents
 <b>* means corresponding author</b>
-
+### 2025
 {% include publication/paper015_steel_plate_welding_001.md %}
 {% include publication/paper014_unsupervised_learing_segmentation_for_rebars.md %}
 {% include publication/paper013_sim2real_domain_gap_rebar_tying_003.md %}
@@ -40,6 +40,7 @@ comments: True
 {% include publication/paper008_rebar_tying_001_liu_mi.md %}
 {% include publication/paper007_FPM_3d_coordinate_mapping.md %}
 {% include publication/paper006_rebar_cage_welding_patent_003.md %}
+### 2024
 {% include publication/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
 {% include publication/paper004_shear_stud_welding_patent_002.md %}
 {% include publication/paper003_HFUT_Li_De_An.md %}
