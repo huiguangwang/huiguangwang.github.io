@@ -14,7 +14,6 @@
       <br/>        
       <i>Hans Journal of Civil Engineering</i>, 2022-11
       <br/>
-      <a href="/web_resources/publication/papers/基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.pdf"><b>[PDF]</b></a>
     </p>
   </div>
 </div>
