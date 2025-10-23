@@ -21,6 +21,7 @@ comments: True
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design</a></div>
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
   </div>
+  
 </div>
 
 
@@ -29,23 +30,40 @@ comments: True
 
 ## Papers and Patents
 <b>* means corresponding author</b>
+<div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
+  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">2024</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">2022</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">(3)</a></div>
+  </div>
+
+</div>
+
 ### 2025
-{% include publication/paper015_steel_plate_welding_001.md %}
-{% include publication/paper014_unsupervised_learing_segmentation_for_rebars.md %}
-{% include publication/paper013_sim2real_domain_gap_rebar_tying_003.md %}
-{% include publication/paper012_camera_pose_adjustment.md %}
-{% include publication/paper011_pose_decoupling_rebar_tying_002.md %}
-{% include publication/paper010_rebar_cage_welding_001.md %}
-{% include publication/paper009_camera_pose_adjustment_ISARC.md %}
-{% include publication/paper008_rebar_tying_001_liu_mi.md %}
-{% include publication/paper007_FPM_3d_coordinate_mapping.md %}
-{% include publication/paper006_rebar_cage_welding_patent_003.md %}
+{% include publication/2025/paper015_steel_plate_welding_001.md %}
+{% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
+{% include publication/2025/paper013_sim2real_domain_gap_rebar_tying_003.md %}
+{% include publication/2025/paper012_camera_pose_adjustment.md %}
+{% include publication/2025/paper011_pose_decoupling_rebar_tying_002.md %}
+{% include publication/2025/paper010_rebar_cage_welding_001.md %}
+{% include publication/2025/paper009_camera_pose_adjustment_ISARC.md %}
+{% include publication/2025/paper008_rebar_tying_001_liu_mi.md %}
+{% include publication/2025/paper007_FPM_3d_coordinate_mapping.md %}
+{% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}
 ### 2024
-{% include publication/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
-{% include publication/paper004_shear_stud_welding_patent_002.md %}
-{% include publication/paper003_HFUT_Li_De_An.md %}
-{% include publication/paper002_hans_Tang_Li_Heng.md %}
-{% include publication/paper001_patent_001.md %}
+{% include publication/2024/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
+{% include publication/2024/paper004_shear_stud_welding_patent_002.md %}
+### 2022
+{% include publication/2022/paper003_HFUT_Li_De_An.md %}
+{% include publication/2022/paper002_hans_Tang_Li_Heng.md %}
+{% include publication/2022/paper001_patent_001.md %}
 
 
 
