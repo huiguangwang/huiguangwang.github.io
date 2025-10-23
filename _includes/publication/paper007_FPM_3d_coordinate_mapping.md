@@ -14,7 +14,7 @@
       <i>Automation in Construction</i>, Impact Factor: 11.5 (SCI, Q1)<br>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/"><b>[Tutorial & Code]</b></a>
-      <a href="https://1drv.ms/b/c/665d3e10d9989786/EYU2XNZRcYxPjVxXO2Oa9t4BOPft-fwTeQuEkF2YgXdeTQ?e=8RtEEv"><b>[PDF]</b></a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000299"><b>[PDF]</b></a>
     </p>
   </div>
 </div>
