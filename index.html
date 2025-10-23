@@ -103,9 +103,7 @@ classes: wide
 
 <h4>Selected Papers</h4>
 <hr>
-{% assign papers = site.static_files | where_exp: "file", "file.path contains '/publication/paper'" | sort: "path" | reverse %}
-{% for paper in papers limit:5 %}
-  {% assign paper_path = paper.path | remove_first: "/" %}
-  {% include_relative {{paper_path}} %}
-{% endfor %}
-
+{% include_relative publication/paper015_steel_plate_welding_001.md %}
+{% include_relative publication/paper014_unsupervised_learing_segmentation_for_rebars.md %}
+{% include_relative publication/paper013_sim2real_rebar_tying.md %}
+{% include_relative publication/paper012_camera_pose_adjustment.md %}
