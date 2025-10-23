@@ -30,21 +30,21 @@ comments: True
 ## Papers and Patents
 <b>* means corresponding author</b>
 
-{% include _pages/publication/paper015_steel_plate_welding_001.md %}
-{% include _pages/publication/paper014_unsupervised_learing_segmentation_for_rebars.md %}
-{% include _pages/publication/paper013_sim2real_domain_gap_rebar_tying_003.md %}
-{% include _pages/publication/paper012_camera_pose_adjustment.md %}
-{% include _pages/publication/paper011_pose_decoupling_rebar_tying_002.md %}
-{% include _pages/publication/paper010_rebar_cage_welding_001.md %}
-{% include _pages/publication/paper009_camera_pose_adjustment_ISARC.md %}
-{% include _pages/publication/paper008_rebar_tying_001_liu_mi.md %}
-{% include _pages/publication/paper007_FPM_3d_coordinate_mapping.md %}
-{% include _pages/publication/paper006_rebar_cage_welding_patent_003.md %}
-{% include _pages/publication/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
-{% include _pages/publication/paper004_shear_stud_welding_patent_002.md %}
-{% include _pages/publication/paper003_HFUT_Li_De_An.md %}
-{% include _pages/publication/paper002_hans_Tang_Li_Heng.md %}
-{% include _pages/publication/paper001_patent_001.md %}
+{% include publication/paper015_steel_plate_welding_001.md %}
+{% include publication/paper014_unsupervised_learing_segmentation_for_rebars.md %}
+{% include publication/paper013_sim2real_domain_gap_rebar_tying_003.md %}
+{% include publication/paper012_camera_pose_adjustment.md %}
+{% include publication/paper011_pose_decoupling_rebar_tying_002.md %}
+{% include publication/paper010_rebar_cage_welding_001.md %}
+{% include publication/paper009_camera_pose_adjustment_ISARC.md %}
+{% include publication/paper008_rebar_tying_001_liu_mi.md %}
+{% include publication/paper007_FPM_3d_coordinate_mapping.md %}
+{% include publication/paper006_rebar_cage_welding_patent_003.md %}
+{% include publication/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
+{% include publication/paper004_shear_stud_welding_patent_002.md %}
+{% include publication/paper003_HFUT_Li_De_An.md %}
+{% include publication/paper002_hans_Tang_Li_Heng.md %}
+{% include publication/paper001_patent_001.md %}
 
 
 
