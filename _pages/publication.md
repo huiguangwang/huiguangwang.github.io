@@ -32,7 +32,7 @@ comments: True
 
 {% include_relative publication/paper015_steel_plate_welding_001.md %}
 {% include_relative publication/paper014_unsupervised_learing_segmentation_for_rebars.md %}
-{% include_relative publication/paper013_sim2real_rebar_tying.md %}
+{% include_relative publication/paper013_sim2real_domain_gap_rebar_tying_003.md %}
 {% include_relative publication/paper012_camera_pose_adjustment.md %}
 {% include_relative publication/paper011_pose_decoupling_rebar_tying_002.md %}
 {% include_relative publication/paper010_rebar_cage_welidng_001.md %}
