@@ -1,4 +1,4 @@
-<div class="paper-patent-item" 
+<div class="paper-patent-item " 
      style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
 
   <div style="position: relative; flex: 1 1 100%; max-width: 300px; margin: 0 auto;">

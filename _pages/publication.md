@@ -33,40 +33,36 @@ comments: True
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
-    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);" class="year-count" data-year="2025">(0)</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);" id="count-2025">(0)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">2024</a></div>
-    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);" class="year-count" data-year="2024">(0)</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);" id="count-2024">(0)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">2022</a></div>
-    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);" class="year-count" data-year="2022">(0)</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);" id="count-2022">(0)</a></div>
   </div>
 </div>
 
-<a id="2025"></a>
 ### 2025
-{% include publication/2025/paper015_steel_plate_welding_001.md %}
-{% include publication/2025/paper015_steel_plate_welding_001.md %}
-{% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
-{% include publication/2025/paper013_sim2real_domain_gap_rebar_tying_003.md %}
-{% include publication/2025/paper012_camera_pose_adjustment.md %}
-{% include publication/2025/paper011_pose_decoupling_rebar_tying_002.md %}
-{% include publication/2025/paper010_rebar_cage_welding_001.md %}
-{% include publication/2025/paper009_camera_pose_adjustment_ISARC.md %}
-{% include publication/2025/paper008_rebar_tying_001_liu_mi.md %}
-{% include publication/2025/paper007_FPM_3d_coordinate_mapping.md %}
-{% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}
-<a id="2024"></a>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper015_steel_plate_welding_001.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper013_sim2real_domain_gap_rebar_tying_003.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper012_camera_pose_adjustment.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper011_pose_decoupling_rebar_tying_002.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper010_rebar_cage_welding_001.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper009_camera_pose_adjustment_ISARC.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper008_rebar_tying_001_liu_mi.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper007_FPM_3d_coordinate_mapping.md %}</div>
+<div class="paper-patent-item year-2025">{% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}</div>
 ### 2024
-{% include publication/2024/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
-{% include publication/2024/paper004_shear_stud_welding_patent_002.md %}
-<a id="2022"></a>
+<div class="paper-patent-item year-2024">{% include publication/2024/paper005_FPM_3d_coordinate_mapping_ISARC.md %}</div>
+<div class="paper-patent-item year-2024">{% include publication/2024/paper004_shear_stud_welding_patent_002.md %}</div>
 ### 2022
-{% include publication/2022/paper003_HFUT_Li_De_An.md %}
-{% include publication/2022/paper002_hans_Tang_Li_Heng.md %}
-{% include publication/2022/paper001_patent_001.md %}
+<div class="paper-patent-item year-2022">{% include publication/2022/paper003_HFUT_Li_De_An.md %}</div>
+<div class="paper-patent-item year-2022">{% include publication/2022/paper002_hans_Tang_Li_Heng.md %}</div>
+<div class="paper-patent-item year-2022">{% include publication/2022/paper001_patent_001.md %}</div>
 
 
 
@@ -76,36 +72,11 @@ comments: True
 
 <script>
   window.addEventListener('DOMContentLoaded', () => {
-    const paperCount = document.querySelectorAll('.paper-patent-item').length;
-    const paperCountElement = document.querySelector('#paper-count');
-    if (paperCountElement) {
-      paperCountElement.textContent = `(${paperCount})`;
-    }
-  });
-</script>
-
-<script>
-  // Compute per-year counts: for each element with class 'year-count' (data-year="YYYY"),
-  // find the heading with that id and count .paper-patent-item elements until the next H3.
-  window.addEventListener('DOMContentLoaded', () => {
-    const yearLinks = document.querySelectorAll('.year-count');
-    yearLinks.forEach(link => {
-      const year = link.getAttribute('data-year');
-      if (!year) return;
-
-      // find heading element with id=year
-      const heading = document.getElementById(year) || Array.from(document.querySelectorAll('h3')).find(h => h.textContent.trim() === year);
-      let count = 0;
-      if (heading) {
-        let node = heading.nextElementSibling;
-        while (node && node.tagName !== 'H3') {
-          if (node.querySelectorAll) {
-            count += node.querySelectorAll('.paper-patent-item').length;
-          }
-          node = node.nextElementSibling;
-        }
-      }
-      link.textContent = `(${count})`;
+    const years = ['2025', '2024', '2022'];
+    years.forEach(year => {
+      const count = document.querySelectorAll(`.paper-patent-item.year-${year}`).length;
+      const el = document.getElementById(`count-${year}`);
+      if (el) el.textContent = `(${count})`;
     });
   });
 </script>
