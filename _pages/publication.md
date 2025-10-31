@@ -8,16 +8,16 @@ last_modified_at: 2025-09-21
 comments: True
 ---
 
-<div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
-  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers</a></div>
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">(0)</a></div>
   </div>
-  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
   </div>
-  <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design</a></div>
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
   </div>
@@ -30,22 +30,24 @@ comments: True
 
 ## Papers and Patents
 <b>* means corresponding author</b>
-<div id="categories" style="margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 16px; line-height: 24px;">
-  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
-    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);" class="year-count" data-year="2025">(0)</a></div>
   </div>
-  <div style="flex: 1; display: flex; justify-content: space-between; margin-right: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">2024</a></div>
-    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);" class="year-count" data-year="2024">(0)</a></div>
   </div>
-  <div style="flex: 1; display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">2022</a></div>
-    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">(3)</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);" class="year-count" data-year="2022">(0)</a></div>
   </div>
 </div>
 
+<a id="2025"></a>
 ### 2025
+{% include publication/2025/paper015_steel_plate_welding_001.md %}
 {% include publication/2025/paper015_steel_plate_welding_001.md %}
 {% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
 {% include publication/2025/paper013_sim2real_domain_gap_rebar_tying_003.md %}
@@ -56,9 +58,11 @@ comments: True
 {% include publication/2025/paper008_rebar_tying_001_liu_mi.md %}
 {% include publication/2025/paper007_FPM_3d_coordinate_mapping.md %}
 {% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}
+<a id="2024"></a>
 ### 2024
 {% include publication/2024/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
 {% include publication/2024/paper004_shear_stud_welding_patent_002.md %}
+<a id="2022"></a>
 ### 2022
 {% include publication/2022/paper003_HFUT_Li_De_An.md %}
 {% include publication/2022/paper002_hans_Tang_Li_Heng.md %}
@@ -77,6 +81,32 @@ comments: True
     if (paperCountElement) {
       paperCountElement.textContent = `(${paperCount})`;
     }
+  });
+</script>
+
+<script>
+  // Compute per-year counts: for each element with class 'year-count' (data-year="YYYY"),
+  // find the heading with that id and count .paper-patent-item elements until the next H3.
+  window.addEventListener('DOMContentLoaded', () => {
+    const yearLinks = document.querySelectorAll('.year-count');
+    yearLinks.forEach(link => {
+      const year = link.getAttribute('data-year');
+      if (!year) return;
+
+      // find heading element with id=year
+      const heading = document.getElementById(year) || Array.from(document.querySelectorAll('h3')).find(h => h.textContent.trim() === year);
+      let count = 0;
+      if (heading) {
+        let node = heading.nextElementSibling;
+        while (node && node.tagName !== 'H3') {
+          if (node.querySelectorAll) {
+            count += node.querySelectorAll('.paper-patent-item').length;
+          }
+          node = node.nextElementSibling;
+        }
+      }
+      link.textContent = `(${count})`;
+    });
   });
 </script>
 
