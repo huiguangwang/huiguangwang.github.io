@@ -33,15 +33,15 @@ comments: True
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
-    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);" id="count-2025">(0)</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">2024</a></div>
-    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);" id="count-2024">(0)</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">2022</a></div>
-    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);" id="count-2022">(0)</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">(3)</a></div>
   </div>
 </div>
 
@@ -72,12 +72,11 @@ comments: True
 
 <script>
   window.addEventListener('DOMContentLoaded', () => {
-    const years = ['2025', '2024', '2022'];
-    years.forEach(year => {
-      const count = document.querySelectorAll(`.paper-patent-item.year-${year}`).length;
-      const el = document.getElementById(`count-${year}`);
-      if (el) el.textContent = `(${count})`;
-    });
+    const paperCount = document.querySelectorAll('.paper-patent-item').length;
+    const paperCountElement = document.querySelector('#paper-count');
+    if (paperCountElement) {
+      paperCountElement.textContent = `(${paperCount})`;
+    }
   });
 </script>
 
