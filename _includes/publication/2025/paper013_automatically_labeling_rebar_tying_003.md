@@ -26,7 +26,7 @@
   </div>
   <div style="text-align: justify; flex: 1; min-width: 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>FAST-Label: Texture-Suppressed Self-Training for Rapid Annotation of Real-World Slender and Grid-like Structures (Under Review)</b>
+      <b>Texture-Suppressed Rapid Annotation for Construction Automation: An Application to Robotic Rebar Tying (Under Review)</b>
     </span>
     <p>
       <strong>Huiguang Wang</strong>, Zekai Jin, Yi Shao<sup>*</sup><br>
