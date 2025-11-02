@@ -45,7 +45,7 @@ comments: True
   </div>
 </div>
 <b>* means corresponding author</b>
-<br>
+
 ### 2025
 
 {% include publication/2025/paper015_steel_plate_welding_001.md %}
