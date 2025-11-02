@@ -12,7 +12,7 @@ comments: True
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    A new approach to estimate the poses of rebar joints<br/>
+    FAST-Label: Texture-Suppressed Self-Training for Rapid Annotation of Real-World Slender and Grid-like Structures<br/>
   </p>
   <p style="margin-top: 10px;">
     <strong>Huiguang Wang <sup>a</sup></strong>,Zekai Jin<sup>a</sup></strong>, Yi Shao <sup>a,*</sup>
@@ -39,6 +39,12 @@ comments: True
 </div>
 
 <br>
+
+<div style="text-align: justify;">
+    <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+      <img src="/web_resources\publication\picture\automatically_labeling.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    </div>
+</div>
 
 <div style="text-align: center;">
   <p style="color: red; font-size: 25px; font-weight: bold;">
