@@ -1,5 +1,5 @@
 ---
-title: A new approach to estimate the poses of rebar joints
+title: A general framework for automatically labeling annotations of real-world slender and grid-like structures
 classes: wide
 author_profile: true
 date: 2025-07-23
@@ -15,7 +15,7 @@ comments: True
     A new approach to estimate the poses of rebar joints<br/>
   </p>
   <p style="margin-top: 10px;">
-    <strong>Huiguang Wang <sup>a</sup></strong>, Yi Shao <sup>b,*</sup>
+    <strong>Huiguang Wang <sup>a</sup></strong>,Zekai Jin<sup>a</sup></strong>, Yi Shao <sup>a,*</sup>
   </p>
   <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>* Corresponding author, email address: yi.shao2@mcgill.ca
 </p>
@@ -35,8 +35,6 @@ comments: True
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://huiguangwang.top/"><img src="/web_resources\youtube.svg" style="max-width: 40px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://huiguangwang.top/"><strong>[Video]</strong></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://huiguangwang.top/"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://huiguangwang.top/"><strong>[Code & Dataset]</strong></a>
 </div>
 
