@@ -15,7 +15,7 @@ comments: True
     FAST-Label: Texture-Suppressed Self-Training for Rapid Annotation of Real-World Slender and Grid-like Structures<br/>
   </p>
   <p style="margin-top: 10px;">
-    <strong>Huiguang Wang <sup>a</sup></strong>,Zekai Jin<sup>a</sup>, Yi Shao <sup>a,*</sup>
+    <strong>Huiguang Wang <sup>a</sup></strong>, Zekai Jin<sup>a</sup>, Yi Shao <sup>a,*</sup>
   </p>
   <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>* Corresponding author, email address: yi.shao2@mcgill.ca
 </p>
