@@ -30,7 +30,7 @@
     </span>
     <p>
       <strong>Huiguang Wang</strong>, Zekai Jin, Yi Shao<sup>*</sup><br>
-      <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"><b>[Tutorial & Code]</b></a>
+      <a href="https://huiguangwang.top/tutorial/Automatically_labeling/"><b>[Tutorial & Code]</b></a>
       <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"><b>[Demo]</b></a>
     </p>
   </div>
