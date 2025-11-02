@@ -47,7 +47,7 @@ comments: True
 <b>* means corresponding author</b>
 
 ### 2025
-
+<hr>
 {% include publication/2025/paper015_steel_plate_welding_001.md %}
 {% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
 {% include publication/2025/paper013_automatically_labeling_rebar_tying_003.md %}
@@ -59,9 +59,11 @@ comments: True
 {% include publication/2025/paper007_FPM_3d_coordinate_mapping.md %}
 {% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}
 ### 2024
+<hr>
 {% include publication/2024/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
 {% include publication/2024/paper004_shear_stud_welding_patent_002.md %}
 ### 2022
+<hr>
 {% include publication/2022/paper003_HFUT_Li_De_An.md %}
 {% include publication/2022/paper002_hans_Tang_Li_Heng.md %}
 {% include publication/2022/paper001_patent_001.md %}
