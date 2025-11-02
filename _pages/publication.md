@@ -29,7 +29,7 @@ comments: True
 
 
 ## Papers and Patents
-<b>* means corresponding author</b>
+
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
@@ -44,8 +44,10 @@ comments: True
     <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">(3)</a></div>
   </div>
 </div>
-
+<b>* means corresponding author</b>
+<br>
 ### 2025
+
 {% include publication/2025/paper015_steel_plate_welding_001.md %}
 {% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
 {% include publication/2025/paper013_automatically_labeling_rebar_tying_003.md %}
