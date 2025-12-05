@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:whg0917@hnu.edu.cn"
+      url: "mailto:huiguang.wang@mail.mcgill.ca"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://huiguangwang.top/"
@@ -130,7 +130,7 @@ author:
       url: "https://huiguangwang.top/cv"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: "https://www.linkedin.com/in/huiguang-wang-a16b78397/"
     - label: "Google scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN"
