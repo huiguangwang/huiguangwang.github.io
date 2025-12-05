@@ -126,7 +126,7 @@ author:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://huiguangwang.top/"
     - label: "My CV"
-      icon: "fa fa-address-card"
+      icon: "fa fa-hand-o-right"
       url: "https://huiguangwang.top/cv"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
