@@ -141,7 +141,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/huiguangwang"
     - label: "Hugging Face"
-      icon: "fab fa-fw fa-brain"
+      icon: "fa fa-smile-o"
       url: "https://huggingface.co/Huiguang"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
