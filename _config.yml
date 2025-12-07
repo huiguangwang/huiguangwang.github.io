@@ -146,6 +146,9 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@FigWang"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
+      url: "https://space.bilibili.com/384684918?spm_id_from=333.1007.0.0"
 
 # Site Footer
 footer:
