@@ -35,11 +35,4 @@ comments: True
 
 
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 300px; margin-right: 20px;">
-    <script type="text/javascript" id="clustrmaps"
-      src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=0J2HJpwHjDPsYDCflSW-Je8Enl_S9-uLfGIsLw3qyEM">
-    </script>
-  </div>
 
-</div>
