@@ -32,6 +32,10 @@ comments: True
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#2026" style="text-decoration: none; color:rgb(0, 0, 0);">2026</a></div>
+    <div><a href="#2026" style="text-decoration: none; color:rgb(0, 0, 0);">(0)</a></div>
+  </div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
     <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
   </div>
@@ -46,6 +50,9 @@ comments: True
 </div>
 <b>* means corresponding author</b>
 
+### 2025
+<hr>
+{% include publication/2026/paper016_automatically_labeling_rebar_tying_004.md %}
 ### 2025
 <hr>
 {% include publication/2025/paper015_steel_plate_welding_001.md %}
