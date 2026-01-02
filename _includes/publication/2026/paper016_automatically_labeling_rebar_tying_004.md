@@ -25,7 +25,7 @@
     </span>
     <p>       
       <strong>Huiguang Wang</strong>, Zekai Jin, Yi Shao<sup>*</sup><br>
-      <a href="https://huiguangwang.top/tutorial/Automatically_labeling/"><b>[Code & Dataset]</b></a>
+      <a href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/"><b>[Code & Dataset]</b></a>
     </p>
   </div>
 </div>
