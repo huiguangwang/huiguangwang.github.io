@@ -52,7 +52,7 @@ comments: True
 
 ### 2026
 <hr>
-{% include publication/2026/paper019_Rebar_weldinging.md %}
+{% include publication/2026/paper019_Rebar_welding.md %}
 {% include publication/2026/paper018_Topology_Agnostic_Robotic_Rebar_Tying_005.md %}
 {% include publication/2026/paper016_Topology_Agnostic_Robotic_Rebar_Tying_004.md %}
 {% include publication/2026/paper017_steel_plate__welding.md %}
