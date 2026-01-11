@@ -21,11 +21,10 @@
 
   <div style="text-align: justify; flex: 1 1 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Geometry-Driven Perception and Action for Topology-Agnostic Robotic Rebar Tying (Under Review)</b>
+      <b>Domain-Gap-Free Automatic Real-world Point Cloud Annotation: Application to Complex Rebar Joint Welding (Under Review)</b>
     </span>
     <p>       
-      <strong>Huiguang Wang</strong>, Zekai Jin, Yi Shao<sup>*</sup><br>
-      <a href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/"><b>[Code & Dataset]</b></a>
+      Yu Dai, <strong>Huiguang Wang</strong>, Shaopeng Xu, Jiayao Zou, Lu Deng<sup>*</sup><br>
     </p>
   </div>
 </div>
