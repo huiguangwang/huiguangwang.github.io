@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <div class="paper-patent-item" 
      style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
 
