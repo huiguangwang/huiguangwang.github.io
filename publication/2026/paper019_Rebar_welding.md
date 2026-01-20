@@ -24,7 +24,7 @@
       <b>Domain-Gap-Free Automatic Real-world Point Cloud Annotation: Application to Complex Rebar Joint Welding (Under Review)</b>
     </span>
     <p>       
-      Yu Dai, <strong>Huiguang Wang (Co-first author)</strong>, Shaopeng Xu, Jiayao Zou, Lu Deng<sup>*</sup><br>
+      Yu Dai, <strong>Huiguang Wang<sup>†</sup></strong>, Shaopeng Xu, Jiayao Zou, Lu Deng<sup>*</sup><br>
     </p>
   </div>
 </div>
