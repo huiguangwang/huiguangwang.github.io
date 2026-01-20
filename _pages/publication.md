@@ -53,13 +53,14 @@ comments: True
 ### 2026
 <hr>
 
-{% assign papers_2026 = site.static_files
-  | where_exp: "file", "file.path contains 'publication/2026/'"
+{% assign papers_2026 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2026/'"
   | sort: "name" | reverse %}
 
-{% for file in papers_2026 %}
-  {% include {{ file.path | remove: "_includes/" }} %}
+{% for p in papers_2026 %}
+  {{ p.content }}
 {% endfor %}
+
 
 
 ### 2025
