@@ -50,19 +50,3 @@ search: false
   }
 }
 }
-
-// ---------------------------
-// Full content layout when author_profile is false
-// ---------------------------
-#main.full-content {
-  display: flex;
-
-  .sidebar {
-    display: none; // 隐藏 sidebar
-  }
-
-  .archive {
-    flex: 1 1 100%;
-    margin-left: 0;
-  }
-}
