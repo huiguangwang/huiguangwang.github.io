@@ -1,6 +1,6 @@
 ---
 title: Topology-Agnostic Robotic Rebar Tying
-classes: wide
+classes: splash
 author_profile: false
 date: 2026-01-04
 categories: 
