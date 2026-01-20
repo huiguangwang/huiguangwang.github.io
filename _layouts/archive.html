@@ -14,13 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{%- comment -%}
-  给 main 动态加 class，如果没有 author_profile，标记为 full-width
-{%- endcomment -%}
-<div id="main" role="main" class="{% unless page.author_profile %}full-width{% endunless %}">
+<div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive {{ page.classes }}">
+  <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}

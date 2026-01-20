@@ -50,33 +50,3 @@ search: false
   }
 }
 }
-
-
-// ---------------------------
-// Full-width content when no author_profile
-// ---------------------------
-
-#main {
-  display: flex;
-  gap: 20px; // sidebar 和 content 间距
-
-  .sidebar {
-    width: 250px; // 根据你主题 sidebar 宽度调整
-    flex-shrink: 0;
-  }
-
-  .archive {
-    flex: 1; // 默认占剩余空间
-  }
-
-  &.full-width {
-    .sidebar {
-      display: none; // 隐藏 sidebar
-    }
-
-    .archive {
-      flex: 1 1 100%;
-      margin-left: 0;
-    }
-  }
-}
