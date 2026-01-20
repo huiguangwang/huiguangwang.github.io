@@ -117,13 +117,13 @@ classes: wide
 
 <h4>Selected Papers</h4>
 <hr>
-{% include publication/2026/paper016_Topology_Agnostic_Robotic_Rebar_Tying_004.md %}
-{% include publication/2025/paper015_steel_plate_welding_001.md %}
-{% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
-{% include publication/2025/paper013_automatically_labeling_rebar_tying_003.md %}
-{% include publication/2025/paper012_camera_pose_adjustment.md %}
-{% include publication/2025/paper011_pose_decoupling_rebar_tying_002.md %}
-{% include publication/2025/paper010_rebar_cage_welding_001.md %}
+{% assign papers_2026 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2026/'"
+  | sort: "name" | reverse %}
+
+{% for p in papers_2026 %}
+  {{ p.content }}
+{% endfor %}
 
 <div style="display:flex; justify-content:flex-end; margin-top:8px; margin-bottom:16px;">
   <a href="https://huiguangwang.top/pub/" target="_blank" rel="noopener" style="font-weight:bold; color:#1772d0; text-decoration:none; font-size:16px;">▶️ More publications</a>
