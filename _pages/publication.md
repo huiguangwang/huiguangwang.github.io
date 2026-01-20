@@ -28,60 +28,7 @@ comments: True
 
 
 
-
-
-
-
-
 ## Papers and Patents
-
-{% assign years = "2026,2025,2024,2022" | split: "," %}
-
-<!-- 年份统计栏 -->
-<div id="year-categories" style="margin-bottom:20px; display:flex; flex-wrap:wrap; gap:20px; font-size:16px; line-height:24px;">
-
-{% for year in years %}
-  {% assign papers = site.static_files 
-    | where_exp: "file", "file.path contains 'publication/' | append: year | append: '/'" %}
-
-  <div style="flex:0 0 calc(33.333% - 20px); display:flex; justify-content:space-between;
-              border-bottom:1px solid #ccc; padding-bottom:10px; box-sizing:border-box;">
-    <div>
-      <a href="#{{ year }}" style="text-decoration:none; color:#000;">{{ year }}</a>
-    </div>
-    <div>
-      <a href="#{{ year }}" style="text-decoration:none; color:#000;">
-        ({{ papers | size }})
-      </a>
-    </div>
-  </div>
-{% endfor %}
-
-</div>
-
-<b>* means corresponding author</b>
-
-<!-- 正文论文列表 -->
-{% for year in years %}
-
-### {{ year }}
-<hr>
-
-{% assign papers = site.static_files
-  | where_exp: "file", "file.path contains 'publication/' | append: year | append: '/'"
-  | sort: "name" | reverse %}
-
-{% for file in papers %}
-  {% include {{ file.path | remove: "_includes/" }} %}
-{% endfor %}
-
-{% endfor %}
-
-
-
-
-
-<!-- ## Papers and Patents
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
@@ -105,10 +52,15 @@ comments: True
 
 ### 2026
 <hr>
-{% include publication/2026/paper019_Rebar_welding.md %}
-{% include publication/2026/paper018_Topology_Agnostic_Robotic_Rebar_Tying_005.md %}
-{% include publication/2026/paper016_Topology_Agnostic_Robotic_Rebar_Tying_004.md %}
-{% include publication/2026/paper017_steel_plate__welding.md %}
+
+{% assign papers_2026 = site.static_files
+  | where_exp: "file", "file.path contains 'publication/2026/'"
+  | sort: "name" | reverse %}
+
+{% for file in papers_2026 %}
+  {% include {{ file.path | remove: "_includes/" }} %}
+{% endfor %}
+
 
 ### 2025
 <hr>
@@ -130,7 +82,7 @@ comments: True
 <hr>
 {% include publication/2022/paper003_HFUT_Li_De_An.md %}
 {% include publication/2022/paper002_hans_Tang_Li_Heng.md %}
-{% include publication/2022/paper001_patent_001.md %} -->
+{% include publication/2022/paper001_patent_001.md %}
 
 
 
