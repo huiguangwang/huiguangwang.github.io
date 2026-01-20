@@ -21,7 +21,7 @@
 
   <div style="text-align: justify; flex: 1 1 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Automating Tolerance-CriticalWindow Installation via Installer-in-the-Loop Interactive Reinforcement Learning (Under Review)</b>
+      <b>Automating Tolerance-Critical Window Installation via Installer-in-the-Loop Interactive Reinforcement Learning (Under Review)</b>
     </span>
     <p>       
       Zekai Jin, <strong>Huiguang Wang</strong>, Jiaduo Xing, Yi Shao<sup>*</sup><br>
