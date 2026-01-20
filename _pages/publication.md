@@ -80,8 +80,8 @@ comments: True
 </div>
 
 
-<b>* means corresponding author</b>
-<b>† means co-first author</b>
+<b>* means corresponding author and † means co-first author</b>
+
 
 ### 2026
 <hr>
