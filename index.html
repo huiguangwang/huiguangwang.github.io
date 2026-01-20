@@ -117,11 +117,11 @@ classes: wide
 
 <h4>Selected Papers</h4>
 <hr>
-{% assign papers_2026 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2026/'"
+{% assign papers_selected = site.pages
+  | where_exp: "p", "p.path contains 'publication/selected/'"
   | sort: "name" | reverse %}
 
-{% for p in papers_2026 %}
+{% for p in papers_selected %}
   {{ p.content }}
 {% endfor %}
 
