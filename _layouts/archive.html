@@ -14,10 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main" class="{% if page.author_profile == false %}full-content{% endif %}">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <div class="archive {{ page.classes }}">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}
