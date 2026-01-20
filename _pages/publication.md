@@ -81,7 +81,7 @@ comments: True
   | where_exp: "p", "p.path contains 'publication/2024/'"
   | sort: "name" | reverse %}
 
-{% for p in papers_20245 %}
+{% for p in papers_2024 %}
   {{ p.content }}
 {% endfor %}
 
