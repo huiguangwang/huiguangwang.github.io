@@ -25,15 +25,16 @@ categories:
   - Tutorial
 ---
 
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    Geometry-Driven  Perception and Action for Topology-Agnostic Robotic Rebar Tying<br/>
+<div style="text-align: center; line-height: 1.3; margin-bottom: 20px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0 0 10px 0;">
+    Geometry-Driven Perception and Action for Topology-Agnostic Robotic Rebar Tying
   </p>
-  <p style="margin-top: 10px;">
-    <strong>Huiguang Wang <sup>a</sup></strong>, Zekai Jin<sup>a</sup>, Yi Shao <sup>a,*</sup>
+
+  <p style="margin: 0 0 5px 0;">
+    <strong>Huiguang Wang<sup>a</sup></strong>, Zekai Jin<sup>a</sup>, Yi Shao<sup>a,*</sup><br>
+    <sup>a</sup> McGill University, Montreal, Canada<br>
+    * Corresponding author: yi.shao2@mcgill.ca
   </p>
-  <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>* Corresponding author, email address: yi.shao2@mcgill.ca
-</p>
 
   <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
     <a href="https://www.mcgill.ca/" target="_blank">
@@ -44,11 +45,11 @@ categories:
       <img src="/web_resources/AIS.png" style="width: 400px; height: auto; margin-bottom: 10px;" />
     </a>
   </div>
-
 </div>
 
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">
+
+<div style="text-align: center; margin-bottom: 15px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">
     Background & Methodology
   </p>
 </div>
