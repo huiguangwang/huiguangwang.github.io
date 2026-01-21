@@ -1,7 +1,7 @@
 ---
 title: "How feasible is it to perform multi-topology rebar joint labeling and tying with minimal data?"
 layout: splash
-date: 2016-03-23T11:48:41-04:00
+date: 2026-01-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
