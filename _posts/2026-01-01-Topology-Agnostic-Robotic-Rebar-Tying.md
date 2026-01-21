@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
   overlay_excerpt: |
-    <p style="line-height: 1.3; margin: 0;">
+    <p style="line-height: 1.3; margin: 0; text-align: center;">
       <strong>Huiguang Wang<sup>a</sup></strong>, 
       Zekai Jin<sup>a</sup>, 
       Yi Shao<sup>a,*</sup><br>
