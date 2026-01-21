@@ -5,7 +5,7 @@ date: 2026-01-21
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /web_resources\post\Rotate-ICP\Snipaste_2026-01-21_12-38-27.png
+  overlay_image: /web_resources/post/Rotate-ICP/Snipaste_2026-01-21_12-38-27.png
   actions:
     - label: "Video"
       url: "https://www.youtube.com/watch?v=uixmualasgU"
