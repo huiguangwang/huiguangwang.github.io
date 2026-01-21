@@ -8,12 +8,12 @@ header:
   overlay_image: /web_resources/logo/AIS_logo.png
   overlay_excerpt: |
     <div style="text-align: center;">
-      <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-        Geometry-Driven Perception and Action for Topology-Agnostic Robotic Rebar Tying<br/>
-      </p>
       <p style="margin-top: 10px;">
-        <strong>Huiguang Wang <sup>a</sup></strong>, Zekai Jin<sup>a</sup>, Yi Shao <sup>a,*</sup>
+        <strong>Huiguang Wang <sup>a</sup></strong>, 
+        Zekai Jin<sup>a</sup>, 
+        Yi Shao <sup>a,*</sup>
       </p>
+
       <p style="margin-top: 10px;">
         a McGill University, Montreal, Canada<br>
         * Corresponding author, email address: yi.shao2@mcgill.ca
