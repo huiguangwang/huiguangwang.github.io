@@ -61,6 +61,29 @@ categories:
 
 <div style="text-align: center; margin-bottom: 15px;">
   <p style="font-size: 28px; font-weight: bold; margin: 0;">
+    Background
+  </p>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+  <img src="/web_resources\post\Rotate-ICP\bg.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+</div>
+
+
+<div style="text-align: center; margin-bottom: 15px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">
+    Pipeline
+  </p>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+  <img src="/web_resources\post\Rotate-ICP\pipeline.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+</div>
+
+
+
+<div style="text-align: center; margin-bottom: 15px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">
     Final Results
   </p>
 </div>
