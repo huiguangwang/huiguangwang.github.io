@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p style="margin: 0 0 5px 0;">
-    Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*a</sup></strong>,<br>
+    Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, Jiayao Zou<br>
     College of Civil Engineering, Hunan University<br>
     * Corresponding author: whg0917@hnu.edu.cn
   </p>
@@ -40,12 +40,6 @@ categories:
   </div>
 </div>
 
-
-<div style="text-align: center; margin-bottom: 15px;">
-  <p style="font-size: 28px; font-weight: bold; margin: 0;">
-    Background & Methodology
-  </p>
-</div>
 
 
 
@@ -63,3 +57,12 @@ categories:
   </p>
 </div>
 
+<div style="text-align: center; margin-bottom: 15px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">
+    Final Results
+  </p>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+  <img src="/web_resources\post\Rotate-ICP\图片1.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+</div>
