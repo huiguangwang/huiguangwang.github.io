@@ -6,25 +6,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
-  overlay_excerpt: |
-    <div style="text-align: center;">
-      <p style="margin-top: 10px;">
-        <strong>Huiguang Wang <sup>a</sup></strong>, 
-        Zekai Jin<sup>a</sup>, 
-        Yi Shao <sup>a,*</sup>
-      </p>
 
-      <p style="margin-top: 10px;">
-        a McGill University, Montreal, Canada<br>
-        * Corresponding author, email address: yi.shao2@mcgill.ca
-      </p>
-    </div>
   actions:
     - label: "Code"
       url: "https://github.com/mmistakes/minimal-mistakes/"
     - label: "Dataset"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 
 feature_row:
   - image_path: /web_resources/post/Topology_Agnostic/1.png
