@@ -7,6 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
 
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+
 feature_row:
   - image_path: /web_resources/post/Topology_Agnostic/1.png
     alt: "placeholder image 1"
@@ -22,32 +24,15 @@ feature_row:
 categories: 
   - Tutorial
 ---
-
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    Geometry-Driven  Perception and Action for Topology-Agnostic Robotic Rebar Tying<br/>
+<div style="text-align: center; line-height: 1.3; margin-top: 20px; margin-bottom: 20px;">
+  <p style="margin: 0;">
+    <strong>Huiguang Wang<sup>a</sup></strong>, 
+    Zekai Jin<sup>a</sup>, 
+    Yi Shao<sup>a,*</sup><br>
+    <sup>a</sup> McGill University, Montreal, Canada<br>
+    * Corresponding author: yi.shao2@mcgill.ca
   </p>
-  <p style="margin-top: 10px;">
-    <strong>Huiguang Wang <sup>a</sup></strong>, Zekai Jin<sup>a</sup>, Yi Shao <sup>a,*</sup>
-  </p>
-  <p style="margin-top: 10px;">a McGill University, Montreal, Canada<br>* Corresponding author, email address: yi.shao2@mcgill.ca
-</p>
-
-  <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
-    <a href="https://www.mcgill.ca/" target="_blank">
-      <img src="/web_resources/McGill.png" style="width: 200px; height: auto; margin-bottom: 10px;" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.shao-lab.com/" target="_blank">
-      <img src="/web_resources/AIS.png" style="width: 400px; height: auto; margin-bottom: 10px;" />
-    </a>
-  </div>
-
 </div>
-
-
-
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
