@@ -1,21 +1,33 @@
 ---
-title: How to apply Rotate-ICP algorithm
-classes: wide
-author_profile: true
-date: 2025-04-08
+title: "Which Is Better for Reducing Domain Gap: Point Clouds or RGB?"
+layout: splash
+date: 2026-01-21
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /web_resources\post\Rotate-ICP\Snipaste_2026-01-21_12-38-27.png
+  actions:
+    - label: "Video"
+      url: "https://www.youtube.com/watch?v=uixmualasgU"
+    - label: "Dataset"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+excerpt: "We propose a geometry-driven, domain-gap-free framework for automated rebar cage welding that eliminates manual annotation by generating labels directly from real-world RGB-D scans. By exploiting geometric priors and symmetric pose reasoning, the system achieves 99.12% segmentation and 98.30% welding success."
+
+
 categories: 
   - Tutorial
-last_modified_at: 2025-04-08
-comments: True
 ---
 
-
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
-    Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls<br/>
+<div style="text-align: center; line-height: 1.3; margin-bottom: 20px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0 0 10px 0;">
+    Domain-Gap-Free Automatic Real-world Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint
   </p>
-  <p style="margin-top: 10px;">Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <strong>Huiguang Wang (Corresponding author)</strong></p>
-  <p style="margin-top: 10px;">College of Civil Engineering, Hunan University, Changsha 410082, PR China</p>
+
+  <p style="margin: 0 0 5px 0;">
+    Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*a</sup></strong>,<br>
+    College of Civil Engineering, Hunan University<br>
+    * Corresponding author: whg0917@hnu.edu.cn
+  </p>
 
   <div style="display: flex; justify-content: center; align-items: center; width: 400px; margin: 0 auto;">
     <a href="https://www.hnu.edu.cn/" target="_blank">
@@ -26,25 +38,17 @@ comments: True
       <img src="/web_resources/dengteam.png" style="width: 200px; height: auto; margin-bottom: 10px;" />
     </a>
   </div>
-
 </div>
 
 
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=uixmualasgU"><img src="/web_resources\youtube.svg" style="max-width: 40px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=uixmualasgU"><strong>[Video]</strong></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/huiguangwang"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://github.com/huiguangwang"><strong>[Code]</strong></a>
-</div>
-
-<br>
-
-<div style="text-align: center;">
-  <p style="color: red; font-size: 25px; font-weight: bold;">
-    The code will be open-source after this paper being published.
+<div style="text-align: center; margin-bottom: 15px;">
+  <p style="font-size: 28px; font-weight: bold; margin: 0;">
+    Background & Methodology
   </p>
 </div>
+
+
+
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold;">
@@ -53,33 +57,9 @@ comments: True
 </div>
 
 <div style="text-align: justify;">
-  <p style="margin-top: 10px;">Against the background of an aging society and the low degree of automation in the construction industry, experienced welders are gradually retiring, and younger individuals are unwilling to engage in physically demanding and high-risk welding work. Regarding the welding of rebar cage joints, existing technology can only handle the welding of simple joints in rebar meshes and cannot weld the complex joints of rebar cages, which still requires experienced welders. Therefore, we propose a new algorithm, Rotate-ICP, for welding complex joints. This algorithm successfully addresses the symmetry issue in 6-DOF welding pose prediction, improving the registration rate by 15% compared to Ransac-ICP and reducing the registration time by 0.28 seconds. The welding success rate is nearly 100%, with an efficiency of 8.328 seconds per joint, and the welding quality meets the requirements of code.
+  <p style="margin-top: 10px;">The automation of rebar cage welding is challenged by the geometric complexity of joints with tie bars and the prohibitive labor costs associated with annotating real-world datasets. To overcome these challenges, this paper proposes a geometry-driven, domain-gap-free perception and execution framework. Specifically, an automated annotation pipeline generates training labels directly from real-world RGB-D scans. By integrating density-based heatmap analysis for regions of interest localization and local density statistics, the system accurately distinguishes complex joints from standard X-type joints, thereby automatically selecting target ROIs. Leveraging inherent longitudinal-transverse geometric priors, background structures are explicitly modeled and subtracted to extract valid instances. Furthermore, to resolve pose ambiguities caused by geometric symmetry, a symmetric candidate pose strategy is introduced that accounts for multiple feasible tie bar orientations. Experiments demonstrate a 99.12% segmentation success rate and a 98.30% welding success rate, validating the proposed methods.
   </p>
-  <p><strong>Keywords:</strong> Robotic welding; Complex joints; Symmetry issue; Point cloud registration; 3D vision;
-  </p>
-</div>
-
-{% include video id="uixmualasgU" provider="youtube" %}
-
-
-
-
-<div style="text-align: justify;">
-    <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-      <img src="/web_resources\post\Rotate-ICP\welding.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-      <img src="/web_resources\post\Rotate-ICP\welding1.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-    </div>
-</div>
-
-
-
-
-<div style="text-align: center;">
-  <p style="color: red; font-size: 25px; font-weight: bold;">
-    If you have any questions, please contact me without any hesitations at: whg0917@hnu.edu.cn
+  <p><strong>Keywords:</strong> Robotic welding; Rapid annotation; Instance segmentation; Symmetry issue
   </p>
 </div>
-
 
