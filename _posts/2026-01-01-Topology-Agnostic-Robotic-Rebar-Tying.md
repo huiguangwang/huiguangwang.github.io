@@ -6,12 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
-  actions:
-    - label: "Code"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-    - label: "Dataset"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 
 feature_row:
   - image_path: /web_resources/post/Topology_Agnostic/1.png
@@ -28,20 +22,6 @@ feature_row:
 categories: 
   - Tutorial
 ---
-<div style="text-align: center; line-height: 1.3; margin-top: 20px; margin-bottom: 20px;">
-  <p style="margin: 0;">
-    <strong>Huiguang Wang<sup>a</sup></strong>, 
-    Zekai Jin<sup>a</sup>, 
-    Yi Shao<sup>a,*</sup><br>
-    <sup>a</sup> McGill University, Montreal, Canada<br>
-    * Corresponding author: yi.shao2@mcgill.ca
-  </p>
-</div>
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold; margin-bottom: 5px;">
@@ -65,4 +45,13 @@ categories:
 
 </div>
 
-<br>
+
+
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+
+
+
