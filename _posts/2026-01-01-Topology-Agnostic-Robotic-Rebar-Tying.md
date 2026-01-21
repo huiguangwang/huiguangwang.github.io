@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
 
-
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 
 feature_row:
   - image_path: /web_resources/post/Topology_Agnostic/1.png
