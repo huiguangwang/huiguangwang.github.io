@@ -5,7 +5,7 @@ date: 2026-01-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /web_resources/logo/AIS_logo.png
+  overlay_image: /web_resources/post/Topology_Agnostic/IMG_7263.PNG
   actions:
     - label: "Code"
       url: "https://github.com/mmistakes/minimal-mistakes/"
