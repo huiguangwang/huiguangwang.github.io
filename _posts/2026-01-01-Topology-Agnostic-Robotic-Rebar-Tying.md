@@ -6,20 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
-  overlay_excerpt: |
-    <p style="line-height: 1.3; margin: 0; text-align: center;">
-      <strong>Huiguang Wang<sup>a</sup></strong>, 
-      Zekai Jin<sup>a</sup>, 
-      Yi Shao<sup>a,*</sup><br>
-      <sup>a</sup> McGill University, Montreal, Canada<br>
-      * Corresponding author: yi.shao2@mcgill.ca
-    </p>
   actions:
     - label: "Code"
       url: "https://github.com/mmistakes/minimal-mistakes/"
     - label: "Dataset"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 
 feature_row:
   - image_path: /web_resources/post/Topology_Agnostic/1.png
@@ -36,7 +28,15 @@ feature_row:
 categories: 
   - Tutorial
 ---
-
+<div style="text-align: center; line-height: 1.3; margin-top: 20px; margin-bottom: 20px;">
+  <p style="margin: 0;">
+    <strong>Huiguang Wang<sup>a</sup></strong>, 
+    Zekai Jin<sup>a</sup>, 
+    Yi Shao<sup>a,*</sup><br>
+    <sup>a</sup> McGill University, Montreal, Canada<br>
+    * Corresponding author: yi.shao2@mcgill.ca
+  </p>
+</div>
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
@@ -66,22 +66,3 @@ categories:
 </div>
 
 <br>
-
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">
-    Abstract
-  </p>
-</div>
-
-<div style="text-align: justify;">
-  <p style="margin-top: 10px;">Robust perception of rebar joints is challenging due to geometric variability, irregular intersection topologies, and real-world sensing imperfections. Existing methods largely rely on appearance-driven recognition and topology-specific supervision, which limits generalization. We reformulate rebar joint perception as a geometry-dominated structural understanding problem and propose a two-stage learning pipeline that biases learning toward geometric invariants without explicit domain adaptation. In the first stage, a geometry-only synthetic dataset is constructed to train a detector that is used exclusively as a fixed annotator to generate reliable pseudo-labels for simple cross-shaped intersections in real images. In the second stage, a final perception model is trained from scratch using only these pseudo-labeled, background-removed real images, introducing authentic geometric variability without manual annotation. Based on this formulation, we further design a unified, topology-agnostic perception-to-action pipeline for robotic rebar tying. Experiments demonstrate robust sim-to-real generalization across diverse rebar topologies and configurations.
-  </p>
-  <p><strong>Keywords:</strong> Geometry-dominated perception; Rebar joint detection; Sim-to-real generalization; Topology-agnostic perception; Robotic rebar tying
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <p style="color: red; font-size: 25px; font-weight: bold;">
-    The code and dataset will be open-source after this paper being published.
-  </p>
-</div>
