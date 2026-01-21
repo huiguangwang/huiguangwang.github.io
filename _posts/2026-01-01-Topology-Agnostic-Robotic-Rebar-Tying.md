@@ -1,5 +1,5 @@
 ---
-title: "Geometry-Driven Perception and Action for Topology-Agnostic Robotic Rebar Tying"
+title: "How feasible is it to perform multi-topology rebar labeling and tying with minimal data?"
 layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
 
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "We explore whether diverse rebar node types can be reliably annotated using minimal data. By reformulating joint perception as a geometry-driven problem, we use a two-stage pipeline: a synthetic geometry-only dataset generates pseudo-labels for real images, which then train a final model capturing authentic geometric variability without manual annotation. Our approach achieves robust sim-to-real generalization across multiple node topologies, enabling practical robotic rebar tying."
 
 feature_row:
   - image_path: /web_resources/post/Topology_Agnostic/1.png
@@ -47,7 +47,11 @@ categories:
 
 </div>
 
-
+<div style="text-align: center;">
+  <p style="font-size: 30px; font-weight: bold;">
+    Background & Methodology
+  </p>
+</div>
 
 {% include feature_row id="intro" type="center" %}
 
