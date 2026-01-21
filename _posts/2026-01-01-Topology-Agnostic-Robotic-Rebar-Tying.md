@@ -6,7 +6,21 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /web_resources/logo/AIS_logo.png
+
 excerpt: "We show that diverse rebar joints can be reliably annotated from minimal data using a geometry-driven, two-stage pipeline, enabling robust sim-to-real generalization for robotic rebar tying."
+
+feature_row:
+  - image_path: /web_resources/post/Topology_Agnostic/1.png
+    alt: "placeholder image 1"
+    title: "Background"
+    excerpt:
+  - image_path: /web_resources/post/Topology_Agnostic/2.png
+    alt: "placeholder image 2"
+    title: "Two-stage Pseudo-labeling"
+    excerpt:
+  - image_path: /web_resources/post/Topology_Agnostic/3.png
+    title: "Topology-agnostic Tying Policy"
+    excerpt:
 categories: 
   - Tutorial
 ---
@@ -40,33 +54,9 @@ categories:
   </p>
 </div>
 
+{% include feature_row id="intro" type="center" %}
 
-
-
-<!-- 并列图片 + 说明（加粗文字） -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-  
-  <!-- 第一张图片 -->
-  <div style="text-align: center; max-width: 300px;">
-    <img src="/web_resources/post/Topology_Agnostic/1.png" style="width: 100%; height: auto; margin-bottom: 5px;" />
-    <p style="margin: 0;"><strong>Background</strong></p>
-  </div>
-  
-  <!-- 第二张图片 -->
-  <div style="text-align: center; max-width: 300px;">
-    <img src="/web_resources/post/Topology_Agnostic/2.png" style="width: 100%; height: auto; margin-bottom: 5px;" />
-    <p style="margin: 0;"><strong>Two-stage Pseudo-labeling</strong></p>
-  </div>
-
-  <!-- 第三张图片 -->
-  <div style="text-align: center; max-width: 300px;">
-    <img src="/web_resources/post/Topology_Agnostic/3.png" style="width: 100%; height: auto; margin-bottom: 5px;" />
-    <p style="margin: 0;"><strong>Topology-agnostic Tying Policy</strong></p>
-  </div>
-
-</div>
-
-
+{% include feature_row %}
 
 
 <div style="text-align: center;">
