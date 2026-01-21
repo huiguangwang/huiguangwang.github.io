@@ -7,10 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /web_resources/post/Rotate-ICP/Snipaste_2026-01-21_12-38-27.png
   actions:
+    - label: "Code"
+      url: "https://github.com/huiguangwang"
+    - label: "Dataset"
+      url: "https://github.com/huiguangwang"
     - label: "Video"
       url: "https://www.youtube.com/watch?v=uixmualasgU"
-    - label: "Dataset"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "We propose a geometry-driven, domain-gap-free framework for automated rebar cage welding that eliminates manual annotation by generating labels directly from real-world RGB-D scans. By exploiting geometric priors and symmetric pose reasoning, the system achieves 99.12% segmentation and 98.30% welding success."
 
 
