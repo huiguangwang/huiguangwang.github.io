@@ -10,7 +10,7 @@
       <b>Domain-Gap-Free Automatic Real-world Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint (Under Review)</b>
     </span>
     <p>
-      Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, Jiayao Zou</strong><br>
+      Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, Jiayao Zou<br>
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/" target="_blank"><b>[Page]</b></a>
       <a href="https://youtu.be/uixmualasgU" target="_blank"><b>[Demo]</b></a>
     </p>
