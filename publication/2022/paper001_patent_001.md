@@ -11,7 +11,7 @@
     </span>
     <p>Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <strong>Huiguang Wang</strong>
     <br>
-      <a href="/web_resources/publication/papers/一种钢板组合梁桥的防腹板屈曲的耗能支撑装置.pdf"><b>[PDF]</b></a>
+      <a href="/web_resources/publication/papers/一种钢板组合梁桥的防腹板屈曲的耗能支撑装置.pdf" target="_blank"><b>[PDF]</b></a>
     </p>
   </div>
 </div>

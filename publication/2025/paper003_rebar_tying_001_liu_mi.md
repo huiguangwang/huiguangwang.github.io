@@ -12,8 +12,8 @@
     <p>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <strong>Huiguang Wang</strong>
     <br>
     <i>Automation in Construction</i>, Impact Factor: 11.5 (SCI, Q1)<br>
-      <a href="https://www.youtube.com/watch?v=7VkRotXTWYA&list=PLHXybvFCWrYLfXiHWue_Mre6Mk0OO2tC2"><b>[Demo]</b></a>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000391"><b>[PDF]</b></a>
+      <a href="https://www.youtube.com/watch?v=7VkRotXTWYA&list=PLHXybvFCWrYLfXiHWue_Mre6Mk0OO2tC2" target="_blank"><b>[Demo]</b></a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000391" target="_blank"><b>[PDF]</b></a>
     </p>
   </div>
 </div>

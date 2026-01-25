@@ -11,8 +11,8 @@
     </span>
     <p>
       Shaopeng Xu, Jingjing Guo, <strong>Huiguang Wang</strong>, Lu Deng, Peng Shi, Lizhi Long<br>
-      <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Tutorial & Code]</b></a>
-      <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
+      <a href="https://huiguangwang.top/tutorial/Rebar_welding/" target="_blank"><b>[Page]</b></a>
+      <a href="https://youtu.be/uixmualasgU" target="_blank"><b>[Demo]</b></a>
     </p>
   </div>
 </div>

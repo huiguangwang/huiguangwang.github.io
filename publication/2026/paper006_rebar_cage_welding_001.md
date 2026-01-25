@@ -11,8 +11,8 @@
     </span>
     <p>
       Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, Jiayao Zou</strong><br>
-      <a href="https://huiguangwang.top/tutorial/Rebar_welding/"><b>[Page]</b></a>
-      <a href="https://youtu.be/uixmualasgU"><b>[Demo]</b></a>
+      <a href="https://huiguangwang.top/tutorial/Rebar_welding/" target="_blank"><b>[Page]</b></a>
+      <a href="https://youtu.be/uixmualasgU" target="_blank"><b>[Demo]</b></a>
     </p>
   </div>
 </div>

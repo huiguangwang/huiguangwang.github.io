@@ -14,7 +14,7 @@
       <br/>        
       <i>Journal of Hefei University of Technology (Natural Science)</i>, 2022-09
       <br/>
-      <a href="/web_resources/publication/papers/基于PTMD的双主梁钢-混组合梁桥车-桥耦合振动控制_李德安.pdf"><b>[PDF]</b></a>
+      <a href="/web_resources/publication/papers/基于PTMD的双主梁钢-混组合梁桥车-桥耦合振动控制_李德安.pdf" target="_blank"><b>[PDF]</b></a>
     </p>
   </div>
 </div>

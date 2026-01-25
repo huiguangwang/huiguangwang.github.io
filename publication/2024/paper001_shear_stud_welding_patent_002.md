@@ -10,7 +10,7 @@
       <b>A welding method and system for steel-concrete composite structure connectors</b><br>(NO. CN 117102725 B, 2024-01-09)
     </span>
     <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo<br>
-      <a href="/web_resources/publication/papers/剪力钉专利.pdf"><b>[PDF]</b></a>
+      <a href="/web_resources/publication/papers/剪力钉专利.pdf" target="_blank"><b>[PDF]</b></a>
     </p>
   </div>
 </div>

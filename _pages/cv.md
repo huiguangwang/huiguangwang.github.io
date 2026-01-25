@@ -40,11 +40,11 @@ last_modified_at: 2025-01-20
     </div> -->
     <div class="row">
         <div>D.O.B. Sep. 17, 2000</div>
-        <div><a href="https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN">Google Scholar</a> / <a href="https://github.com/huiguangwang">GitHub</a> / <a href="https://huiguangwang.top/file/CV_Huiguang Wang_Hunan University_Construction Robotics.pdf">PDF</a></div>
+        <div><a href="https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN" target="_blank">Google Scholar</a> / <a href="https://github.com/huiguangwang" target="_blank">GitHub</a> / <a href="https://huiguangwang.top/file/CV_Huiguang Wang_Hunan University_Construction Robotics.pdf" target="_blank">PDF</a></div>
     </div>
     <div class="row">
-        <div>Email: <a href="mailto:whg0917@hnu.edu.cn">whg0917@hnu.edu.cn</a></div>
-        <div>Home Page: <a href="https://huiguangwang.top">https://huiguangwang.top</a></div>
+        <div>Email: <a href="mailto:huiguang.wang@mail.mcgill.ca">huiguang.wang@mail.mcgill.ca</a></div>
+        <div>Home Page: <a href="https://huiguangwang.top" target="_blank">https://huiguangwang.top</a></div>
     </div>
 
 </body>

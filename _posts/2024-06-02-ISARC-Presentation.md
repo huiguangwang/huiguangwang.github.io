@@ -38,7 +38,7 @@ light cameras. Based on our experiment, the efficiency of the FPM process is fou
     <p>
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
-      <a href="https://youtu.be/1HMwYa4aOio"><b>[Click me]</b></a>
+      <a href="https://youtu.be/1HMwYa4aOio"  target="_blank"><b>[Click me]</b></a>
     </p>
   </div>
 </div>
@@ -56,10 +56,10 @@ light cameras. Based on our experiment, the efficiency of the FPM process is fou
       <br/>        
       <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>, 2024
       <br/>
-      <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"><b>[PDF]</b></a>
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
-      <a href="https://youtu.be/1HMwYa4aOio"><b>[Presentation]</b></a>
-      <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar"><b>[Code]</b></a><br>
+      <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf" target="_blank"><b>[PDF]</b></a>
+      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE" target="_blank"><b>[Demo]</b></a>
+      <a href="https://youtu.be/1HMwYa4aOio" target="_blank"><b>[Presentation]</b></a>
+      <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar" target="_blank"><b>[Code]</b></a><br>
     </p>
   </div>
 </div>

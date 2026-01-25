@@ -12,10 +12,10 @@
     <p>
       <strong>Huiguang Wang</strong>, Lu Deng, Ran Cao, Jingjing Guo<br>        
       <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2024 (EI compendex)<br>
-      <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"><b>[PDF]</b></a>
-      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE"><b>[Demo]</b></a>
-      <a href="https://youtu.be/1HMwYa4aOio"><b>[Presentation]</b></a>
-      <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar"><b>[Code]</b></a>
+      <a href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf" target="_blank"><b>[PDF]</b></a>
+      <a href="https://www.youtube.com/watch?v=nrdaXvO8dkE" target="_blank"><b>[Demo]</b></a>
+      <a href="https://youtu.be/1HMwYa4aOio" target="_blank"><b>[Presentation]</b></a>
+      <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar" target="_blank"><b>[Code]</b></a>
     </p>
   </div>
 </div>
