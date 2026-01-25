@@ -4,7 +4,7 @@ layout: splash
 date: 2026-01-21
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: /web_resources/post/Rotate-ICP/highlight.gif
   actions:
     - label: "Code"
