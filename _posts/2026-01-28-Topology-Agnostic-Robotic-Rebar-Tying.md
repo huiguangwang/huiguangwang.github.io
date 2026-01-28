@@ -63,18 +63,7 @@ categories:
 {% include feature_row %}
 
 
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">
-    Abstract
-  </p>
-</div>
 
-<div style="text-align: justify;">
-  <p style="margin-top: 10px;">Robust perception of rebar joints is challenging due to geometric variability, irregular intersection topologies, and real-world sensing imperfections. Existing methods largely rely on appearance-driven recognition and topology-specific supervision, which limits generalization. We reformulate rebar joint perception as a geometry-dominated structural understanding problem and propose a two-stage learning pipeline that biases learning toward geometric invariants without explicit domain adaptation. In the first stage, a geometry-only synthetic dataset is constructed to train a detector that is used exclusively as a fixed annotator to generate reliable pseudo-labels for simple cross-shaped intersections in real images. In the second stage, a final perception model is trained from scratch using only these pseudo-labeled, background-removed real images, introducing authentic geometric variability without manual annotation. Based on this formulation, we further design a unified, topology-agnostic perception-to-action pipeline for robotic rebar tying. Experiments demonstrate robust sim-to-real generalization across diverse rebar topologies and configurations.
-  </p>
-  <p><strong>Keywords:</strong> Geometry-dominated perception; Rebar joint detection; Sim-to-real generalization; Topology-agnostic perception; Robotic rebar tying
-  </p>
-</div>
 
 <div style="text-align: center;">
   <p style="color: red; font-size: 25px; font-weight: bold;">
