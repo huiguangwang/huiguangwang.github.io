@@ -8,9 +8,9 @@ header:
   overlay_image: /web_resources/post/Topology_Agnostic/IMG_7263.PNG
   actions:
     - label: "Code"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://github.com/huiguangwang"
     - label: "Dataset"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://huggingface.co/Huiguang"
 excerpt: "We show that diverse rebar joints can be reliably annotated from minimal data using a geometry-driven, two-stage pipeline, enabling robust sim-to-real generalization for robotic rebar tying."
 
 feature_row:
