@@ -26,6 +26,8 @@
     <p>       
       <strong>Huiguang Wang</strong>, Zekai Jin, Yi Shao<sup>*</sup><br>
       <a href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/" target="_blank"><b>[Page]</b></a>
+      <a href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/" target="_blank"><b>[Code]</b></a>
+      <a href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/" target="_blank"><b>[Dataset]</b></a>
     </p>
   </div>
 </div>
