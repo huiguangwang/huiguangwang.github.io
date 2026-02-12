@@ -22,7 +22,7 @@ categories:
 
 <div style="text-align: center; line-height: 1.3; margin-bottom: 20px;">
   <p style="font-size: 28px; font-weight: bold; margin: 0 0 10px 0;">
-    Domain-Gap-Free Automatic Real-world Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint
+    Geometry-driven Automatic Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint
   </p>
 
   <p style="margin: 0 0 5px 0;">
@@ -53,7 +53,7 @@ categories:
 </div>
 
 <div style="text-align: justify;">
-  <p style="margin-top: 10px;">The automation of rebar cage welding is challenged by the geometric complexity of joints with tie bars and the prohibitive labor costs associated with annotating real-world datasets. To overcome these challenges, this paper proposes a geometry-driven, domain-gap-free perception and execution framework. Specifically, an automated annotation pipeline generates training labels directly from real-world RGB-D scans. By integrating density-based heatmap analysis for regions of interest localization and local density statistics, the system accurately distinguishes complex joints from standard X-type joints, thereby automatically selecting target ROIs. Leveraging inherent longitudinal-transverse geometric priors, background structures are explicitly modeled and subtracted to extract valid instances. Furthermore, to resolve pose ambiguities caused by geometric symmetry, a symmetric candidate pose strategy is introduced that accounts for multiple feasible tie bar orientations. Experiments demonstrate a 99.12% segmentation success rate and a 98.30% welding success rate, validating the proposed methods.
+  <p style="margin-top: 10px;">The automation of rebar cage welding is challenged by the geometric complexity of joints with tie bars and the prohibitive labor costs associated with annotating real-world datasets. To overcome these challenges, this paper proposes a geometry-driven perception and execution framework. Specifically, an automated annotation pipeline generates training labels directly from real-world RGB-D scans. By employing a heatmap-based mechanism for global ROI localization and classification, the system accurately distinguishes complex joints from standard X-type joints via local density statistics, thereby automatically providing valid candidate regions for data labeling. Leveraging inherent longitudinal-transverse geometric priors, background structures are explicitly modeled and subtracted to extract valid instances. Furthermore, to resolve pose ambiguities caused by geometric symmetry, a symmetric candidate pose strategy is introduced that accounts for multiple feasible tie bar orientations. Experiments on real-world data demonstrate a 99.12% segmentation success rate and a 98.30% welding success rate, validating the proposed methods.
   </p>
   <p><strong>Keywords:</strong> Robotic welding; Rapid annotation; Instance segmentation; Symmetry issue
   </p>
