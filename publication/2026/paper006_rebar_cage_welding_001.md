@@ -7,7 +7,7 @@
   </div>
   <div style="text-align: justify; flex: 1; min-width: 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Domain-Gap-Free Automatic Real-world Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint (Under Review)</b>
+      <b> Geometry-driven Automatic Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint (Under Review)</b>
     </span>
     <p>
       Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, Jiayao Zou<br>
