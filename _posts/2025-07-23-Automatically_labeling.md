@@ -1,13 +1,27 @@
 ---
-title: A general framework for automatically labeling annotations of real-world slender and grid-like structures
-classes: wide
-author_profile: true
+title: "A general framework for automatically labeling annotations of real-world slender and grid-like structures"
+layout: splash
 date: 2025-07-23
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /web_resources/post/Rotate-ICP/highlight.gif
+  actions:
+    - label: "Code"
+      url: "https://github.com/huiguangwang"
+    - label: "Dataset"
+      url: "https://github.com/huiguangwang"
+excerpt: "Is there any possibility to label grid-like rebar meshed in an explicit domain without any manual correction? Sure, we can get keypoints, bbx, and masks using our proposed framework."
+
+
 categories: 
   - Tutorial
-last_modified_at: 2025-07-23
-comments: True
 ---
+
+
+
+
+
 
 
 <div style="text-align: center;">
