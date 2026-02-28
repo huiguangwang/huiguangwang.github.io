@@ -48,9 +48,6 @@ categories:
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://huiguangwang.top/"><img src="/web_resources\github.svg" style="max-width: 30px; height: auto;" /></a> &nbsp;&nbsp;<a href="https://huiguangwang.top/"><strong>[Code & Dataset]</strong></a>
-</div>
 
 <br>
 
