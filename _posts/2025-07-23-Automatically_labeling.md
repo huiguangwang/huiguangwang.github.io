@@ -5,7 +5,7 @@ date: 2025-07-23
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /web_resources/post/Rotate-ICP/highlight.gif
+  overlay_image: /web_resources/post/TS_Autolabeling/mask.png
   actions:
     - label: "Code"
       url: "https://github.com/huiguangwang"
