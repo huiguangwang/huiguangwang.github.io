@@ -4,7 +4,7 @@ layout: splash
 date: 2025-07-23
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.0"
   overlay_image: /web_resources/post/TS_Autolabeling/mask.png
   actions:
     - label: "Code"
