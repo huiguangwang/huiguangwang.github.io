@@ -46,9 +46,6 @@ categories:
 
 </div>
 
-
-
-
 <br>
 
 <div style="text-align: justify;">
@@ -56,6 +53,16 @@ categories:
       <img src="/web_resources\publication\picture\automatically_labeling.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
     </div>
 </div>
+
+
+<div style="text-align: justify;">
+    <div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+      <img src="/web_resources\post\TS_Autolabeling\Comparation.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    </div>
+</div>
+
+
+
 
 <div style="text-align: center;">
   <p style="color: red; font-size: 25px; font-weight: bold;">
