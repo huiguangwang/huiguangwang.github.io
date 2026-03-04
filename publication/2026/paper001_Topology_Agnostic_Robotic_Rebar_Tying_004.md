@@ -43,6 +43,7 @@
     <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Robotic Rebar Tying</strong></span>
     <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Topology-Agnostic</strong></span>
     <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Collision Free</strong></span>
+    <span class="keyword" style="background:rgba(191, 46, 204, 0.2)"><strong>Collision Free</strong></span>
   </div>
 
 
