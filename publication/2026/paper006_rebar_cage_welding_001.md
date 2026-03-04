@@ -14,5 +14,21 @@
       <a href="https://huiguangwang.top/tutorial/Rebar_welding/" target="_blank"><b>[Page]</b></a>
       <a href="https://youtu.be/uixmualasgU" target="_blank"><b>[Demo]</b></a>
     </p>
+
+  <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Rebar welding</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Complex joint</strong></span>
+    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Point cloud automatic annotation</strong></span>
+  </div>
+
   </div>
 </div>

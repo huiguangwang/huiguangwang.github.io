@@ -16,5 +16,21 @@
       <a href="https://huiguangwang.top/tutorial/FPM-Tutorial/" target="_blank"><b>[Tutorial & Code]</b></a>
       <a href="https://www.sciencedirect.com/science/article/pii/S0926580525000299" target="_blank"><b>[PDF]</b></a>
     </p>
+
+  <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>2D coordinate mapping</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Cross folding</strong></span>
+
   </div>
+  </div>
+
 </div>

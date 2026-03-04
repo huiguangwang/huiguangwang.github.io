@@ -14,5 +14,20 @@
       <a href="https://huiguangwang.top/tutorial/Automatically_labeling/" target="_blank"><b>[Page]</b></a>
       <a href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"  target="_blank"><b>[Demo]</b></a>
     </p>
+    <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Texture suppressed</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Rapid annotation</strong></span>
+    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Rebar tying</strong></span>
+    <span class="keyword" style="background:rgba(191, 46, 204, 0.2)"><strong>Geometry aware</strong></span>
+  </div>
   </div>
 </div>
