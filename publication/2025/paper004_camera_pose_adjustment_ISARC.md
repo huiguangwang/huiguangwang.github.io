@@ -12,7 +12,23 @@
     <p>
       Shaopeng Xu, <strong>Huiguang Wang</strong>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo
       <br>        
-      <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2025 (EI compendex)
+      <i>International Symposium on Automation and Robotics in Construction</i>, ISARC 2025 (EI compendex) <br>
+      <a href="https://www.iaarc.org/publications/2025_proceedings_of_the_42nd_isarc_montreal_canada/vision-guided_camera_pose_estimation_for_robotic_rebar_tying.html" target="_blank"><b>[Paper]</b></a>
     </p>
+  <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Rebar tying</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Camera pose estimation</strong></span>
+    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Feature point matching</strong></span>
+  </div>
+
   </div>
 </div>

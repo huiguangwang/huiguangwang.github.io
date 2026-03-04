@@ -24,9 +24,9 @@
   }
   </style>
   <div style="margin-top:6px;">
-    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Texture suppressed</strong></span>
-    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Rapid annotation</strong></span>
-    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Rebar tying</strong></span>
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Rebar tying</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Texture suppression</strong></span>
+    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Rapid annotation</strong></span>
     <span class="keyword" style="background:rgba(191, 46, 204, 0.2)"><strong>Geometry aware</strong></span>
   </div>
   </div>

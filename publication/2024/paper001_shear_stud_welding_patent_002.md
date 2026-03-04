@@ -12,5 +12,19 @@
     <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Xun Zuo<br>
       <a href="/web_resources/publication/papers/剪力钉专利.pdf" target="_blank"><b>[PDF]</b></a>
     </p>
+  <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Stud welding</strong></span>
+  </div>
+
+
   </div>
 </div>

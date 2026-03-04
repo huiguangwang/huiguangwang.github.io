@@ -17,5 +17,24 @@
       <a href="https://youtu.be/1HMwYa4aOio" target="_blank"><b>[Presentation]</b></a>
       <a href="https://huiguangwang.top/file/AutoCAD_plug_in.rar" target="_blank"><b>[Code]</b></a>
     </p>
+
+
+  <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Stud welding</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Point positioning</strong></span>
+    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>2D drawings</strong></span>
+    <span class="keyword" style="background:rgba(191, 46, 204, 0.2)"><strong>3D vision</strong></span>
+  </div>
+
+
   </div>
 </div>
