@@ -30,20 +30,31 @@
       <a href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/" target="_blank"><b>[Dataset]</b></a>
     </p>
 
-  <style>
+   <style>
+  .keyword-container{
+    margin:20px 0;
+  }
+
   .keyword{
-    padding:3px 10px;
-    border-radius:5px;
-    font-size:14px;
-    margin-right:6px;
     display:inline-block;
+    padding:4px 12px;
+    margin:4px 6px 4px 0;
+    font-size:14px;
+    border-radius:12px;
+    background:#f2f3f5;
+    color:#333;
+    transition:all 0.2s ease;
+  }
+
+  .keyword:hover{
+    background:#e1e5ea;
   }
   </style>
-  <div style="margin-top:6px;">
-    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Robotic rebar tying</strong></span>
-    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Geometry aware</strong></span>
-    <span class="keyword" style="background:rgba(46,204,113,0.2)"><strong>Topology-agnostic</strong></span>
-    <span class="keyword" style="background:rgba(191, 46, 204, 0.2)"><strong>Collision free</strong></span>
+
+  <div class="keyword-container">
+    <span class="keyword">Rebar tying</span>
+    <span class="keyword">Topology-agnostic</span>
+    <span class="keyword">Collision free</span>
   </div>
 
   </div>
