@@ -34,6 +34,7 @@
   .keyword{
     padding:3px 10px;
     border-radius:5px;
+    font-size:14px;
     margin-right:6px;
     display:inline-block;
   }
