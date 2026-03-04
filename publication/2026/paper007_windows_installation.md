@@ -7,12 +7,10 @@
   </div>
   <div style="text-align: justify; flex: 1; min-width: 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b> Geometry-driven Automatic Point Cloud Annotation for Tie Bar Welding in Complex Rebar Joint (Under Review)</b>
+      <b> Harnessing Human Expertise for High-Precision Robotic Assembly in Industrialized Construction: A Sample-Efficient Installer-in-the-Loop Interactive Reinforcement Learning Framework (Under Review)</b>
     </span>
     <p>
-      Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, Jiayao Zou<br>
-      <a href="https://huiguangwang.top/tutorial/Rebar_welding/" target="_blank"><b>[Page]</b></a>
-      <a href="https://youtu.be/uixmualasgU" target="_blank"><b>[Demo]</b></a>
+      Zekai Jin, <strong>Huiguang Wang</strong>, Xiaoning Sun, Yi Shao<sup>*</sup><br>
     </p>
   </div>
 </div>
