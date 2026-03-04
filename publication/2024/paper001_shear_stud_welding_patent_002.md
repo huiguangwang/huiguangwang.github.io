@@ -23,6 +23,7 @@
   </style>
   <div style="margin-top:6px;">
     <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Stud welding</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Patent</strong></span>
   </div>
 
 

@@ -27,5 +27,19 @@
       Lu Deng, Jiayao Zou, Wenyao Liu, Yu Dai, <strong>Huiguang Wang</strong><br>
     </p>
 
+  <style>
+  .keyword{
+    padding:3px 10px;
+    border-radius:5px;
+    font-size:14px;
+    margin-right:6px;
+    display:inline-block;
+  }
+  </style>
+  <div style="margin-top:6px;">
+    <span class="keyword" style="background:rgba(231,76,60,0.2)"><strong>Steel plate welding</strong></span>
+    <span class="keyword" style="background:rgba(52,152,219,0.2)"><strong>Patent</strong></span>
+  </div>
+
   </div>
 </div>
