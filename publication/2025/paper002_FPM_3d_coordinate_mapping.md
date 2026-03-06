@@ -13,8 +13,8 @@ target="_blank"></a>
 <span class="cover-badge" style="
 background: linear-gradient(
  135deg,
- rgba(220,38,38,0.95),
- rgba(255,120,120,0.9)
+ rgba(246, 6, 6, 0.95),
+ rgba(191, 32, 32, 0.9)
 );
 ">
 Accepted
