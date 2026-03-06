@@ -174,6 +174,9 @@ footer:
 
 
 # Reading Files
+collections:
+  papers:
+    output: false
 include:
   - .htaccess
   - _pages
