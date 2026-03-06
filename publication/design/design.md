@@ -23,7 +23,7 @@ Competition Project
 </div>
 
 <p>
-<strong>Abstract:</strong> This competition included BIM modeling, structural analysis, and detailed component design.
+<strong>Abstract:</strong> This project was developed for the National Undergraduate Structural Design Information Technology Competition. The work involves the construction of a detailed BIM model, structural analysis of the designed system, and the preparation of component-level engineering drawings. The project demonstrates the integration of digital modeling tools with structural engineering analysis to improve design accuracy and efficiency.
 </p>
 
 <div class="btn-row">
@@ -61,7 +61,7 @@ Competition Project
 </div>
 
 <p>
-<strong>Abstract:</strong> The project includes BIM modeling, structural analysis, and bridge rendering design.
+<strong>Abstract:</strong> This project was completed for the Anhui Provincial Bridge Design Competition. The work includes the development of a BIM-based bridge model, structural analysis of the bridge system, and the generation of visual renderings and engineering drawings. The design emphasizes both structural safety and aesthetic considerations, demonstrating the practical integration of digital design tools and structural engineering principles.
 </p>
 
 <div class="btn-row">
@@ -101,7 +101,7 @@ Course Project
 </div>
 
 <p>
-<strong>Abstract:</strong> This project focuses on the structural foundation design of an office building.
+<strong>Abstract:</strong> This course project focuses on the foundation design of a multi-story office building. The work includes geotechnical parameter analysis, foundation type selection, structural calculation of the foundation system, and the preparation of detailed engineering drawings. The design aims to ensure structural safety, stability, and constructability under realistic loading conditions.
 </p>
 
 <div class="btn-row">
@@ -140,7 +140,7 @@ Course Project
 </div>
 
 <p>
-<strong>Abstract:</strong> Architectural design of an elementary school teaching building.
+<strong>Abstract:</strong> This project focuses on the architectural design of a primary school teaching building. The design process includes functional layout planning, architectural space organization, and the preparation of architectural drawings. The project aims to balance functionality, aesthetics, and structural feasibility while meeting the requirements of educational building design.
 </p>
 
 <div class="btn-row">
@@ -178,7 +178,7 @@ Course Project
 </div>
 
 <p>
-<strong>Abstract:</strong> Design of a steel structure roof truss.
+<strong>Abstract:</strong> This course project involves the structural design of a steel roof truss system. The work includes load analysis, member sizing, stability verification, and the preparation of structural drawings. The project demonstrates the application of steel structure design principles and engineering calculations in practical building design.
 </p>
 
 <div class="btn-row">
@@ -216,7 +216,7 @@ Course Project
 </div>
 
 <p>
-<strong>Abstract:</strong> Design of a concrete structure plant.
+<strong>Abstract:</strong> This project focuses on the structural design of a reinforced concrete industrial plant. The design includes load calculation, structural layout planning, member design, and the preparation of construction drawings. The project demonstrates the application of reinforced concrete design principles and structural engineering methodologies in practical engineering scenarios.
 </p>
 
 <div class="btn-row">
