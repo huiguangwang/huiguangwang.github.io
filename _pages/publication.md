@@ -28,7 +28,7 @@ comments: True
 
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design</a></div>
-    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(5)</a></div>
   </div>
 </div>
 
