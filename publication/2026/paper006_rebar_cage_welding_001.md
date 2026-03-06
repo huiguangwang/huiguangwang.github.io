@@ -11,7 +11,7 @@ target="_blank"></a>
 <img src="/web_resources/publication/picture/under_review.png">
 
 <span class="cover-badge">
-Under Review
+<!-- Under Review -->
 </span>
 
 </div>
