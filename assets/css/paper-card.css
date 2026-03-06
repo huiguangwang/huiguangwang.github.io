@@ -1,28 +1,60 @@
-.paper-card{
-  display:flex;
-  gap:18px;
-  flex-wrap:wrap;
-  align-items:flex-start;
+<style>
+/* ===== Paper Card (Optimized Left-Right Layout) ===== */
 
-  background:#fff;
-  border:1px solid rgba(0,0,0,0.08);
+.paper-card{
+  position: relative;
+  background: rgba(255,255,255,0.95);
+  border: 1px solid rgba(0,0,0,0.08);
   border-radius:16px;
   padding:18px;
   margin:24px 0;
 
   box-shadow:0 10px 26px rgba(0,0,0,0.08);
-  transition:all .18s ease;
+  transition: all .18s ease;
 }
 
 .paper-card:hover{
-  transform:translateY(-3px);
+  transform: translateY(-3px);
   box-shadow:0 16px 36px rgba(0,0,0,0.12);
 }
 
+/* ===== Whole-card clickable overlay ===== */
+.paper-card .card-link{
+  position:absolute;
+  inset:0;
+  border-radius:16px;
+  z-index:1;
+  text-decoration:none;
+}
+
+/* focus style for accessibility */
+.paper-card .card-link:focus{ outline:none; }
+.paper-card .card-link:focus-visible{
+  box-shadow: 0 0 0 3px rgba(23,114,208,0.35);
+}
+
+/* ===== Inner layout: FORCE left-right on desktop ===== */
+.paper-inner{
+  position:relative;
+  z-index:2;
+
+  display:flex;
+  gap:24px;
+  align-items:center;  /* vertical alignment like your 2nd screenshot */
+  width:100%;
+
+  /* IMPORTANT: do NOT wrap on desktop */
+  flex-wrap: nowrap;
+}
+
+/* ===== Cover: fixed width, 4:3 ratio, centered image ===== */
 .paper-cover{
   position:relative;
-  flex:0 0 300px;
-  aspect-ratio:4/3;
+
+  flex:0 0 380px;      /* adjust width here: 360~420 looks good */
+  max-width:380px;
+  aspect-ratio: 4 / 3;
+
   display:flex;
   align-items:center;
   justify-content:center;
@@ -37,8 +69,10 @@
   max-width:100%;
   max-height:100%;
   object-fit:contain;
+  display:block;
 }
 
+/* ===== Gradient badge (optional) ===== */
 .cover-badge{
   position:absolute;
   top:10px;
@@ -51,42 +85,116 @@
   font-weight:700;
   color:white;
 
-  background:linear-gradient(135deg,#0d28d8,#6a8bff);
+  background: linear-gradient(
+    135deg,
+    rgba(13,40,216,0.95),
+    rgba(84,120,255,0.85)
+  );
+
+  box-shadow:0 6px 16px rgba(0,0,0,0.25);
+}
+
+/* ===== Right content ===== */
+.paper-content{
+  flex:1 1 auto;
+  min-width: 0;  /* IMPORTANT: prevent flex overflow issues */
 }
 
 .paper-title{
-  font-size:18px;
+  font-size:20px;
   font-weight:800;
+  line-height:1.35;
+  margin:0 0 10px 0;
+  color:#0b2540;
 }
 
 .paper-authors{
-  font-size:14px;
+  font-size:15px;
+  margin:0 0 8px 0;
+  color:rgba(0,0,0,0.78);
 }
 
+.paper-authors strong{
+  color:rgba(0,0,0,0.92);
+}
+
+/* Venue line */
 .paper-venue{
+  font-size:15px;
+  margin:0 0 14px 0;
   color:#1772d0;
-  font-weight:600;
+  font-weight:650;
 }
 
+/* ===== Buttons ===== */
 .btn-row{
-  margin-top:10px;
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin:0 0 14px 0;
 }
 
+/* ensure buttons are clickable above overlay */
 .paper-btn{
-  display:inline-block;
-  padding:6px 10px;
-  border-radius:10px;
+  position:relative;
+  z-index:3;
 
-  border:1px solid rgba(0,0,0,0.1);
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+
+  padding:10px 14px;
+  border-radius:14px;
+
+  font-size:14px;
+  font-weight:750;
+
+  border:1px solid rgba(0,0,0,0.10);
+  background:white;
+  color:#0b2540;
   text-decoration:none;
 
-  margin-right:6px;
+  box-shadow:0 6px 16px rgba(0,0,0,0.06);
+  transition: all .15s ease;
+}
+
+.paper-btn:hover{
+  transform:translateY(-1px);
+  box-shadow:0 10px 22px rgba(0,0,0,0.12);
+  border-color: rgba(0,0,0,0.16);
+}
+
+/* ===== Keywords ===== */
+.keyword-row{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
 }
 
 .keyword{
-  padding:4px 10px;
+  padding:8px 12px;
   border-radius:999px;
-  background:#f2f3f5;
-  font-size:13px;
-  margin-right:6px;
+  font-size:14px;
+
+  background:rgba(0,0,0,0.05);
+  border:1px solid rgba(0,0,0,0.08);
+  color:rgba(0,0,0,0.72);
 }
+
+/* ===== Mobile: switch to vertical stack ===== */
+@media (max-width: 860px){
+  .paper-inner{
+    flex-wrap: wrap;     /* allow wrap on small screens */
+    align-items:flex-start;
+  }
+
+  .paper-cover{
+    flex:1 1 100%;
+    max-width:100%;
+  }
+
+  .paper-title{
+    font-size:18px;
+  }
+}
+</style>
