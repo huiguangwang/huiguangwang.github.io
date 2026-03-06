@@ -8,10 +8,10 @@ target="_blank"></a>
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/毕业设计.png">
+<img src="/web_resources/publication/picture/第二篇文章.png">
 
 <span class="cover-badge">
-Thesis
+Master
 </span>
 
 </div>
@@ -20,15 +20,15 @@ Thesis
 <div class="paper-content">
 
 <div class="paper-title">
-A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of a Teaching and Experiment Complex Building of Hefei Science and Technology Training College
+A Thesis Submitted for the Degree of Master: Study on Intelligent Welding Positioning Technology Based on the 2D Drawing and Structured Light Camera
 </div>
 
 <p class="paper-authors">
-<strong>Supervisor:</strong> Prof. Zhang Liang and Prof. Yulong Feng
+<strong>Supervisor:</strong> Prof. Lu Deng
 </p>
 
 <div class="paper-venue">
-Bachelor Dissertation
+<!-- Master Dissertation -->
 </div>
 
 
@@ -38,12 +38,6 @@ Bachelor Dissertation
 href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"
 target="_blank">
 📘 Dissertation
-</a>
-
-<a class="paper-btn"
-href="https://1drv.ms/b/c/665d3e10d9989786/EZwIKKAXVh1GsZLNGH8wXxgBdp-MRvSnqjP3a1ukCohMdA?e=gLh7AC"
-target="_blank">
-📐 Drawings
 </a>
 
 </div>
