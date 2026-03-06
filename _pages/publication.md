@@ -14,7 +14,18 @@ comments: True
 {% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
 {% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
 
-{% assign paper_total = p2026.size | plus: p2025.size | plus: p2024.size | plus: p2022.size %}
+{% assign paper_total = 0 %}
+{% assign paper_total = paper_total | plus: p2026.size %}
+{% assign paper_total = paper_total | plus: p2025.size %}
+{% assign paper_total = paper_total | plus: p2024.size %}
+{% assign paper_total = paper_total | plus: p2022.size %}
+
+<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">({{ paper_total }})</a></div>
+  </div>
+</div>
 
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
