@@ -207,7 +207,11 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/AnyDirTying.png">
 
-<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+<span class="cover-badge" style="linear-gradient(
+    135deg,
+    rgba(216, 13, 13, 0.95),
+    rgba(255, 84, 152, 0.85)
+  );">
 Top Journal: AIC
 </span>
 
