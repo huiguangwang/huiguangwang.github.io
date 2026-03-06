@@ -8,17 +8,17 @@ last_modified_at: 2025-09-21
 comments: True
 ---
 
+{% assign all_papers = site.pages | where_exp:"p","p.path contains 'publication/' and p.path != 'publication.md'" %}
 
-{% assign p2026 = site.pages | where_exp:"p","p.path contains 'publication/2026/'" %}
-{% assign p2025 = site.pages | where_exp:"p","p.path contains 'publication/2025/'" %}
-{% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
-{% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
-{% assign paper_total = p2026.size | plus: p2025.size | plus: p2024.size | plus: p2022.size %}
+{% assign p2026 = all_papers | where_exp:"p","p.path contains 'publication/2026/'" %}
+{% assign p2025 = all_papers | where_exp:"p","p.path contains 'publication/2025/'" %}
+{% assign p2024 = all_papers | where_exp:"p","p.path contains 'publication/2024/'" %}
+{% assign p2022 = all_papers | where_exp:"p","p.path contains 'publication/2022/'" %}
 
-<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+<div id="main-categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">({{ paper_total }})</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">({{ all_papers | size }})</a></div>
   </div>
 
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
@@ -32,16 +32,9 @@ comments: True
   </div>
 </div>
 
+<h2 id="papers-and-patents">Papers and Patents</h2>
 
-
-
-
-## Papers and Patents
-
-
-
-
-<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+<div id="year-categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
 
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
     <div><a href="#2026" style="text-decoration:none;color:black;">2026</a></div>
@@ -65,53 +58,32 @@ comments: True
 
 </div>
 
-
 <b>* means corresponding author and † means co-first author</b>
 
-
-### 2026
+<h3 id="2026">2026</h3>
 <hr>
-
-{% assign papers_2026 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2026/'"
-  | sort: "name" | reverse %}
-
+{% assign papers_2026 = p2026 | sort: "name" | reverse %}
 {% for p in papers_2026 %}
   {{ p.content }}
 {% endfor %}
 
-
-
-### 2025
+<h3 id="2025">2025</h3>
 <hr>
-{% assign papers_2025 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2025/'"
-  | sort: "name" | reverse %}
-
+{% assign papers_2025 = p2025 | sort: "name" | reverse %}
 {% for p in papers_2025 %}
   {{ p.content }}
 {% endfor %}
 
-
-
-### 2024
+<h3 id="2024">2024</h3>
 <hr>
-{% assign papers_2024 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2024/'"
-  | sort: "name" | reverse %}
-
+{% assign papers_2024 = p2024 | sort: "name" | reverse %}
 {% for p in papers_2024 %}
   {{ p.content }}
 {% endfor %}
 
-
-
-### 2022
+<h3 id="2022">2022</h3>
 <hr>
-{% assign papers_2022 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2022/'"
-  | sort: "name" | reverse %}
-
+{% assign papers_2022 = p2022 | sort: "name" | reverse %}
 {% for p in papers_2022 %}
   {{ p.content }}
 {% endfor %}
