@@ -150,9 +150,11 @@
 
   text-decoration:none;
   color:#0b2540;
+}
 
-  box-shadow:0 6px 16px rgba(0,0,0,0.06);
-  transition: all .15s ease;
+.paper-btn:link,
+.paper-btn:visited{
+  color:#0b2540;
 }
 
 .paper-btn:hover{
