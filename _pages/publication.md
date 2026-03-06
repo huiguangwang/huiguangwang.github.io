@@ -160,6 +160,14 @@ comments: True
 
 ## Design Work
 
+{% assign papers_2022 = site.pages
+  | where_exp: "p", "p.path contains 'publication/design/'"
+  | sort: "name" | reverse %}
+
+{% for p in papers_2022 %}
+  {{ p.content }}
+{% endfor %}
+
 <div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
   <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
     <img src="/web_resources/publication/picture/结构信息技术大赛.png" style="width: 100%; height: auto; display: block;">

@@ -28,7 +28,7 @@ A Dissertation Submitted for the Degree of Bachelor: The Architectural and Struc
 </p>
 
 <div class="paper-venue">
-Bachelor Dissertation
+<!-- Bachelor Dissertation -->
 </div>
 
 
