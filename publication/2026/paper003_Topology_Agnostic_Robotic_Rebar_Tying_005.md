@@ -124,13 +124,6 @@
 
 /* ===== 按钮 ===== */
 
-.btn-row{
-  display:flex;
-  gap:10px;
-  flex-wrap:wrap;
-  margin-bottom:12px;
-}
-
 .paper-btn{
   position:relative;
   z-index:3;
@@ -150,16 +143,17 @@
 
   text-decoration:none;
   color:#0b2540;
+}
 
-  box-shadow:0 6px 16px rgba(0,0,0,0.06);
-  transition: all .15s ease;
+.paper-btn:link,
+.paper-btn:visited{
+  color:#0b2540;
 }
 
 .paper-btn:hover{
   transform:translateY(-1px);
   box-shadow:0 10px 22px rgba(0,0,0,0.12);
 }
-
 /* ===== keywords ===== */
 
 .keyword-row{
