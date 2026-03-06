@@ -10,8 +10,8 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/剪切耗能装置.png">
 
-<span class="cover-badge">
-Patent
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>

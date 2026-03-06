@@ -10,8 +10,8 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/ISARC.png">
 
-<span class="cover-badge">
-ISARC 2024
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>

@@ -10,10 +10,9 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/基于行车振动效应的预制装配式钢板组合梁桥行车舒适度研究.png">
 
-<span class="cover-badge">
-Journal
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
-
 </div>
 
 

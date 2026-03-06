@@ -10,8 +10,8 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/李德安图片.png">
 
-<span class="cover-badge">
-Journal
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>
