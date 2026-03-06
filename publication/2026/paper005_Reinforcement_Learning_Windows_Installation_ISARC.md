@@ -1,30 +1,62 @@
-<div class="paper-patent-item" 
-     style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+<div class="paper-card">
 
-  <div style="position: relative; flex: 1 1 100%; max-width: 300px; margin: 0 auto;">
-    <img src="/web_resources\publication\picture\under_review.png" 
-         style="width: 100%; height: auto; display: block;">
-    <span style="
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      background: rgba(13, 40, 216, 0.9);
-      color: #fff;
-      padding: 2px 8px;
-      font-size: 12px;
-      font-weight: bold;
-      border-radius: 4px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      Under Review
-    </span>
-  </div>
+<a class="card-link"
+href="#"
+target="_blank"></a>
 
-  <div style="text-align: justify; flex: 1 1 200px;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Automating Tolerance-Critical Window Installation via Installer-in-the-Loop Interactive Reinforcement Learning (Under Review)</b>
-    </span>
-    <p>       
-      Zekai Jin, <strong>Huiguang Wang</strong>, Jiaduo Xing, Yi Shao<sup>*</sup><br>
-    </p>
-  </div>
+<div class="paper-inner">
+
+<div class="paper-cover">
+
+<img src="/web_resources/publication/picture/under_review.png">
+
+<span class="cover-badge">
+Under Review
+</span>
+
+</div>
+
+
+<div class="paper-content">
+
+<div class="paper-title">
+Automating Tolerance-Critical Window Installation via Installer-in-the-Loop Interactive Reinforcement Learning
+</div>
+
+<p class="paper-authors">
+Zekai Jin, <strong>Huiguang Wang</strong>, Jiaduo Xing, Yi Shao<sup>*</sup>
+</p>
+
+<div class="paper-venue">
+Under Review
+</div>
+
+
+<div class="btn-row">
+
+<a class="paper-btn"
+href=""
+target="_blank">
+📑 PDF
+</a>
+
+<a class="paper-btn"
+href=""
+target="_blank">
+💻 Code
+</a>
+
+</div>
+
+
+<div class="keyword-row">
+
+<span class="keyword">Window installation</span>
+<span class="keyword">Reinforcement learning</span>
+<span class="keyword">Installer-in-the-Loop</span>
+
+</div>
+
+</div>
+</div>
 </div>
