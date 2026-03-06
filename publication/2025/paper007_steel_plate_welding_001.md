@@ -43,6 +43,10 @@ Jiayao Zou, Wenyao Liu, <strong>Huiguang Wang</strong>, Yu Dai, Feng Zhang, Lu D
 </div>
 
 
+<div class="keyword-row">
+
+<span class="keyword">Steel plate welding</span>
+<span class="keyword">Patent</span>
+
 </div>
-</div>
-</div>
+

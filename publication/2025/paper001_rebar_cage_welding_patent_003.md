@@ -1,43 +1,55 @@
-<div class="paper-patent-item  year-2025" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
-  <div style="position: relative; flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
-    <img src="/web_resources/publication/picture/钢筋笼焊接专利.png" style="width: 100%; height: auto; display: block;">
-    <span style="position: absolute; top: 10px; left: 10px; background: rgba(13, 40, 216, 0.9); color: #fff; padding: 2px 8px; font-size: 12px; font-weight: bold; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      Patent
-    </span>
-  </div>
-  <div style="text-align: justify; flex: 1; min-width: 200px;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage</b>
-    </span>
-    <p>Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo<br>
-      <b>[PDF]</b>
-    </p>
+<div class="paper-card year-2025">
 
-   <style>
-  .keyword-container{
-    margin:20px 0;
-  }
+<a class="card-link"
+href="#"
+target="_blank"></a>
 
-  .keyword{
-    display:inline-block;
-    padding:4px 12px;
-    margin:4px 6px 4px 0;
-    font-size:14px;
-    border-radius:12px;
-    background:#f2f3f5;
-    color:#333;
-    transition:all 0.2s ease;
-  }
+<div class="paper-inner">
 
-  .keyword:hover{
-    background:#e1e5ea;
-  }
-  </style>
+<div class="paper-cover">
 
-  <div class="keyword-container">
-    <span class="keyword">Rebar welding</span>
-    <span class="keyword">Patent</span>
-  </div>
+<img src="/web_resources/publication/picture/钢筋笼焊接专利.png">
 
-  </div>
+<span class="cover-badge">
+Patent
+</span>
+
+</div>
+
+
+<div class="paper-content">
+
+<div class="paper-title">
+Vision-Guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage
+</div>
+
+<p class="paper-authors">
+Lu Deng, <strong>Huiguang Wang</strong>, Ran Cao, Jingjing Guo
+</p>
+
+<div class="paper-venue">
+Patent
+</div>
+
+
+<div class="btn-row">
+
+<a class="paper-btn"
+href="#"
+target="_blank">
+📑 PDF
+</a>
+
+</div>
+
+
+<div class="keyword-row">
+
+<span class="keyword">Rebar welding</span>
+<span class="keyword">Patent</span>
+
+</div>
+
+</div>
+</div>
 </div>
