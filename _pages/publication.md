@@ -13,24 +13,23 @@ comments: True
 {% assign p2025 = site.pages | where_exp:"p","p.path contains 'publication/2025/'" %}
 {% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
 {% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
-
 {% assign paper_total = p2026.size | plus: p2025.size | plus: p2024.size | plus: p2022.size %}
-
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers</a></div>
     <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">({{ paper_total }})</a></div>
   </div>
+
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
     <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
   </div>
+
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design</a></div>
     <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
   </div>
-  
 </div>
 
 
