@@ -10,7 +10,13 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/第二篇文章.png">
 
-<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+<span class="cover-badge" style="
+background: linear-gradient(
+ 135deg,
+ rgba(220,38,38,0.95),
+ rgba(255,120,120,0.9)
+);
+">
 Accepted
 </span>
 
