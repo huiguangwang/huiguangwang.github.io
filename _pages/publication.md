@@ -139,7 +139,7 @@ comments: True
 
 ## Thesis
 
-<hr>
+
 {% assign thesis = site.pages
   | where_exp: "p", "p.path contains 'publication/thesis/'"
   | sort: "name" | reverse %}
