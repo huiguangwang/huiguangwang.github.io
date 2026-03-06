@@ -225,7 +225,7 @@ Geometry-Structured Perception for Topology-Agnostic Robotic Rebar Tying
 </p>
 
 <div class="paper-venue">
-Automation in Construction, Impact Factor: 11.5 (SCI, Q1)
+<!-- Automation in Construction, Impact Factor: 11.5 (SCI, Q1) -->
 </div>
 
 <div class="btn-row">
