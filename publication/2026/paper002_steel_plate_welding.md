@@ -28,7 +28,7 @@ Lu Deng, Jiayao Zou, Wenyao Liu, Yu Dai, <strong>Huiguang Wang</strong>
 </p>
 
 <div class="paper-venue">
-Patent (Under Review)
+<!-- Patent (Under Review) -->
 </div>
 
 
