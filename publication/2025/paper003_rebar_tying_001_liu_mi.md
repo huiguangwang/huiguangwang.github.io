@@ -85,8 +85,8 @@
 
   background: linear-gradient(
     135deg,
-    rgba(13,40,216,0.95),
-    rgba(84,120,255,0.85)
+    rgba(216, 13, 13, 0.95),
+    rgba(255, 84, 84, 0.85)
   );
 
   box-shadow:0 6px 16px rgba(0,0,0,0.25);
@@ -207,11 +207,7 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/AnyDirTying.png">
 
-<span class="cover-badge" style="linear-gradient(
-    135deg,
-    rgba(216, 13, 13, 0.95),
-    rgba(255, 84, 152, 0.85)
-  );">
+<span class="cover-badge">
 Top Journal: AIC
 </span>
 
