@@ -124,6 +124,13 @@
 
 /* ===== 按钮 ===== */
 
+.btn-row{
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+  margin-bottom:12px;
+}
+
 .paper-btn{
   position:relative;
   z-index:3;
@@ -154,6 +161,7 @@
   transform:translateY(-1px);
   box-shadow:0 10px 22px rgba(0,0,0,0.12);
 }
+
 /* ===== keywords ===== */
 
 .keyword-row{
