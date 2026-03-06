@@ -19,7 +19,7 @@ The Special Prize of the 3rd National Undergraduate Structural Design Informatio
 </div>
 
 <div class="paper-venue">
-Competition Project
+<!-- Competition Project -->
 </div>
 
 <p>
@@ -57,7 +57,7 @@ The First Prize of the 3rd Bridge Design Competition in Anhui Province
 </div>
 
 <div class="paper-venue">
-Competition Project
+<!-- Competition Project -->
 </div>
 
 <p>
@@ -97,7 +97,7 @@ The Foundation Design of an Office Building
 </div>
 
 <div class="paper-venue">
-Course Project
+<!-- Course Project -->
 </div>
 
 <p>
@@ -136,7 +136,7 @@ The Course Design of Building Architecture
 </div>
 
 <div class="paper-venue">
-Course Project
+<!-- Course Project -->
 </div>
 
 <p>
@@ -174,7 +174,7 @@ The Course Design of Steel Structure
 </div>
 
 <div class="paper-venue">
-Course Project
+<!-- Course Project -->
 </div>
 
 <p>
@@ -212,7 +212,7 @@ The Course Design of Concrete Structure
 </div>
 
 <div class="paper-venue">
-Course Project
+<!-- Course Project -->
 </div>
 
 <p>
