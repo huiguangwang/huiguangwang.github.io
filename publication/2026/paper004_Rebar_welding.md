@@ -1,58 +1,62 @@
-<div class="paper-patent-item" 
-     style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+<div class="paper-card">
 
-  <div style="position: relative; flex: 1 1 100%; max-width: 300px; margin: 0 auto;">
-    <img src="/web_resources\publication\picture\under_review.png" 
-         style="width: 100%; height: auto; display: block;">
-    <span style="
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      background: rgba(13, 40, 216, 0.9);
-      color: #fff;
-      padding: 2px 8px;
-      font-size: 12px;
-      font-weight: bold;
-      border-radius: 4px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
-      Under Review
-    </span>
-  </div>
+<a class="card-link"
+href="#"
+target="_blank"></a>
 
-  <div style="text-align: justify; flex: 1 1 200px;">
-    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>Domain-Gap-Free Automatic Real-world Point Cloud Annotation: Application to Complex Rebar Joint Welding (Under Review)</b>
-    </span>
-    <p>       
-      Yu Dai, <strong>Huiguang Wang<sup>†</sup></strong>, Shaopeng Xu, Jiayao Zou, Lu Deng<sup>*</sup><br>
-    </p>
+<div class="paper-inner">
 
-  <style>
-  .keyword-container{
-    margin:20px 0;
-  }
+<div class="paper-cover">
 
-  .keyword{
-    display:inline-block;
-    padding:4px 12px;
-    margin:4px 6px 4px 0;
-    font-size:14px;
-    border-radius:12px;
-    background:#f2f3f5;
-    color:#333;
-    transition:all 0.2s ease;
-  }
+<img src="/web_resources/publication/picture/under_review.png">
 
-  .keyword:hover{
-    background:#e1e5ea;
-  }
-  </style>
+<span class="cover-badge">
+Under Review
+</span>
 
-  <div class="keyword-container">
-    <span class="keyword">Rebar welding</span>
-    <span class="keyword">Point cloud</span>
-    <span class="keyword">Automatic annotation</span>
-  </div>
+</div>
 
-  </div>
+
+<div class="paper-content">
+
+<div class="paper-title">
+Domain-Gap-Free Automatic Real-world Point Cloud Annotation: Application to Complex Rebar Joint Welding
+</div>
+
+<p class="paper-authors">
+Yu Dai, <strong>Huiguang Wang<sup>†</sup></strong>, Shaopeng Xu, Jiayao Zou, Lu Deng<sup>*</sup>
+</p>
+
+<div class="paper-venue">
+<!-- Under Review -->
+</div>
+
+
+<div class="btn-row">
+
+<a class="paper-btn"
+href="https://huiguangwang.top/tutorial/Rebar_welding/"
+target="_blank">
+📄 Page
+</a>
+
+<a class="paper-btn"
+href="https://youtu.be/uixmualasgU"
+target="_blank">
+🎬 Demo
+</a>
+
+</div>
+
+
+<div class="keyword-row">
+
+<span class="keyword">Rebar welding</span>
+<span class="keyword">Point cloud</span>
+<span class="keyword">Automatic annotation</span>
+
+</div>
+
+</div>
+</div>
 </div>

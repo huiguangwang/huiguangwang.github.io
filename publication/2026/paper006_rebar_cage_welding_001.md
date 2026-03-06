@@ -11,7 +11,7 @@ target="_blank"></a>
 <img src="/web_resources/publication/picture/under_review.png">
 
 <span class="cover-badge">
-<!-- Under Review -->
+Under Review
 </span>
 
 </div>
@@ -28,7 +28,7 @@ Lu Deng, Yu Dai, <strong>Huiguang Wang<sup>*</sup></strong>, Peng Shi, Mi Liu, J
 </p>
 
 <div class="paper-venue">
-Under Review
+<!-- Under Review -->
 </div>
 
 
