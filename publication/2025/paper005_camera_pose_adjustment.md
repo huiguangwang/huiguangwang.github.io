@@ -28,7 +28,7 @@ Shaopeng Xu, Jingjing Guo, <strong>Huiguang Wang</strong>, Lu Deng, Peng Shi, Li
 </p>
 
 <div class="paper-venue">
-Under Review
+<!-- Under Review -->
 </div>
 
 
