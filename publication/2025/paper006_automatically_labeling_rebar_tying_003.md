@@ -225,7 +225,7 @@ Texture-Suppressed Rapid Annotation for Construction Automation: An Application 
 </p>
 
 <div class="paper-venue">
-Automation in Construction (Under Review)
+<!-- Automation in Construction (Under Review) -->
 </div>
 
 
@@ -238,15 +238,21 @@ target="_blank">
 </a>
 
 <a class="paper-btn"
-href="/web_resources/publication/pdf/Automatically_labeling.pdf"
+href="https://huiguangwang.top/tutorial/Automatically_labeling/"
 target="_blank">
 📑 PDF
 </a>
 
 <a class="paper-btn"
-href="https://huiguangwang.top/tutorial/Tying-pose-estimation/"
+href="https://huiguangwang.top/tutorial/Automatically_labeling/"
 target="_blank">
-🎬 Demo
+💻 Code
+</a>
+
+<a class="paper-btn"
+href="https://huiguangwang.top/tutorial/Automatically_labeling/"
+target="_blank">
+🧩 Dataset
 </a>
 
 </div>
