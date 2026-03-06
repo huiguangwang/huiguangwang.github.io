@@ -236,6 +236,13 @@ target="_blank">
 📄 Page
 </a>
 
+<!-- ✅ 新增 PDF 按钮 -->
+<a class="paper-btn"
+    href=""
+    target="_blank">
+  📑 PDF
+</a>
+
 <a class="paper-btn"
 href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/"
 target="_blank">
