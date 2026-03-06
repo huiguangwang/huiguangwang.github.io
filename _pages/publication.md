@@ -8,10 +8,286 @@ last_modified_at: 2025-09-21
 comments: True
 ---
 
+<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Papers</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">(1)</a></div>
+  </div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Thesis</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
+  </div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Design</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(6)</a></div>
+  </div>
+  
+</div>
 
 
-{% assign papers_sorted = site.papers | sort: "year" | reverse %}
 
-{% for paper in papers_sorted %}
-  {% include paper-card.html paper=paper %}
+
+
+## Papers and Patents
+
+<!-- <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#2026" style="text-decoration: none; color:rgb(0, 0, 0);">2026</a></div>
+    <div><a href="#2026" style="text-decoration: none; color:rgb(0, 0, 0);">(4)</a></div>
+  </div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">(10)</a></div>
+  </div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">2024</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
+  </div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">2022</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">(3)</a></div>
+  </div>
+</div> -->
+
+
+{% assign p2026 = site.pages | where_exp:"p","p.path contains 'publication/2026/'" %}
+{% assign p2025 = site.pages | where_exp:"p","p.path contains 'publication/2025/'" %}
+{% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
+{% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
+
+<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
+
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2026" style="text-decoration:none;color:black;">2026</a></div>
+    <div><a href="#2026" style="text-decoration:none;color:black;">({{ p2026 | size }})</a></div>
+  </div>
+
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2025" style="text-decoration:none;color:black;">2025</a></div>
+    <div><a href="#2025" style="text-decoration:none;color:black;">({{ p2025 | size }})</a></div>
+  </div>
+
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2024" style="text-decoration:none;color:black;">2024</a></div>
+    <div><a href="#2024" style="text-decoration:none;color:black;">({{ p2024 | size }})</a></div>
+  </div>
+
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#2022" style="text-decoration:none;color:black;">2022</a></div>
+    <div><a href="#2022" style="text-decoration:none;color:black;">({{ p2022 | size }})</a></div>
+  </div>
+
+</div>
+
+
+<b>* means corresponding author and † means co-first author</b>
+
+
+### 2026
+<hr>
+
+{% assign papers_2026 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2026/'"
+  | sort: "name" | reverse %}
+
+{% for p in papers_2026 %}
+  {{ p.content }}
 {% endfor %}
+
+
+
+### 2025
+<hr>
+{% assign papers_2025 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2025/'"
+  | sort: "name" | reverse %}
+
+{% for p in papers_2025 %}
+  {{ p.content }}
+{% endfor %}
+
+
+
+### 2024
+<hr>
+{% assign papers_2024 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2024/'"
+  | sort: "name" | reverse %}
+
+{% for p in papers_2024 %}
+  {{ p.content }}
+{% endfor %}
+
+
+
+### 2022
+<hr>
+{% assign papers_2022 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2022/'"
+  | sort: "name" | reverse %}
+
+{% for p in papers_2022 %}
+  {{ p.content }}
+{% endfor %}
+
+
+
+<div style="text-align: justify;">
+  <p>New publications will come soon!🚀🚀🚀</p>
+</div>
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const paperCount = document.querySelectorAll('.paper-patent-item').length;
+    const paperCountElement = document.querySelector('#paper-count');
+    if (paperCountElement) {
+      paperCountElement.textContent = `(${paperCount})`;
+    }
+  });
+</script>
+
+## Thesis
+
+<div class="thesis-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto; position: relative;">
+    <img src="/web_resources/publication/picture/第二篇文章.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A Thesis Submitted for the Degree of Master: Study on Intelligent Welding Positioning Technology Based on the 2D Drawing and Structured Light Camera</b>
+    </span>
+    <p>
+      <strong>Supervisor:</strong> Prof. Lu Deng
+      <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX" target="_blank"><b>[Dissertation]</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="thesis-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto; position: relative;">
+    <img src="/web_resources/publication/picture/毕业设计.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>A Dissertation Submitted for the Degree of Bachelor: The Architectural and Structural Design of A Teaching and Experiment Complex Building of Hefei Science and Technology Training College</b>
+    </span>
+    <p>
+      <strong>Supervisor:</strong> Prof. Zhang Liang and Prof. Yulong Feng
+      <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX" target="_blank"><b>[Dissertation]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EZwIKKAXVh1GsZLNGH8wXxgBdp-MRvSnqjP3a1ukCohMdA?e=gLh7AC" target="_blank"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+
+## Design Work
+
+<div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="/web_resources/publication/picture/结构信息技术大赛.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition</b>
+    </span>
+    <p>
+      <strong>Abstract:</strong> This competition include the design of BIM model, structural analysis, and the detailed design of components.
+      <br>
+      <a href="https://youtu.be/Cu3-2oeKpLU" target="_blank"><b>[Demo]</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="/web_resources/publication/picture/桥梁设计大赛.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The First Prize of the 3rd Bridge Design Competition in Anhui Province</b>
+    </span>
+    <p>
+      <strong>Abstract:</strong> The content of this competition include the design of BIM model, structural analysis, and renderings of the designed bridge.
+      <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/ESx5h6YQu2xKnkUQMcdOYwQBco1K9quULG7Rihbn1aW2Hg?e=sxu8HK" target="_blank"><b>[Renderings]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EYEzso2s4h1GgeS5zT7_h60B5P38pqV2n8il2jLg_AvylA?e=tZSqFo" target="_blank"><b>[Paper]</b></a>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EauMMS_RKxZHnA5DovEfqkkBup7S7nfi_57-KxxkBdJHWQ?e=jX2Yzs" target="_blank"><b>[Slides]</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="/web_resources/publication/picture/基础工程设计.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Foundation Design of An Office Building</b>
+    </span>
+    <p>
+      <strong>Abstract:</strong> This curriculum design mainly focus on the foundation design of an office building.
+      <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15" target="_blank"><b>[The Design and Analysis of the Foundation]</b></a>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/Em-S86_YsUlBg1YVysFUzqIBIPRQniycWRp2ymeqnG4ONg?e=nH8JzY" target="_blank"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="/web_resources/publication/picture/房屋建筑学.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Building Architecture</b>
+    </span>
+    <p>
+      <strong>Abstract:</strong> This course design mainly focus on the architecture design of a teaching building of an elementary school.
+      <br>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m" target="_blank"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="/web_resources/publication/picture/钢结构课程设计.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Steel Structure</b>
+    </span>
+    <p>
+      <strong>Abstract:</strong> This course design mainly focus on the design of a steel structure roof truss.
+      <br>
+      <a href="https://1drv.ms/b/c/665d3e10d9989786/EeKIQzt6xxVJlmWx7CcQUhcBuvvDqBGlekdB2SBiOritZg?e=mElbBt" target="_blank"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="project-item" style="display: flex; align-items: flex-start; margin: 20px 0; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="/web_resources/publication/picture/混凝土课程设计.png" style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: justify;">
+    <span style="color:#1772d0; display: block; margin-bottom: 10px;">
+      <b>The Course Design of Concrete Structure</b>
+    </span>
+    <p>
+      <strong>Abstract:</strong> This course design mainly focus on the design of a concrete structure plant.
+      <br>
+      <a href="https://1drv.ms/f/c/665d3e10d9989786/Eu8fSFAlSiVLt4aE0CP2maoBf2r24PunBy5VAe3tIEISKw?e=9vj6Mz" target="_blank"><b>[Drawings]</b></a>
+    </p>
+  </div>
+</div>
+
+
+
+<!-- Back to Top Button -->
+<div style="position: fixed; right: 20px; top: 500px;">
+  <a href="#" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+    Back to Top
+  </a>
+</div>
