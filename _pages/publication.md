@@ -6,6 +6,9 @@ classes: wide
 author_profile: true
 last_modified_at: 2025-09-21
 comments: True
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 
