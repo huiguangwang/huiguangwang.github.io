@@ -131,15 +131,7 @@ comments: True
   <p>New publications will come soon!🚀🚀🚀</p>
 </div>
 
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const paperCount = document.querySelectorAll('.paper-patent-item').length;
-    const paperCountElement = document.querySelector('#paper-count');
-    if (paperCountElement) {
-      paperCountElement.textContent = `(${paperCount})`;
-    }
-  });
-</script>
+
 
 ## Thesis
 
