@@ -8,6 +8,20 @@ last_modified_at: 2026-04-19
 comments: True
 ---
 
+<style>
+  /* 消除链接点击后的聚焦外框 */
+  #categories a:focus,
+  .paper-patent-item a:focus,
+  #papers-and-patents a:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  /* 如果你希望彻底取消所有链接的这种效果 */
+  a:focus {
+    outline: none !important;
+  }
+</style>
 
 {% comment %} 1. 先抓取各年份的数据 {% endcomment %}
 {% assign p2026 = site.pages | where_exp:"p","p.path contains 'publication/2026/'" %}
