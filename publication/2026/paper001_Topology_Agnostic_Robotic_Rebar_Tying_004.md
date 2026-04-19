@@ -8,7 +8,7 @@ target="_blank"></a>
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/under_review.png">
+<img src="/web_resources\post\Topology_Agnostic\Snipaste_2026-04-19_15-05-38.png">
 
 <span class="cover-badge" style="background:rgba(255,0,0,0.9);">
 Accepted
@@ -28,7 +28,7 @@ Geometry-Structured Perception for Topology-Agnostic Robotic Rebar Tying
 </p>
 
 <div class="paper-venue">
-International Symposium on Automation and Robotics in Construction, ISARC 2025 (EI Compendex)
+International Symposium on Automation and Robotics in Construction, ISARC 2026 (EI Compendex)
 </div>
 
 <div class="btn-row">

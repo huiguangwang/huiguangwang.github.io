@@ -10,8 +10,8 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/under_review.png">
 
-<span class="cover-badge">
-Under Review
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>
@@ -28,7 +28,7 @@ Yu Dai, <strong>Huiguang Wang<sup>†</sup></strong>, Shaopeng Xu, Jiayao Zou, L
 </p>
 
 <div class="paper-venue">
-<!-- Under Review -->
+3rd International Academic Workshop on Intelligent Construction and Intelligent Operation (IWIO) 2026
 </div>
 
 
