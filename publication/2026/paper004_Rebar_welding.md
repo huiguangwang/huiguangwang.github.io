@@ -8,7 +8,7 @@ target="_blank"></a>
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/under_review.png">
+<img src="/web_resources\post\Rebar_welding\Snipaste_2026-04-19_15-17-28.png">
 
 <span class="cover-badge" style="background:rgba(255,0,0,0.9);">
 Accepted
