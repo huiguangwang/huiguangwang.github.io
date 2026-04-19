@@ -8,3 +8,22 @@
 <meta name="apple-mobile-web-app-title" content="MyWebSite" />
 <link rel="manifest" href="/assets/images/site.webmanifest" />
 <!-- end custom head snippets -->
+
+
+
+
+<style>
+  /* 全局消除所有链接和按钮点击后的聚焦外框 */
+  a:focus, 
+  a:active, 
+  button:focus,
+  .btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  /* 如果是 Chrome 浏览器，额外处理一下 */
+  *:focus {
+    outline: none !important;
+  }
+</style>
