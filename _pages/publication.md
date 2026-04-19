@@ -14,7 +14,7 @@ comments: True
 {% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
 {% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
 
-{% assign paper_total = 100 %}
+{% assign paper_total = 0 %}
 {% assign paper_total = paper_total | plus: p2026.size %}
 {% assign paper_total = paper_total | plus: p2025.size %}
 {% assign paper_total = paper_total | plus: p2024.size %}

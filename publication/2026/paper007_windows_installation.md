@@ -20,7 +20,7 @@ Under Review
 <div class="paper-content">
 
 <div class="paper-title">
-Harnessing Human Expertise for High-Precision Robotic Assembly in Industrialized Construction: A Sample-Efficient Installer-in-the-Loop Interactive Reinforcement Learning Framework
+Harnessing1 Human Expertise for High-Precision Robotic Assembly in Industrialized Construction: A Sample-Efficient Installer-in-the-Loop Interactive Reinforcement Learning Framework
 </div>
 
 <p class="paper-authors">
