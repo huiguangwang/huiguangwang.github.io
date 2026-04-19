@@ -5,125 +5,80 @@ title: Publications
 classes: wide
 author_profile: true
 last_modified_at: 2026-04-19
-comments: True
 ---
 
+{% comment %} 
+  一次性初始化所有变量，确保在 HTML 渲染前完成所有逻辑计算
+{% endcomment %}
+{% assign all_docs = site.pages %}
+{% assign p2026 = "" | split: "" %}
+{% assign p2025 = "" | split: "" %}
+{% assign p2024 = "" | split: "" %}
+{% assign p2022 = "" | split: "" %}
+{% assign thesis = "" | split: "" %}
+{% assign design = "" | split: "" %}
 
-{% comment %} 1. 先抓取各年份的数据 {% endcomment %}
-{% assign p2026 = site.pages | where_exp:"p","p.path contains 'publication/2026/'" %}
-{% assign p2025 = site.pages | where_exp:"p","p.path contains 'publication/2025/'" %}
-{% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
-{% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
+{% for p in all_docs %}
+  {% if p.path contains 'publication/2026/' %}{% assign p2026 = p2026 | push: p %}
+  {% elsif p.path contains 'publication/2025/' %}{% assign p2025 = p2025 | push: p %}
+  {% elsif p.path contains 'publication/2024/' %}{% assign p2024 = p2024 | push: p %}
+  {% elsif p.path contains 'publication/2022/' %}{% assign p2022 = p2022 | push: p %}
+  {% elsif p.path contains 'publication/thesis/' %}{% assign thesis = thesis | push: p %}
+  {% elsif p.path contains 'publication/design/' %}{% assign design = design | push: p %}
+  {% endif %}
+{% endfor %}
 
-{% comment %} 2. 紧接着进行累加，不要漏掉任何一个变量 {% endcomment %}
-{% assign paper_total = 0 %}
-{% assign n26 = p2026 | size %}
-{% assign n25 = p2025 | size %}
-{% assign n24 = p2024 | size %}
-{% assign n22 = p2022 | size %}
+{% assign paper_total = p2026.size | plus: p2025.size | plus: p2024.size | plus: p2022.size %}
 
-{% assign paper_total = n26 | plus: n25 | plus: n24 | plus: n22 %}
-
+{% comment %} --- 导航栏渲染 --- {% endcomment %}
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#papers-and-patents" style="text-decoration: none; color: rgb(0, 0, 0);">Papers</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color: rgb(0, 0, 0);">({{ paper_total }})</a></div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#papers-and-patents" style="text-decoration:none;color:black;">Papers</a></div>
+    <div><strong>({{ paper_total }})</strong></div>
   </div>
-
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#thesis" style="text-decoration: none; color: rgb(0, 0, 0);">Thesis</a></div>
-    <div><a href="#thesis" style="text-decoration: none; color: rgb(0, 0, 0);">(2)</a></div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#thesis" style="text-decoration:none;color:black;">Thesis</a></div>
+    <div>({{ thesis.size }})</div>
   </div>
-
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#design-work" style="text-decoration: none; color: rgb(0, 0, 0);">Design</a></div>
-    <div><a href="#design-work" style="text-decoration: none; color: rgb(0, 0, 0);">(6)</a></div>
+  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+    <div><a href="#design-work" style="text-decoration:none;color:black;">Design</a></div>
+    <div>({{ design.size }})</div>
   </div>
 </div>
 
+<h2 id="papers-and-patents">Papers and Patents</h2>
 
-
-
-
-## Papers and Patents
-
-
-
-
-<div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
-
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#2026" style="text-decoration:none;color:black;">2026</a></div>
-    <div><a href="#2026" style="text-decoration:none;color:black;">({{ p2026 | size }})</a></div>
-  </div>
-
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#2025" style="text-decoration:none;color:black;">2025</a></div>
-    <div><a href="#2025" style="text-decoration:none;color:black;">({{ p2025 | size }})</a></div>
-  </div>
-
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#2024" style="text-decoration:none;color:black;">2024</a></div>
-    <div><a href="#2024" style="text-decoration:none;color:black;">({{ p2024 | size }})</a></div>
-  </div>
-
-  <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-    <div><a href="#2022" style="text-decoration:none;color:black;">2022</a></div>
-    <div><a href="#2022" style="text-decoration:none;color:black;">({{ p2022 | size }})</a></div>
-  </div>
-
+{% comment %} --- 年份快速跳转 --- {% endcomment %}
+<div style="display: flex; gap: 15px; margin-bottom: 20px;">
+  <a href="#2026">2026 ({{ p2026.size }})</a> | 
+  <a href="#2025">2025 ({{ p2025.size }})</a> | 
+  <a href="#2024">2024 ({{ p2024.size }})</a> | 
+  <a href="#2022">2022 ({{ p2022.size }})</a>
 </div>
-
 
 <b>* means corresponding author and † means co-first author</b>
 
+<h3 id="2026">2026</h3><hr>
+{% assign sorted_2026 = p2026 | sort: "name" | reverse %}
+{% for p in sorted_2026 %}{{ p.content }}{% endfor %}
 
-### 2026
-<hr>
+<h3 id="2025">2025</h3><hr>
+{% assign sorted_2025 = p2025 | sort: "name" | reverse %}
+{% for p in sorted_2025 %}{{ p.content }}{% endfor %}
 
-{% assign papers_2026 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2026/'"
-  | sort: "name" | reverse %}
+<h3 id="2024">2024</h3><hr>
+{% assign sorted_2024 = p2024 | sort: "name" | reverse %}
+{% for p in sorted_2024 %}{{ p.content }}{% endfor %}
 
-{% for p in papers_2026 %}
-  {{ p.content }}
-{% endfor %}
+<h3 id="2022">2022</h3><hr>
+{% assign sorted_2022 = p2022 | sort: "name" | reverse %}
+{% for p in sorted_2022 %}{{ p.content }}{% endfor %}
 
+<h2 id="thesis">Thesis</h2>
+{% for p in thesis %}{{ p.content }}{% endfor %}
 
-
-### 2025
-<hr>
-{% assign papers_2025 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2025/'"
-  | sort: "name" | reverse %}
-
-{% for p in papers_2025 %}
-  {{ p.content }}
-{% endfor %}
-
-
-
-### 2024
-<hr>
-{% assign papers_2024 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2024/'"
-  | sort: "name" | reverse %}
-
-{% for p in papers_2024 %}
-  {{ p.content }}
-{% endfor %}
-
-
-
-### 2022
-<hr>
-{% assign papers_2022 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2022/'"
-  | sort: "name" | reverse %}
-
-{% for p in papers_2022 %}
-  {{ p.content }}
-{% endfor %}
+<h2 id="design-work">Design Work</h2>
+{% for p in design %}{{ p.content }}{% endfor %}
 
 
 
