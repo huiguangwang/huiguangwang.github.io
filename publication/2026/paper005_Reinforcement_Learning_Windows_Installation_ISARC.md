@@ -8,10 +8,10 @@ target="_blank"></a>
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/under_review.png">
+<img src="/web_resources\post\ZK\isarc_windows_installation.png">
 
-<span class="cover-badge">
-Under Review
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>
@@ -28,7 +28,7 @@ Zekai Jin, <strong>Huiguang Wang</strong>, Jiaduo Xing, Yi Shao<sup>*</sup>
 </p>
 
 <div class="paper-venue">
-<!-- Under Review -->
+International Symposium on Automation and Robotics in Construction, ISARC 2026 (EI Compendex)
 </div>
 
 
