@@ -9,16 +9,20 @@ comments: True
 ---
 
 
+{% comment %} 1. 先抓取各年份的数据 {% endcomment %}
 {% assign p2026 = site.pages | where_exp:"p","p.path contains 'publication/2026/'" %}
 {% assign p2025 = site.pages | where_exp:"p","p.path contains 'publication/2025/'" %}
 {% assign p2024 = site.pages | where_exp:"p","p.path contains 'publication/2024/'" %}
 {% assign p2022 = site.pages | where_exp:"p","p.path contains 'publication/2022/'" %}
 
+{% comment %} 2. 紧接着进行累加，不要漏掉任何一个变量 {% endcomment %}
 {% assign paper_total = 0 %}
-{% assign paper_total = paper_total | plus: p2026.size %}
-{% assign paper_total = paper_total | plus: p2025.size %}
-{% assign paper_total = paper_total | plus: p2024.size %}
-{% assign paper_total = paper_total | plus: p2022.size %}
+{% assign n26 = p2026 | size %}
+{% assign n25 = p2025 | size %}
+{% assign n24 = p2024 | size %}
+{% assign n22 = p2022 | size %}
+
+{% assign paper_total = n26 | plus: n25 | plus: n24 | plus: n22 %}
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
