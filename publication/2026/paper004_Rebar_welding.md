@@ -1,7 +1,7 @@
 <div class="paper-card">
 
 <a class="card-link"
-href="#"
+href="https://huiguangwang.top/tutorial/Rebar_welding/"
 target="_blank"></a>
 
 <div class="paper-inner">
