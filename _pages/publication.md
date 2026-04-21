@@ -77,7 +77,7 @@ comments: True
 
 <b>* means corresponding author and † means co-first author</b>
 
-
+<!-- 
 ### 2026
 <hr>
 
@@ -87,7 +87,35 @@ comments: True
 
 {% for p in papers_2026 %}
   {{ p.content }}
-{% endfor %}
+{% endfor %} -->
+
+
+### 2026
+<hr>
+
+{% assign papers_2026 = site.pages
+  | where_exp: "p", "p.path contains 'publication/2026/'"
+  | sort: "name" | reverse %}
+
+<details>
+  <summary style="cursor: pointer; color: #3366cc; font-weight: bold; margin-bottom: 10px;">
+    ▶ Click to view 2026 publications ({{ papers_2026 | size }} papers)
+  </summary>
+  
+  <div style="padding-left: 15px; border-left: 2px solid #eee;">
+    {% for p in papers_2026 %}
+      {{ p.content }}
+    {% endfor %}
+  </div>
+</details>
+
+<style>
+  /* 去掉原生箭头在某些浏览器下的默认样式（可选） */
+  details summary::-webkit-details-marker { display: none; }
+  details[open] summary { color: #000; }
+  details[open] summary::before { content: "▼ "; }
+  details:not([open]) summary::before { content: "▶ "; }
+</style>
 
 
 
