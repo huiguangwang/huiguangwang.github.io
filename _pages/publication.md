@@ -77,17 +77,7 @@ comments: True
 
 <b>* means corresponding author and † means co-first author</b>
 
-<!-- 
-### 2026
-<hr>
 
-{% assign papers_2026 = site.pages
-  | where_exp: "p", "p.path contains 'publication/2026/'"
-  | sort: "name" | reverse %}
-
-{% for p in papers_2026 %}
-  {{ p.content }}
-{% endfor %} -->
 
 
 ### 2026
