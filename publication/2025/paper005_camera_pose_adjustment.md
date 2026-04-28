@@ -8,10 +8,10 @@ target="_blank"></a>
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/AnyDirTying.png">
+<img src="/web_resources\post\Camera_pose\PNP.png">
 
-<span class="cover-badge">
-Under Review
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>
@@ -28,22 +28,16 @@ Shaopeng Xu, Jingjing Guo, <strong>Huiguang Wang</strong>, Lu Deng, Peng Shi, Li
 </p>
 
 <div class="paper-venue">
-<!-- Under Review -->
+Automation in Construction, Impact Factor: 11.5 (SCI, Q1)
 </div>
 
 
 <div class="btn-row">
 
 <a class="paper-btn"
-href="https://huiguangwang.top/tutorial/Rebar_welding/"
-target="_blank">
-📄 Page
-</a>
-
-<a class="paper-btn"
-href="https://youtu.be/uixmualasgU"
-target="_blank">
-🎬 Demo
+    href="https://www.sciencedirect.com/science/article/pii/S0926580526002116"
+    target="_blank">
+  📑 PDF
 </a>
 
 </div>
