@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="/web_resources/publication/papers/剪力钉专利.pdf"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

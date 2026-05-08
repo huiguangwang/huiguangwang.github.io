@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://www.iaarc.org/publications/2025_proceedings_of_the_42nd_isarc_montreal_canada/vision-guided_camera_pose_estimation_for_robotic_rebar_tying.html"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

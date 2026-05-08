@@ -1,8 +1,6 @@
 <div class="paper-card year-2025">
 
-<a class="card-link"
-href="https://www.sciencedirect.com/science/article/pii/S0926580525000299"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

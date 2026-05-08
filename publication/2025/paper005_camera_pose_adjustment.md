@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://huiguangwang.top/tutorial/Rebar_welding/"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
@@ -35,7 +33,7 @@ Automation in Construction, Impact Factor: 11.5 (SCI, Q1)
 <div class="btn-row">
 
 <a class="paper-btn"
-    href="https://www.sciencedirect.com/science/article/pii/S0926580526002116"
+    href="https://www.sciencedirect.com/science/article/pii/S0926580526002414?fr=RR-2&ref=pdf_download&rr=9f8965ef58cda2eb"
     target="_blank">
   📑 PDF
 </a>

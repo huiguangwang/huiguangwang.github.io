@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="/web_resources/publication/papers/一种钢板组合梁桥的防腹板屈曲的耗能支撑装置.pdf"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://1drv.ms/b/c/665d3e10d9989786/Edo3rsUX6fREsHe72qDqd7cBvy2nt5FRvkwDcaHcRghHlw?e=JJledX"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

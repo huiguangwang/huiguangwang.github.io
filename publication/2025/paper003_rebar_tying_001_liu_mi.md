@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://www.sciencedirect.com/science/article/pii/S0926580525000391"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

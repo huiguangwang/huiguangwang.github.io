@@ -1,8 +1,6 @@
 <div class="paper-card year-2025">
 
-<a class="card-link"
-href="#"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

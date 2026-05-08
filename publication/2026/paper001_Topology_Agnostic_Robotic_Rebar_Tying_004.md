@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://huiguangwang.top/tutorial/Topology-Agnostic-Robotic-Rebar-Tying/"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

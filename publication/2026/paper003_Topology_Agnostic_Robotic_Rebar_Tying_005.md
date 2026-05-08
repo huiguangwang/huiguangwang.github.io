@@ -209,8 +209,8 @@ target="_blank"></a>
 
 <img src="/web_resources/publication/picture/under_review.png">
 
-<span class="cover-badge">
-Under Review
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>
@@ -227,7 +227,7 @@ Geometry-Driven Perception and Action for Topology-Agnostic Robotic Rebar Tying
 </p>
 
 <div class="paper-venue">
-<!-- Automation in Construction, Impact Factor: 11.5 (SCI, Q1) -->
+Automation in Construction, Impact Factor: 11.5 (SCI, Q1)
 </div>
 
 <div class="btn-row">

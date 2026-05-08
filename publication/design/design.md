@@ -1,9 +1,7 @@
 <!-- Project 1 -->
 <div class="paper-card">
 
-<a class="card-link"
-href="https://youtu.be/Cu3-2oeKpLU"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
@@ -39,9 +37,7 @@ The Special Prize of the 3rd National Undergraduate Structural Design Informatio
 <!-- Project 2 -->
 <div class="paper-card">
 
-<a class="card-link"
-href="https://1drv.ms/b/c/665d3e10d9989786/EYEzso2s4h1GgeS5zT7_h60B5P38pqV2n8il2jLg_AvylA?e=tZSqFo"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
@@ -79,9 +75,7 @@ The First Prize of the 3rd Bridge Design Competition in Anhui Province
 <!-- Project 3 -->
 <div class="paper-card">
 
-<a class="card-link"
-href="https://1drv.ms/b/c/665d3e10d9989786/EeTTcBc7KSBFr4Ng_MxCukgB2kKhsMT8vDhOWA-XMIOrbw?e=FbPP15"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
@@ -118,9 +112,7 @@ The Foundation Design of an Office Building
 <!-- Project 4 -->
 <div class="paper-card">
 
-<a class="card-link"
-href="https://1drv.ms/f/c/665d3e10d9989786/EifDS5bZIa5Oqe1KfzQLEokB3jiGWjvol_l8IM3q2qmRYg?e=Ikm33m"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
@@ -156,9 +148,7 @@ The Course Design of Building Architecture
 <!-- Project 5 -->
 <div class="paper-card">
 
-<a class="card-link"
-href="https://1drv.ms/b/c/665d3e10d9989786/EeKIQzt6xxVJlmWx7CcQUhcBuvvDqBGlekdB2SBiOritZg?e=mElbBt"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
@@ -194,9 +184,7 @@ The Course Design of Steel Structure
 <!-- Project 6 -->
 <div class="paper-card">
 
-<a class="card-link"
-href="https://1drv.ms/f/c/665d3e10d9989786/Eu8fSFAlSiVLt4aE0CP2maoBf2r24PunBy5VAe3tIEISKw?e=9vj6Mz"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

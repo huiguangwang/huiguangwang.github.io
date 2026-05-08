@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://www.iaarc.org/publications/fulltext/022_ISARC_2024_Paper_225.pdf"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 

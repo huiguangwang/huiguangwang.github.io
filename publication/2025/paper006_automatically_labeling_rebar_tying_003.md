@@ -1,8 +1,6 @@
 <div class="paper-card">
 
-<a class="card-link"
-href="https://huiguangwang.top/tutorial/Automatically_labeling/"
-target="_blank"></a>
+
 
 <div class="paper-inner">
 
