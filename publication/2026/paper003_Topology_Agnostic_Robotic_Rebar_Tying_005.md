@@ -207,7 +207,7 @@ target="_blank"></a>
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/under_review.png">
+<img src="/web_resources\post\Topology_Agnostic\tying.png">
 
 <span class="cover-badge" style="background:rgba(255,0,0,0.9);">
 Accepted
