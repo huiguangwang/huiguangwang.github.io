@@ -88,7 +88,7 @@ categories:
 
 <div style="text-align: center;">
   <p style="font-size: 30px; font-weight: bold;">
-    2D Optial Tying Angle
+    2D Optimal Tying Angle
   </p>
 </div>
 
