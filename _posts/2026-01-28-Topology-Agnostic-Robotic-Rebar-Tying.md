@@ -86,16 +86,3 @@ categories:
   <img src="/web_resources\post\Topology_Agnostic\tying.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
 
-<div style="text-align: center;">
-  <p style="font-size: 30px; font-weight: bold;">
-    2D Optimal Tying Angle
-  </p>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-  <img src="/web_resources\post\Topology_Agnostic\curve.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
-  <img src="/web_resources\post\Topology_Agnostic\panel.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
-</div>
