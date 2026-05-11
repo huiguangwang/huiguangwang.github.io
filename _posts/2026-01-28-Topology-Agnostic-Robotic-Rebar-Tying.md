@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.1"
   overlay_image: /web_resources/post/Topology_Agnostic/IMG_7263.PNG
   actions:
-    - label: "Code"
-      url: "https://github.com/huiguangwang"
     - label: "Dataset"
       url: "https://huggingface.co/Huiguang"
 excerpt: "We show that diverse rebar joints can be reliably annotated from minimal data using a geometry-driven, two-stage pipeline, enabling robust sim-to-real generalization for robotic rebar tying."
@@ -66,7 +64,24 @@ categories:
 
 
 <div style="text-align: center;">
-  <p style="color: red; font-size: 25px; font-weight: bold;">
-    The code and dataset will be made publicly available after the publication of this paper.
+  <p style="font-size: 30px; font-weight: bold;">
+    Abstract
   </p>
+</div>
+
+<div style="text-align: justify;">
+  <p style="margin-top: 10px;">Robust detection of rebar joints remains difficult due to geometric diversity, irregular intersection configurations, and noise introduced by real-world sensing. Prior approaches predominantly depend on appearance-based cues and topology-dependent supervision, which constrains their ability to generalize. This paper reframes rebar joint perception as a geometry-dominated structural inference task and introduces a two-stage learning framework that promotes the acquisition of geometric invariants without explicit domain adaptation. In the first stage, a synthetic dataset containing only geometric information is generated to train a detector, which is subsequently fixed and used as an automatic annotator to produce reliable pseudo-labels for simple cross-type intersections in real-world images. In the second stage, a new model is trained from scratch using these pseudo-labeled real samples, thereby incorporating realistic geometric variations without manual labeling effort. Building on this formulation, a unified perception-to-action pipeline is developed that operates independently of intersection topology for robotic rebar tying.
+  </p>
+  <p><strong>Keywords:</strong> Geometry-dominated perception; Rebar joint detection; Sim-to-real generalization; Topology-agnostic perception; Robotic rebar tying
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <p style="font-size: 30px; font-weight: bold;">
+    Framework
+  </p>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+  <img src="/web_resources\post\Topology_Agnostic\tying.png" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
 </div>
