@@ -9,6 +9,8 @@ header:
   actions:
     - label: "Dataset"
       url: "https://huggingface.co/Huiguang"
+    - label: "PDF"
+      url: "https://www.sciencedirect.com/science/article/pii/S0926580526002542"
 excerpt: "We show that diverse rebar joints can be reliably annotated from minimal data using a geometry-driven, two-stage pipeline, enabling robust sim-to-real generalization for robotic rebar tying."
 
 feature_row:
