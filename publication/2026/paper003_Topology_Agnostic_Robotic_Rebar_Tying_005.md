@@ -240,7 +240,7 @@ target="_blank">
 
 <!-- ✅ 新增 PDF 按钮 -->
 <a class="paper-btn"
-    href=""
+    href="https://www.sciencedirect.com/science/article/pii/S0926580526002542"
     target="_blank">
   📑 PDF
 </a>
