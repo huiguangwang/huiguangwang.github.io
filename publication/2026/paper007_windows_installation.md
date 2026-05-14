@@ -6,11 +6,13 @@
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/under_review.png">
+<img src="/web_resources\post\ZK\windows_AEI.png">
 
-<span class="cover-badge">
-Under Review
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
+
+</div>
 
 </div>
 
@@ -26,7 +28,7 @@ Zekai Jin, <strong>Huiguang Wang</strong>, Xiaoning Sun, Yi Shao<sup>*</sup>
 </p>
 
 <div class="paper-venue">
-<!-- Under Review -->
+Advanced Engineering Informatics, Impact Factor: 9.9 (SCI, Q1)
 </div>
 
 
