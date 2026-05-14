@@ -6,7 +6,7 @@
 
 <div class="paper-cover">
 
-<img src="/web_resources/publication/picture/under_review.png">
+<img src="/web_resources\post\ZK\windows_AEI.png">
 
 <span class="cover-badge">
 Under Review
