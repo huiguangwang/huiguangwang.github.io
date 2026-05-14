@@ -8,8 +8,8 @@
 
 <img src="/web_resources\post\ZK\windows_AEI.png">
 
-<span class="cover-badge">
-Under Review
+<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
+Accepted
 </span>
 
 </div>
