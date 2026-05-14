@@ -26,7 +26,7 @@ Zekai Jin, <strong>Huiguang Wang</strong>, Xiaoning Sun, Yi Shao<sup>*</sup>
 </p>
 
 <div class="paper-venue">
-<!-- Under Review -->
+Advanced Engineering Informatics, Impact Factor: 9.9 (SCI, Q1)
 </div>
 
 
