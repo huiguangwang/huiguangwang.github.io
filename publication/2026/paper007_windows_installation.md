@@ -12,9 +12,7 @@
 Accepted
 </span>
 
-</div>
 
-</div>
 
 
 <div class="paper-content">
@@ -50,7 +48,7 @@ target="_blank">
 </a>
 
 
-</div>
+
 
 
 <div class="keyword-row">
@@ -59,8 +57,4 @@ target="_blank">
 <span class="keyword">Reinforcement learning</span>
 <span class="keyword">Installer-in-the-Loop</span>
 
-</div>
 
-</div>
-</div>
-</div>
