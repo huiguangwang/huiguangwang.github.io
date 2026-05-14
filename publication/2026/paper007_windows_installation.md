@@ -6,13 +6,13 @@
 
 <div class="paper-cover">
 
-<img src="/web_resources\post\ZK\windows_AEI.png">
+<img src="/web_resources/publication/picture/under_review.png">
 
-<span class="cover-badge" style="background:rgba(255,0,0,0.9);">
-Accepted
+<span class="cover-badge">
+Under Review
 </span>
 
-
+</div>
 
 
 <div class="paper-content">
@@ -26,7 +26,7 @@ Zekai Jin, <strong>Huiguang Wang</strong>, Xiaoning Sun, Yi Shao<sup>*</sup>
 </p>
 
 <div class="paper-venue">
-Advanced Engineering Informatics, Impact Factor: 9.9 (SCI, Q1)
+<!-- Under Review -->
 </div>
 
 
@@ -48,7 +48,7 @@ target="_blank">
 </a>
 
 
-
+</div>
 
 
 <div class="keyword-row">
@@ -57,4 +57,8 @@ target="_blank">
 <span class="keyword">Reinforcement learning</span>
 <span class="keyword">Installer-in-the-Loop</span>
 
+</div>
 
+</div>
+</div>
+</div>
