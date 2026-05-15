@@ -18,7 +18,7 @@ Accepted
 <div class="paper-content">
 
 <div class="paper-title">
-An Automated Welding Seam Extraction and Path Planning Method for Steel Box Girders Based on 3D Vision
+Automated Welding Seam Extraction and Path Planning Method for Steel Box Girders Based on 3D Vision
 </div>
 
 <p class="paper-authors">
