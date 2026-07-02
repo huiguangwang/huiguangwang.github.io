@@ -36,7 +36,7 @@ Advanced Engineering Informatics, Impact Factor: 9.9 (SCI, Q1)
 <!-- 示例 -->
 
 <a class="paper-btn"
-href=""
+href="https://www.sciencedirect.com/science/article/pii/S147403462600515X?via%3Dihub"
 target="_blank">
 📑 PDF
 </a>
