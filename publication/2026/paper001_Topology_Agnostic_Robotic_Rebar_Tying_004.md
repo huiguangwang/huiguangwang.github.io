@@ -39,7 +39,7 @@ target="_blank">
 
 <!-- ✅ 新增 PDF 按钮 -->
 <a class="paper-btn"
-    href=""
+    href="https://www.iaarc.org/publications/fulltext/ISARC2026_1075.pdf"
     target="_blank">
   📑 PDF
 </a>
